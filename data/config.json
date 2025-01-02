@@ -1,0 +1,10 @@
+{
+  "io": {
+    "out_folder": "./out"
+  },
+  "synth_generator": {
+    "total_objects": 5000,
+    "test_percentage": 0.3,
+    "validation_percentage": 0.2
+  }
+}

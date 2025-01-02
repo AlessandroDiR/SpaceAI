@@ -1,0 +1,1001 @@
+,Input,Action,Asset,Start,End
+0,Modifica la prenotazione di desk 40 al giorno 23/02/2025 dalle 13:58 alle 22:58,modifica,desk 40,2025-02-23T13:58:24.472Z,2025-02-23T22:58:24.472Z
+1,Modifica la prenotazione di desk 18 al giorno 28/03/2025 dalle 02:28 alle 12:28,modifica,desk 18,2025-03-28T02:28:24.474Z,2025-03-28T12:28:24.474Z
+2,Prenota sala riunioni per il giorno 30/01/2025 dalle 03:43 alle 08:43,prenota,sala riunioni,2025-01-30T03:43:24.474Z,2025-01-30T08:43:24.474Z
+3,Modifica la prenotazione di sala riunioni al giorno 19/01/2025 dalle 12:13 alle 18:13,modifica,sala riunioni,2025-01-19T12:13:24.474Z,2025-01-19T18:13:24.474Z
+4,Modifica la prenotazione di desk 40 al giorno 19/03/2025 dalle 08:58 alle 18:58,modifica,desk 40,2025-03-19T08:58:24.474Z,2025-03-19T18:58:24.474Z
+5,Modifica la prenotazione di ufficio A al giorno 29/01/2025 dalle 01:28 alle 05:28,modifica,ufficio A,2025-01-29T01:28:24.474Z,2025-01-29T05:28:24.474Z
+6,Prenota sala riunioni per il giorno 22/03/2025 dalle 01:43 alle 04:43,prenota,sala riunioni,2025-03-22T01:43:24.474Z,2025-03-22T04:43:24.474Z
+7,Cancella la prenotazione di desk 40 per il giorno 03/01/2025 dalle 04:28 alle 05:28,cancella,desk 40,2025-01-03T04:28:24.474Z,2025-01-03T05:28:24.474Z
+8,Prenota ufficio B per il giorno 28/02/2025 dalle 06:13 alle 12:13,prenota,ufficio B,2025-02-28T06:13:24.474Z,2025-02-28T12:13:24.474Z
+9,Cancella la prenotazione di ufficio B per il giorno 18/01/2025 dalle 03:13 alle 10:13,cancella,ufficio B,2025-01-18T03:13:24.474Z,2025-01-18T10:13:24.474Z
+10,Cancella la prenotazione di desk 18 per il giorno 04/03/2025 dalle 04:58 alle 13:58,cancella,desk 18,2025-03-04T04:58:24.474Z,2025-03-04T13:58:24.474Z
+11,Cancella la prenotazione di ufficio B per il giorno 13/01/2025 dalle 13:43 alle 16:43,cancella,ufficio B,2025-01-13T13:43:24.474Z,2025-01-13T16:43:24.474Z
+12,Modifica la prenotazione di desk 40 al giorno 07/02/2025 dalle 10:43 alle 17:43,modifica,desk 40,2025-02-07T10:43:24.474Z,2025-02-07T17:43:24.474Z
+13,Modifica la prenotazione di ufficio A al giorno 06/03/2025 dalle 10:58 alle 12:58,modifica,ufficio A,2025-03-06T10:58:24.474Z,2025-03-06T12:58:24.474Z
+14,Modifica la prenotazione di ufficio A al giorno 27/03/2025 dalle 04:43 alle 05:43,modifica,ufficio A,2025-03-27T04:43:24.474Z,2025-03-27T05:43:24.474Z
+15,Cancella la prenotazione di desk 40 per il giorno 03/03/2025 dalle 11:58 alle 18:58,cancella,desk 40,2025-03-03T11:58:24.474Z,2025-03-03T18:58:24.474Z
+16,Prenota ufficio B per il giorno 15/03/2025 dalle 13:43 alle 20:43,prenota,ufficio B,2025-03-15T13:43:24.474Z,2025-03-15T20:43:24.474Z
+17,Cancella la prenotazione di auditorium per il giorno 04/01/2025 dalle 03:13 alle 09:13,cancella,auditorium,2025-01-04T03:13:24.474Z,2025-01-04T09:13:24.474Z
+18,Modifica la prenotazione di auditorium al giorno 03/01/2025 dalle 08:58 alle 14:58,modifica,auditorium,2025-01-03T08:58:24.474Z,2025-01-03T14:58:24.474Z
+19,Prenota sala meeting per il giorno 04/02/2025 dalle 07:28 alle 17:28,prenota,sala meeting,2025-02-04T07:28:24.474Z,2025-02-04T17:28:24.474Z
+20,Cancella la prenotazione di sala riunioni per il giorno 26/03/2025 dalle 04:13 alle 11:13,cancella,sala riunioni,2025-03-26T04:13:24.474Z,2025-03-26T11:13:24.474Z
+21,Prenota desk 18 per il giorno 03/04/2025 dalle 03:58 alle 04:58,prenota,desk 18,2025-04-03T03:58:24.474Z,2025-04-03T04:58:24.474Z
+22,Modifica la prenotazione di desk 40 al giorno 06/01/2025 dalle 13:13 alle 23:13,modifica,desk 40,2025-01-06T13:13:24.474Z,2025-01-06T23:13:24.474Z
+23,Modifica la prenotazione di ufficio A al giorno 06/03/2025 dalle 02:13 alle 11:13,modifica,ufficio A,2025-03-06T02:13:24.474Z,2025-03-06T11:13:24.474Z
+24,Prenota sala riunioni per il giorno 18/02/2025 dalle 23:43 alle 02:43,prenota,sala riunioni,2025-02-18T23:43:24.474Z,2025-02-19T02:43:24.474Z
+25,Prenota sala riunioni per il giorno 25/02/2025 dalle 12:28 alle 13:28,prenota,sala riunioni,2025-02-25T12:28:24.474Z,2025-02-25T13:28:24.474Z
+26,Cancella la prenotazione di desk 18 per il giorno 02/04/2025 dalle 23:58 alle 01:58,cancella,desk 18,2025-04-02T23:58:24.475Z,2025-04-03T01:58:24.475Z
+27,Modifica la prenotazione di sala meeting al giorno 27/01/2025 dalle 09:28 alle 15:28,modifica,sala meeting,2025-01-27T09:28:24.475Z,2025-01-27T15:28:24.475Z
+28,Modifica la prenotazione di desk 40 al giorno 12/02/2025 dalle 13:43 alle 23:43,modifica,desk 40,2025-02-12T13:43:24.475Z,2025-02-12T23:43:24.475Z
+29,Modifica la prenotazione di sala meeting al giorno 10/03/2025 dalle 00:13 alle 07:13,modifica,sala meeting,2025-03-10T00:13:24.475Z,2025-03-10T07:13:24.475Z
+30,Modifica la prenotazione di desk 18 al giorno 10/01/2025 dalle 00:43 alle 09:43,modifica,desk 18,2025-01-10T00:43:24.475Z,2025-01-10T09:43:24.475Z
+31,Prenota desk 18 per il giorno 06/02/2025 dalle 00:43 alle 08:43,prenota,desk 18,2025-02-06T00:43:24.475Z,2025-02-06T08:43:24.475Z
+32,Prenota sala meeting per il giorno 21/03/2025 dalle 03:13 alle 06:13,prenota,sala meeting,2025-03-21T03:13:24.475Z,2025-03-21T06:13:24.475Z
+33,Modifica la prenotazione di desk 18 al giorno 03/01/2025 dalle 03:58 alle 12:58,modifica,desk 18,2025-01-03T03:58:24.475Z,2025-01-03T12:58:24.475Z
+34,Cancella la prenotazione di sala riunioni per il giorno 15/02/2025 dalle 06:28 alle 16:28,cancella,sala riunioni,2025-02-15T06:28:24.475Z,2025-02-15T16:28:24.475Z
+35,Cancella la prenotazione di sala riunioni per il giorno 17/01/2025 dalle 13:28 alle 16:28,cancella,sala riunioni,2025-01-17T13:28:24.475Z,2025-01-17T16:28:24.475Z
+36,Modifica la prenotazione di sala riunioni al giorno 26/01/2025 dalle 04:28 alle 07:28,modifica,sala riunioni,2025-01-26T04:28:24.475Z,2025-01-26T07:28:24.475Z
+37,Prenota auditorium per il giorno 25/03/2025 dalle 05:13 alle 07:13,prenota,auditorium,2025-03-25T05:13:24.475Z,2025-03-25T07:13:24.475Z
+38,Modifica la prenotazione di auditorium al giorno 11/02/2025 dalle 12:43 alle 15:43,modifica,auditorium,2025-02-11T12:43:24.475Z,2025-02-11T15:43:24.475Z
+39,Cancella la prenotazione di sala riunioni per il giorno 20/02/2025 dalle 10:58 alle 13:58,cancella,sala riunioni,2025-02-20T10:58:24.475Z,2025-02-20T13:58:24.475Z
+40,Cancella la prenotazione di auditorium per il giorno 16/03/2025 dalle 05:13 alle 09:13,cancella,auditorium,2025-03-16T05:13:24.475Z,2025-03-16T09:13:24.475Z
+41,Prenota sala meeting per il giorno 28/01/2025 dalle 01:58 alle 06:58,prenota,sala meeting,2025-01-28T01:58:24.475Z,2025-01-28T06:58:24.475Z
+42,Modifica la prenotazione di ufficio A al giorno 05/02/2025 dalle 01:13 alle 07:13,modifica,ufficio A,2025-02-05T01:13:24.475Z,2025-02-05T07:13:24.475Z
+43,Modifica la prenotazione di sala meeting al giorno 16/02/2025 dalle 12:13 alle 15:13,modifica,sala meeting,2025-02-16T12:13:24.475Z,2025-02-16T15:13:24.475Z
+44,Prenota desk 40 per il giorno 18/03/2025 dalle 05:43 alle 14:43,prenota,desk 40,2025-03-18T05:43:24.475Z,2025-03-18T14:43:24.475Z
+45,Modifica la prenotazione di auditorium al giorno 02/04/2025 dalle 05:58 alle 10:58,modifica,auditorium,2025-04-02T05:58:24.475Z,2025-04-02T10:58:24.475Z
+46,Prenota sala meeting per il giorno 02/04/2025 dalle 07:58 alle 09:58,prenota,sala meeting,2025-04-02T07:58:24.475Z,2025-04-02T09:58:24.475Z
+47,Modifica la prenotazione di desk 40 al giorno 29/01/2025 dalle 03:43 alle 11:43,modifica,desk 40,2025-01-29T03:43:24.475Z,2025-01-29T11:43:24.475Z
+48,Cancella la prenotazione di sala riunioni per il giorno 17/01/2025 dalle 07:43 alle 15:43,cancella,sala riunioni,2025-01-17T07:43:24.475Z,2025-01-17T15:43:24.475Z
+49,Prenota ufficio A per il giorno 19/03/2025 dalle 04:58 alle 14:58,prenota,ufficio A,2025-03-19T04:58:24.475Z,2025-03-19T14:58:24.475Z
+50,Cancella la prenotazione di desk 18 per il giorno 19/03/2025 dalle 13:28 alle 19:28,cancella,desk 18,2025-03-19T13:28:24.475Z,2025-03-19T19:28:24.475Z
+51,Modifica la prenotazione di sala riunioni al giorno 24/03/2025 dalle 04:28 alle 07:28,modifica,sala riunioni,2025-03-24T04:28:24.475Z,2025-03-24T07:28:24.475Z
+52,Cancella la prenotazione di ufficio A per il giorno 14/02/2025 dalle 04:28 alle 07:28,cancella,ufficio A,2025-02-14T04:28:24.475Z,2025-02-14T07:28:24.475Z
+53,Cancella la prenotazione di sala meeting per il giorno 23/01/2025 dalle 06:43 alle 07:43,cancella,sala meeting,2025-01-23T06:43:24.475Z,2025-01-23T07:43:24.475Z
+54,Cancella la prenotazione di desk 40 per il giorno 22/03/2025 dalle 07:13 alle 14:13,cancella,desk 40,2025-03-22T07:13:24.475Z,2025-03-22T14:13:24.475Z
+55,Cancella la prenotazione di desk 40 per il giorno 03/02/2025 dalle 03:58 alle 13:58,cancella,desk 40,2025-02-03T03:58:24.475Z,2025-02-03T13:58:24.475Z
+56,Cancella la prenotazione di ufficio A per il giorno 30/03/2025 dalle 05:58 alle 06:58,cancella,ufficio A,2025-03-30T05:58:24.475Z,2025-03-30T06:58:24.475Z
+57,Prenota desk 40 per il giorno 08/03/2025 dalle 01:13 alle 08:13,prenota,desk 40,2025-03-08T01:13:24.475Z,2025-03-08T08:13:24.475Z
+58,Cancella la prenotazione di ufficio B per il giorno 23/02/2025 dalle 08:28 alle 11:28,cancella,ufficio B,2025-02-23T08:28:24.475Z,2025-02-23T11:28:24.475Z
+59,Modifica la prenotazione di auditorium al giorno 10/02/2025 dalle 13:43 alle 23:43,modifica,auditorium,2025-02-10T13:43:24.475Z,2025-02-10T23:43:24.475Z
+60,Prenota auditorium per il giorno 28/03/2025 dalle 04:28 alle 06:28,prenota,auditorium,2025-03-28T04:28:24.475Z,2025-03-28T06:28:24.475Z
+61,Cancella la prenotazione di desk 40 per il giorno 21/01/2025 dalle 11:58 alle 19:58,cancella,desk 40,2025-01-21T11:58:24.475Z,2025-01-21T19:58:24.475Z
+62,Cancella la prenotazione di auditorium per il giorno 01/03/2025 dalle 23:43 alle 03:43,cancella,auditorium,2025-03-01T23:43:24.475Z,2025-03-02T03:43:24.475Z
+63,Prenota sala meeting per il giorno 11/02/2025 dalle 00:43 alle 04:43,prenota,sala meeting,2025-02-11T00:43:24.475Z,2025-02-11T04:43:24.475Z
+64,Prenota ufficio A per il giorno 14/01/2025 dalle 10:43 alle 13:43,prenota,ufficio A,2025-01-14T10:43:24.475Z,2025-01-14T13:43:24.475Z
+65,Modifica la prenotazione di ufficio B al giorno 19/02/2025 dalle 00:13 alle 03:13,modifica,ufficio B,2025-02-19T00:13:24.475Z,2025-02-19T03:13:24.475Z
+66,Cancella la prenotazione di sala riunioni per il giorno 04/03/2025 dalle 08:13 alle 12:13,cancella,sala riunioni,2025-03-04T08:13:24.475Z,2025-03-04T12:13:24.475Z
+67,Cancella la prenotazione di desk 18 per il giorno 20/02/2025 dalle 13:13 alle 17:13,cancella,desk 18,2025-02-20T13:13:24.475Z,2025-02-20T17:13:24.475Z
+68,Prenota ufficio A per il giorno 19/01/2025 dalle 04:43 alle 11:43,prenota,ufficio A,2025-01-19T04:43:24.475Z,2025-01-19T11:43:24.475Z
+69,Cancella la prenotazione di sala meeting per il giorno 30/03/2025 dalle 11:13 alle 21:13,cancella,sala meeting,2025-03-30T11:13:24.475Z,2025-03-30T21:13:24.475Z
+70,Cancella la prenotazione di ufficio B per il giorno 12/01/2025 dalle 05:13 alle 15:13,cancella,ufficio B,2025-01-12T05:13:24.475Z,2025-01-12T15:13:24.475Z
+71,Prenota auditorium per il giorno 21/03/2025 dalle 01:43 alle 07:43,prenota,auditorium,2025-03-21T01:43:24.475Z,2025-03-21T07:43:24.475Z
+72,Cancella la prenotazione di sala meeting per il giorno 08/03/2025 dalle 12:28 alle 22:28,cancella,sala meeting,2025-03-08T12:28:24.475Z,2025-03-08T22:28:24.475Z
+73,Modifica la prenotazione di desk 40 al giorno 22/02/2025 dalle 13:28 alle 17:28,modifica,desk 40,2025-02-22T13:28:24.475Z,2025-02-22T17:28:24.475Z
+74,Prenota ufficio A per il giorno 26/01/2025 dalle 23:43 alle 04:43,prenota,ufficio A,2025-01-26T23:43:24.475Z,2025-01-27T04:43:24.475Z
+75,Cancella la prenotazione di sala riunioni per il giorno 15/02/2025 dalle 05:43 alle 12:43,cancella,sala riunioni,2025-02-15T05:43:24.475Z,2025-02-15T12:43:24.475Z
+76,Prenota sala meeting per il giorno 11/02/2025 dalle 06:13 alle 07:13,prenota,sala meeting,2025-02-11T06:13:24.475Z,2025-02-11T07:13:24.475Z
+77,Cancella la prenotazione di ufficio A per il giorno 25/01/2025 dalle 02:13 alle 11:13,cancella,ufficio A,2025-01-25T02:13:24.475Z,2025-01-25T11:13:24.475Z
+78,Prenota ufficio A per il giorno 13/01/2025 dalle 04:28 alle 11:28,prenota,ufficio A,2025-01-13T04:28:24.475Z,2025-01-13T11:28:24.475Z
+79,Prenota auditorium per il giorno 12/02/2025 dalle 02:13 alle 10:13,prenota,auditorium,2025-02-12T02:13:24.475Z,2025-02-12T10:13:24.475Z
+80,Prenota ufficio A per il giorno 27/03/2025 dalle 10:13 alle 17:13,prenota,ufficio A,2025-03-27T10:13:24.475Z,2025-03-27T17:13:24.475Z
+81,Prenota sala meeting per il giorno 26/02/2025 dalle 03:28 alle 13:28,prenota,sala meeting,2025-02-26T03:28:24.475Z,2025-02-26T13:28:24.475Z
+82,Cancella la prenotazione di ufficio B per il giorno 19/02/2025 dalle 12:13 alle 18:13,cancella,ufficio B,2025-02-19T12:13:24.475Z,2025-02-19T18:13:24.475Z
+83,Modifica la prenotazione di sala meeting al giorno 17/01/2025 dalle 11:43 alle 18:43,modifica,sala meeting,2025-01-17T11:43:24.475Z,2025-01-17T18:43:24.475Z
+84,Modifica la prenotazione di desk 40 al giorno 21/02/2025 dalle 12:28 alle 15:28,modifica,desk 40,2025-02-21T12:28:24.475Z,2025-02-21T15:28:24.475Z
+85,Prenota sala meeting per il giorno 03/04/2025 dalle 08:58 alle 12:58,prenota,sala meeting,2025-04-03T08:58:24.475Z,2025-04-03T12:58:24.475Z
+86,Modifica la prenotazione di desk 40 al giorno 22/03/2025 dalle 11:13 alle 18:13,modifica,desk 40,2025-03-22T11:13:24.475Z,2025-03-22T18:13:24.475Z
+87,Prenota ufficio A per il giorno 07/02/2025 dalle 23:28 alle 07:28,prenota,ufficio A,2025-02-07T23:28:24.475Z,2025-02-08T07:28:24.475Z
+88,Cancella la prenotazione di sala meeting per il giorno 09/01/2025 dalle 13:58 alle 18:58,cancella,sala meeting,2025-01-09T13:58:24.475Z,2025-01-09T18:58:24.475Z
+89,Cancella la prenotazione di sala meeting per il giorno 30/03/2025 dalle 03:28 alle 12:28,cancella,sala meeting,2025-03-30T03:28:24.475Z,2025-03-30T12:28:24.475Z
+90,Cancella la prenotazione di auditorium per il giorno 09/02/2025 dalle 05:13 alle 06:13,cancella,auditorium,2025-02-09T05:13:24.475Z,2025-02-09T06:13:24.475Z
+91,Cancella la prenotazione di sala meeting per il giorno 10/02/2025 dalle 09:28 alle 19:28,cancella,sala meeting,2025-02-10T09:28:24.475Z,2025-02-10T19:28:24.475Z
+92,Prenota sala meeting per il giorno 07/01/2025 dalle 08:13 alle 12:13,prenota,sala meeting,2025-01-07T08:13:24.475Z,2025-01-07T12:13:24.475Z
+93,Prenota sala riunioni per il giorno 12/03/2025 dalle 00:43 alle 03:43,prenota,sala riunioni,2025-03-12T00:43:24.475Z,2025-03-12T03:43:24.475Z
+94,Modifica la prenotazione di ufficio A al giorno 27/02/2025 dalle 13:58 alle 19:58,modifica,ufficio A,2025-02-27T13:58:24.475Z,2025-02-27T19:58:24.475Z
+95,Cancella la prenotazione di desk 18 per il giorno 23/03/2025 dalle 03:13 alle 04:13,cancella,desk 18,2025-03-23T03:13:24.475Z,2025-03-23T04:13:24.475Z
+96,Prenota sala meeting per il giorno 18/02/2025 dalle 23:43 alle 09:43,prenota,sala meeting,2025-02-18T23:43:24.475Z,2025-02-19T09:43:24.475Z
+97,Modifica la prenotazione di desk 18 al giorno 15/01/2025 dalle 05:28 alle 11:28,modifica,desk 18,2025-01-15T05:28:24.475Z,2025-01-15T11:28:24.475Z
+98,Modifica la prenotazione di desk 18 al giorno 10/02/2025 dalle 06:13 alle 07:13,modifica,desk 18,2025-02-10T06:13:24.475Z,2025-02-10T07:13:24.475Z
+99,Prenota desk 18 per il giorno 04/02/2025 dalle 10:28 alle 17:28,prenota,desk 18,2025-02-04T10:28:24.475Z,2025-02-04T17:28:24.475Z
+100,Prenota desk 40 per il giorno 27/01/2025 dalle 08:58 alle 13:58,prenota,desk 40,2025-01-27T08:58:24.475Z,2025-01-27T13:58:24.475Z
+101,Modifica la prenotazione di ufficio B al giorno 13/03/2025 dalle 12:43 alle 13:43,modifica,ufficio B,2025-03-13T12:43:24.475Z,2025-03-13T13:43:24.475Z
+102,Cancella la prenotazione di ufficio B per il giorno 04/03/2025 dalle 03:13 alle 08:13,cancella,ufficio B,2025-03-04T03:13:24.475Z,2025-03-04T08:13:24.475Z
+103,Modifica la prenotazione di desk 18 al giorno 26/01/2025 dalle 03:28 alle 13:28,modifica,desk 18,2025-01-26T03:28:24.475Z,2025-01-26T13:28:24.475Z
+104,Cancella la prenotazione di auditorium per il giorno 30/03/2025 dalle 03:58 alle 04:58,cancella,auditorium,2025-03-30T03:58:24.475Z,2025-03-30T04:58:24.475Z
+105,Cancella la prenotazione di auditorium per il giorno 05/01/2025 dalle 12:13 alle 15:13,cancella,auditorium,2025-01-05T12:13:24.475Z,2025-01-05T15:13:24.475Z
+106,Cancella la prenotazione di sala meeting per il giorno 03/03/2025 dalle 08:58 alle 10:58,cancella,sala meeting,2025-03-03T08:58:24.475Z,2025-03-03T10:58:24.475Z
+107,Prenota auditorium per il giorno 05/01/2025 dalle 10:58 alle 14:58,prenota,auditorium,2025-01-05T10:58:24.475Z,2025-01-05T14:58:24.475Z
+108,Prenota ufficio B per il giorno 08/02/2025 dalle 11:13 alle 21:13,prenota,ufficio B,2025-02-08T11:13:24.475Z,2025-02-08T21:13:24.475Z
+109,Cancella la prenotazione di desk 18 per il giorno 20/03/2025 dalle 05:13 alle 13:13,cancella,desk 18,2025-03-20T05:13:24.475Z,2025-03-20T13:13:24.475Z
+110,Modifica la prenotazione di sala riunioni al giorno 15/02/2025 dalle 04:58 alle 10:58,modifica,sala riunioni,2025-02-15T04:58:24.475Z,2025-02-15T10:58:24.475Z
+111,Cancella la prenotazione di auditorium per il giorno 03/03/2025 dalle 13:13 alle 17:13,cancella,auditorium,2025-03-03T13:13:24.475Z,2025-03-03T17:13:24.475Z
+112,Modifica la prenotazione di desk 18 al giorno 24/01/2025 dalle 10:13 alle 15:13,modifica,desk 18,2025-01-24T10:13:24.475Z,2025-01-24T15:13:24.475Z
+113,Cancella la prenotazione di sala riunioni per il giorno 28/03/2025 dalle 12:28 alle 20:28,cancella,sala riunioni,2025-03-28T12:28:24.475Z,2025-03-28T20:28:24.475Z
+114,Modifica la prenotazione di sala meeting al giorno 13/01/2025 dalle 02:58 alle 07:58,modifica,sala meeting,2025-01-13T02:58:24.475Z,2025-01-13T07:58:24.475Z
+115,Cancella la prenotazione di desk 40 per il giorno 12/02/2025 dalle 07:13 alle 08:13,cancella,desk 40,2025-02-12T07:13:24.475Z,2025-02-12T08:13:24.475Z
+116,Prenota ufficio B per il giorno 18/03/2025 dalle 01:58 alle 11:58,prenota,ufficio B,2025-03-18T01:58:24.475Z,2025-03-18T11:58:24.475Z
+117,Cancella la prenotazione di ufficio A per il giorno 05/01/2025 dalle 11:58 alle 20:58,cancella,ufficio A,2025-01-05T11:58:24.475Z,2025-01-05T20:58:24.475Z
+118,Modifica la prenotazione di ufficio A al giorno 02/02/2025 dalle 05:43 alle 12:43,modifica,ufficio A,2025-02-02T05:43:24.475Z,2025-02-02T12:43:24.475Z
+119,Modifica la prenotazione di desk 40 al giorno 18/01/2025 dalle 01:13 alle 05:13,modifica,desk 40,2025-01-18T01:13:24.475Z,2025-01-18T05:13:24.475Z
+120,Prenota sala riunioni per il giorno 17/03/2025 dalle 03:43 alle 06:43,prenota,sala riunioni,2025-03-17T03:43:24.475Z,2025-03-17T06:43:24.475Z
+121,Modifica la prenotazione di ufficio A al giorno 14/03/2025 dalle 05:58 alle 09:58,modifica,ufficio A,2025-03-14T05:58:24.475Z,2025-03-14T09:58:24.475Z
+122,Cancella la prenotazione di ufficio B per il giorno 07/02/2025 dalle 04:58 alle 06:58,cancella,ufficio B,2025-02-07T04:58:24.475Z,2025-02-07T06:58:24.475Z
+123,Modifica la prenotazione di desk 18 al giorno 25/03/2025 dalle 11:58 alle 20:58,modifica,desk 18,2025-03-25T11:58:24.475Z,2025-03-25T20:58:24.475Z
+124,Modifica la prenotazione di ufficio B al giorno 22/02/2025 dalle 03:13 alle 11:13,modifica,ufficio B,2025-02-22T03:13:24.475Z,2025-02-22T11:13:24.475Z
+125,Cancella la prenotazione di sala meeting per il giorno 01/03/2025 dalle 01:43 alle 08:43,cancella,sala meeting,2025-03-01T01:43:24.475Z,2025-03-01T08:43:24.475Z
+126,Cancella la prenotazione di sala riunioni per il giorno 12/03/2025 dalle 12:58 alle 20:58,cancella,sala riunioni,2025-03-12T12:58:24.475Z,2025-03-12T20:58:24.475Z
+127,Modifica la prenotazione di auditorium al giorno 31/03/2025 dalle 13:28 alle 20:28,modifica,auditorium,2025-03-31T13:28:24.475Z,2025-03-31T20:28:24.475Z
+128,Modifica la prenotazione di desk 18 al giorno 25/02/2025 dalle 06:13 alle 10:13,modifica,desk 18,2025-02-25T06:13:24.475Z,2025-02-25T10:13:24.475Z
+129,Modifica la prenotazione di sala riunioni al giorno 23/03/2025 dalle 02:43 alle 12:43,modifica,sala riunioni,2025-03-23T02:43:24.475Z,2025-03-23T12:43:24.475Z
+130,Modifica la prenotazione di ufficio B al giorno 13/01/2025 dalle 09:13 alle 10:13,modifica,ufficio B,2025-01-13T09:13:24.475Z,2025-01-13T10:13:24.475Z
+131,Cancella la prenotazione di ufficio B per il giorno 03/02/2025 dalle 02:13 alle 04:13,cancella,ufficio B,2025-02-03T02:13:24.475Z,2025-02-03T04:13:24.475Z
+132,Cancella la prenotazione di sala riunioni per il giorno 20/03/2025 dalle 14:13 alle 23:13,cancella,sala riunioni,2025-03-20T14:13:24.475Z,2025-03-20T23:13:24.475Z
+133,Modifica la prenotazione di desk 40 al giorno 27/01/2025 dalle 12:43 alle 20:43,modifica,desk 40,2025-01-27T12:43:24.475Z,2025-01-27T20:43:24.475Z
+134,Cancella la prenotazione di desk 18 per il giorno 02/02/2025 dalle 02:13 alle 06:13,cancella,desk 18,2025-02-02T02:13:24.475Z,2025-02-02T06:13:24.475Z
+135,Cancella la prenotazione di auditorium per il giorno 09/02/2025 dalle 00:28 alle 04:28,cancella,auditorium,2025-02-09T00:28:24.475Z,2025-02-09T04:28:24.475Z
+136,Modifica la prenotazione di ufficio A al giorno 02/03/2025 dalle 03:13 alle 07:13,modifica,ufficio A,2025-03-02T03:13:24.475Z,2025-03-02T07:13:24.475Z
+137,Prenota ufficio A per il giorno 08/03/2025 dalle 09:28 alle 19:28,prenota,ufficio A,2025-03-08T09:28:24.475Z,2025-03-08T19:28:24.475Z
+138,Cancella la prenotazione di desk 40 per il giorno 23/01/2025 dalle 03:13 alle 05:13,cancella,desk 40,2025-01-23T03:13:24.475Z,2025-01-23T05:13:24.475Z
+139,Prenota desk 18 per il giorno 07/01/2025 dalle 10:13 alle 19:13,prenota,desk 18,2025-01-07T10:13:24.475Z,2025-01-07T19:13:24.475Z
+140,Cancella la prenotazione di desk 40 per il giorno 21/02/2025 dalle 01:13 alle 06:13,cancella,desk 40,2025-02-21T01:13:24.475Z,2025-02-21T06:13:24.475Z
+141,Modifica la prenotazione di ufficio B al giorno 18/01/2025 dalle 10:28 alle 18:28,modifica,ufficio B,2025-01-18T10:28:24.475Z,2025-01-18T18:28:24.475Z
+142,Cancella la prenotazione di desk 40 per il giorno 10/01/2025 dalle 04:13 alle 05:13,cancella,desk 40,2025-01-10T04:13:24.475Z,2025-01-10T05:13:24.475Z
+143,Cancella la prenotazione di ufficio A per il giorno 09/03/2025 dalle 10:13 alle 17:13,cancella,ufficio A,2025-03-09T10:13:24.475Z,2025-03-09T17:13:24.475Z
+144,Prenota sala riunioni per il giorno 21/01/2025 dalle 12:58 alle 22:58,prenota,sala riunioni,2025-01-21T12:58:24.475Z,2025-01-21T22:58:24.475Z
+145,Prenota desk 18 per il giorno 24/01/2025 dalle 05:13 alle 11:13,prenota,desk 18,2025-01-24T05:13:24.475Z,2025-01-24T11:13:24.475Z
+146,Prenota auditorium per il giorno 05/03/2025 dalle 02:58 alle 04:58,prenota,auditorium,2025-03-05T02:58:24.475Z,2025-03-05T04:58:24.475Z
+147,Cancella la prenotazione di desk 18 per il giorno 01/04/2025 dalle 01:13 alle 09:13,cancella,desk 18,2025-04-01T01:13:24.475Z,2025-04-01T09:13:24.475Z
+148,Prenota desk 40 per il giorno 05/02/2025 dalle 04:58 alle 12:58,prenota,desk 40,2025-02-05T04:58:24.475Z,2025-02-05T12:58:24.475Z
+149,Cancella la prenotazione di desk 40 per il giorno 01/03/2025 dalle 10:58 alle 20:58,cancella,desk 40,2025-03-01T10:58:24.475Z,2025-03-01T20:58:24.475Z
+150,Cancella la prenotazione di ufficio B per il giorno 07/01/2025 dalle 11:43 alle 14:43,cancella,ufficio B,2025-01-07T11:43:24.475Z,2025-01-07T14:43:24.475Z
+151,Modifica la prenotazione di sala meeting al giorno 06/01/2025 dalle 02:58 alle 12:58,modifica,sala meeting,2025-01-06T02:58:24.475Z,2025-01-06T12:58:24.475Z
+152,Cancella la prenotazione di desk 18 per il giorno 09/02/2025 dalle 03:43 alle 13:43,cancella,desk 18,2025-02-09T03:43:24.475Z,2025-02-09T13:43:24.475Z
+153,Modifica la prenotazione di sala meeting al giorno 04/03/2025 dalle 11:13 alle 16:13,modifica,sala meeting,2025-03-04T11:13:24.475Z,2025-03-04T16:13:24.475Z
+154,Prenota desk 18 per il giorno 01/04/2025 dalle 01:43 alle 11:43,prenota,desk 18,2025-04-01T01:43:24.475Z,2025-04-01T11:43:24.475Z
+155,Cancella la prenotazione di desk 40 per il giorno 21/02/2025 dalle 03:43 alle 04:43,cancella,desk 40,2025-02-21T03:43:24.475Z,2025-02-21T04:43:24.475Z
+156,Prenota ufficio B per il giorno 10/02/2025 dalle 01:28 alle 06:28,prenota,ufficio B,2025-02-10T01:28:24.475Z,2025-02-10T06:28:24.475Z
+157,Cancella la prenotazione di desk 18 per il giorno 09/03/2025 dalle 11:13 alle 19:13,cancella,desk 18,2025-03-09T11:13:24.475Z,2025-03-09T19:13:24.475Z
+158,Modifica la prenotazione di auditorium al giorno 16/02/2025 dalle 09:43 alle 19:43,modifica,auditorium,2025-02-16T09:43:24.475Z,2025-02-16T19:43:24.475Z
+159,Modifica la prenotazione di sala meeting al giorno 10/03/2025 dalle 05:13 alle 13:13,modifica,sala meeting,2025-03-10T05:13:24.475Z,2025-03-10T13:13:24.475Z
+160,Modifica la prenotazione di auditorium al giorno 11/03/2025 dalle 06:43 alle 14:43,modifica,auditorium,2025-03-11T06:43:24.475Z,2025-03-11T14:43:24.475Z
+161,Cancella la prenotazione di sala riunioni per il giorno 29/03/2025 dalle 00:58 alle 04:58,cancella,sala riunioni,2025-03-29T00:58:24.475Z,2025-03-29T04:58:24.475Z
+162,Cancella la prenotazione di auditorium per il giorno 31/01/2025 dalle 01:58 alle 11:58,cancella,auditorium,2025-01-31T01:58:24.475Z,2025-01-31T11:58:24.475Z
+163,Modifica la prenotazione di desk 40 al giorno 18/01/2025 dalle 09:43 alle 15:43,modifica,desk 40,2025-01-18T09:43:24.475Z,2025-01-18T15:43:24.475Z
+164,Cancella la prenotazione di ufficio A per il giorno 16/03/2025 dalle 13:28 alle 22:28,cancella,ufficio A,2025-03-16T13:28:24.475Z,2025-03-16T22:28:24.475Z
+165,Prenota desk 18 per il giorno 28/01/2025 dalle 04:28 alle 11:28,prenota,desk 18,2025-01-28T04:28:24.475Z,2025-01-28T11:28:24.475Z
+166,Modifica la prenotazione di sala riunioni al giorno 14/02/2025 dalle 07:28 alle 12:28,modifica,sala riunioni,2025-02-14T07:28:24.475Z,2025-02-14T12:28:24.475Z
+167,Modifica la prenotazione di ufficio B al giorno 12/03/2025 dalle 12:28 alle 13:28,modifica,ufficio B,2025-03-12T12:28:24.475Z,2025-03-12T13:28:24.475Z
+168,Cancella la prenotazione di ufficio B per il giorno 10/03/2025 dalle 02:43 alle 07:43,cancella,ufficio B,2025-03-10T02:43:24.475Z,2025-03-10T07:43:24.475Z
+169,Modifica la prenotazione di auditorium al giorno 01/04/2025 dalle 13:43 alle 17:43,modifica,auditorium,2025-04-01T13:43:24.475Z,2025-04-01T17:43:24.475Z
+170,Modifica la prenotazione di desk 18 al giorno 02/03/2025 dalle 01:28 alle 11:28,modifica,desk 18,2025-03-02T01:28:24.475Z,2025-03-02T11:28:24.475Z
+171,Cancella la prenotazione di ufficio B per il giorno 07/02/2025 dalle 00:43 alle 02:43,cancella,ufficio B,2025-02-07T00:43:24.475Z,2025-02-07T02:43:24.475Z
+172,Prenota ufficio B per il giorno 09/02/2025 dalle 23:43 alle 03:43,prenota,ufficio B,2025-02-09T23:43:24.475Z,2025-02-10T03:43:24.475Z
+173,Prenota ufficio B per il giorno 18/03/2025 dalle 07:13 alle 09:13,prenota,ufficio B,2025-03-18T07:13:24.475Z,2025-03-18T09:13:24.475Z
+174,Modifica la prenotazione di desk 40 al giorno 09/01/2025 dalle 04:28 alle 08:28,modifica,desk 40,2025-01-09T04:28:24.475Z,2025-01-09T08:28:24.475Z
+175,Cancella la prenotazione di sala riunioni per il giorno 28/02/2025 dalle 01:13 alle 05:13,cancella,sala riunioni,2025-02-28T01:13:24.475Z,2025-02-28T05:13:24.475Z
+176,Prenota ufficio B per il giorno 19/03/2025 dalle 03:13 alle 08:13,prenota,ufficio B,2025-03-19T03:13:24.475Z,2025-03-19T08:13:24.475Z
+177,Modifica la prenotazione di sala riunioni al giorno 18/03/2025 dalle 05:28 alle 13:28,modifica,sala riunioni,2025-03-18T05:28:24.475Z,2025-03-18T13:28:24.475Z
+178,Modifica la prenotazione di auditorium al giorno 19/03/2025 dalle 12:13 alle 13:13,modifica,auditorium,2025-03-19T12:13:24.475Z,2025-03-19T13:13:24.475Z
+179,Cancella la prenotazione di desk 40 per il giorno 24/02/2025 dalle 08:58 alle 16:58,cancella,desk 40,2025-02-24T08:58:24.475Z,2025-02-24T16:58:24.475Z
+180,Modifica la prenotazione di auditorium al giorno 14/02/2025 dalle 08:13 alle 17:13,modifica,auditorium,2025-02-14T08:13:24.475Z,2025-02-14T17:13:24.475Z
+181,Cancella la prenotazione di desk 18 per il giorno 10/02/2025 dalle 03:43 alle 09:43,cancella,desk 18,2025-02-10T03:43:24.475Z,2025-02-10T09:43:24.475Z
+182,Cancella la prenotazione di desk 18 per il giorno 15/03/2025 dalle 07:58 alle 15:58,cancella,desk 18,2025-03-15T07:58:24.475Z,2025-03-15T15:58:24.475Z
+183,Prenota desk 40 per il giorno 26/01/2025 dalle 06:28 alle 12:28,prenota,desk 40,2025-01-26T06:28:24.475Z,2025-01-26T12:28:24.475Z
+184,Modifica la prenotazione di ufficio A al giorno 07/03/2025 dalle 01:43 alle 03:43,modifica,ufficio A,2025-03-07T01:43:24.475Z,2025-03-07T03:43:24.475Z
+185,Cancella la prenotazione di desk 18 per il giorno 10/02/2025 dalle 01:13 alle 07:13,cancella,desk 18,2025-02-10T01:13:24.475Z,2025-02-10T07:13:24.475Z
+186,Modifica la prenotazione di desk 18 al giorno 12/03/2025 dalle 12:43 alle 16:43,modifica,desk 18,2025-03-12T12:43:24.475Z,2025-03-12T16:43:24.475Z
+187,Prenota desk 40 per il giorno 01/02/2025 dalle 02:58 alle 11:58,prenota,desk 40,2025-02-01T02:58:24.475Z,2025-02-01T11:58:24.475Z
+188,Cancella la prenotazione di sala meeting per il giorno 11/03/2025 dalle 06:28 alle 11:28,cancella,sala meeting,2025-03-11T06:28:24.475Z,2025-03-11T11:28:24.475Z
+189,Modifica la prenotazione di auditorium al giorno 17/03/2025 dalle 09:43 alle 15:43,modifica,auditorium,2025-03-17T09:43:24.475Z,2025-03-17T15:43:24.475Z
+190,Prenota auditorium per il giorno 22/02/2025 dalle 11:43 alle 14:43,prenota,auditorium,2025-02-22T11:43:24.475Z,2025-02-22T14:43:24.475Z
+191,Modifica la prenotazione di desk 18 al giorno 23/01/2025 dalle 05:13 alle 15:13,modifica,desk 18,2025-01-23T05:13:24.475Z,2025-01-23T15:13:24.475Z
+192,Cancella la prenotazione di desk 40 per il giorno 06/02/2025 dalle 02:58 alle 10:58,cancella,desk 40,2025-02-06T02:58:24.475Z,2025-02-06T10:58:24.475Z
+193,Cancella la prenotazione di sala meeting per il giorno 21/01/2025 dalle 03:58 alle 09:58,cancella,sala meeting,2025-01-21T03:58:24.475Z,2025-01-21T09:58:24.475Z
+194,Modifica la prenotazione di sala meeting al giorno 01/03/2025 dalle 04:13 alle 14:13,modifica,sala meeting,2025-03-01T04:13:24.475Z,2025-03-01T14:13:24.475Z
+195,Cancella la prenotazione di desk 40 per il giorno 25/02/2025 dalle 00:13 alle 01:13,cancella,desk 40,2025-02-25T00:13:24.475Z,2025-02-25T01:13:24.475Z
+196,Cancella la prenotazione di sala meeting per il giorno 26/03/2025 dalle 11:43 alle 19:43,cancella,sala meeting,2025-03-26T11:43:24.475Z,2025-03-26T19:43:24.475Z
+197,Cancella la prenotazione di sala riunioni per il giorno 03/04/2025 dalle 02:43 alle 07:43,cancella,sala riunioni,2025-04-03T02:43:24.475Z,2025-04-03T07:43:24.475Z
+198,Cancella la prenotazione di desk 40 per il giorno 18/02/2025 dalle 23:58 alle 06:58,cancella,desk 40,2025-02-18T23:58:24.475Z,2025-02-19T06:58:24.475Z
+199,Cancella la prenotazione di sala meeting per il giorno 15/03/2025 dalle 07:43 alle 11:43,cancella,sala meeting,2025-03-15T07:43:24.475Z,2025-03-15T11:43:24.475Z
+200,Modifica la prenotazione di ufficio B al giorno 28/02/2025 dalle 12:58 alle 14:58,modifica,ufficio B,2025-02-28T12:58:24.475Z,2025-02-28T14:58:24.475Z
+201,Prenota auditorium per il giorno 23/01/2025 dalle 05:13 alle 15:13,prenota,auditorium,2025-01-23T05:13:24.475Z,2025-01-23T15:13:24.475Z
+202,Cancella la prenotazione di sala riunioni per il giorno 28/03/2025 dalle 06:13 alle 10:13,cancella,sala riunioni,2025-03-28T06:13:24.475Z,2025-03-28T10:13:24.475Z
+203,Cancella la prenotazione di ufficio B per il giorno 19/03/2025 dalle 05:28 alle 07:28,cancella,ufficio B,2025-03-19T05:28:24.475Z,2025-03-19T07:28:24.475Z
+204,Prenota desk 18 per il giorno 15/02/2025 dalle 03:58 alle 11:58,prenota,desk 18,2025-02-15T03:58:24.475Z,2025-02-15T11:58:24.475Z
+205,Cancella la prenotazione di sala riunioni per il giorno 04/03/2025 dalle 01:28 alle 07:28,cancella,sala riunioni,2025-03-04T01:28:24.475Z,2025-03-04T07:28:24.475Z
+206,Modifica la prenotazione di ufficio A al giorno 22/01/2025 dalle 12:43 alle 22:43,modifica,ufficio A,2025-01-22T12:43:24.475Z,2025-01-22T22:43:24.475Z
+207,Cancella la prenotazione di ufficio B per il giorno 28/01/2025 dalle 07:28 alle 15:28,cancella,ufficio B,2025-01-28T07:28:24.475Z,2025-01-28T15:28:24.475Z
+208,Prenota sala meeting per il giorno 17/03/2025 dalle 07:58 alle 16:58,prenota,sala meeting,2025-03-17T07:58:24.475Z,2025-03-17T16:58:24.475Z
+209,Modifica la prenotazione di desk 40 al giorno 09/02/2025 dalle 10:28 alle 13:28,modifica,desk 40,2025-02-09T10:28:24.475Z,2025-02-09T13:28:24.475Z
+210,Prenota desk 40 per il giorno 02/04/2025 dalle 10:58 alle 16:58,prenota,desk 40,2025-04-02T10:58:24.475Z,2025-04-02T16:58:24.475Z
+211,Cancella la prenotazione di desk 18 per il giorno 30/01/2025 dalle 01:58 alle 09:58,cancella,desk 18,2025-01-30T01:58:24.475Z,2025-01-30T09:58:24.475Z
+212,Prenota ufficio A per il giorno 18/02/2025 dalle 04:43 alle 09:43,prenota,ufficio A,2025-02-18T04:43:24.475Z,2025-02-18T09:43:24.475Z
+213,Cancella la prenotazione di ufficio B per il giorno 05/01/2025 dalle 01:28 alle 08:28,cancella,ufficio B,2025-01-05T01:28:24.475Z,2025-01-05T08:28:24.475Z
+214,Cancella la prenotazione di ufficio A per il giorno 06/03/2025 dalle 11:28 alle 20:28,cancella,ufficio A,2025-03-06T11:28:24.475Z,2025-03-06T20:28:24.475Z
+215,Prenota ufficio B per il giorno 19/02/2025 dalle 00:13 alle 01:13,prenota,ufficio B,2025-02-19T00:13:24.475Z,2025-02-19T01:13:24.475Z
+216,Modifica la prenotazione di desk 40 al giorno 13/02/2025 dalle 12:13 alle 17:13,modifica,desk 40,2025-02-13T12:13:24.475Z,2025-02-13T17:13:24.475Z
+217,Modifica la prenotazione di sala meeting al giorno 25/03/2025 dalle 00:28 alle 10:28,modifica,sala meeting,2025-03-25T00:28:24.475Z,2025-03-25T10:28:24.475Z
+218,Prenota ufficio B per il giorno 17/01/2025 dalle 07:43 alle 16:43,prenota,ufficio B,2025-01-17T07:43:24.475Z,2025-01-17T16:43:24.475Z
+219,Prenota ufficio B per il giorno 03/03/2025 dalle 08:43 alle 10:43,prenota,ufficio B,2025-03-03T08:43:24.475Z,2025-03-03T10:43:24.475Z
+220,Modifica la prenotazione di ufficio A al giorno 07/02/2025 dalle 07:13 alle 10:13,modifica,ufficio A,2025-02-07T07:13:24.475Z,2025-02-07T10:13:24.475Z
+221,Modifica la prenotazione di sala meeting al giorno 12/01/2025 dalle 01:58 alle 09:58,modifica,sala meeting,2025-01-12T01:58:24.475Z,2025-01-12T09:58:24.475Z
+222,Modifica la prenotazione di desk 40 al giorno 01/04/2025 dalle 11:13 alle 12:13,modifica,desk 40,2025-04-01T11:13:24.475Z,2025-04-01T12:13:24.475Z
+223,Cancella la prenotazione di ufficio B per il giorno 09/02/2025 dalle 00:13 alle 01:13,cancella,ufficio B,2025-02-09T00:13:24.475Z,2025-02-09T01:13:24.475Z
+224,Prenota auditorium per il giorno 13/02/2025 dalle 05:43 alle 10:43,prenota,auditorium,2025-02-13T05:43:24.475Z,2025-02-13T10:43:24.475Z
+225,Prenota ufficio B per il giorno 30/03/2025 dalle 11:58 alle 20:58,prenota,ufficio B,2025-03-30T11:58:24.488Z,2025-03-30T20:58:24.488Z
+226,Cancella la prenotazione di desk 18 per il giorno 29/03/2025 dalle 02:58 alle 12:58,cancella,desk 18,2025-03-29T02:58:24.488Z,2025-03-29T12:58:24.488Z
+227,Prenota auditorium per il giorno 21/01/2025 dalle 02:58 alle 05:58,prenota,auditorium,2025-01-21T02:58:24.488Z,2025-01-21T05:58:24.488Z
+228,Prenota sala riunioni per il giorno 12/03/2025 dalle 08:28 alle 11:28,prenota,sala riunioni,2025-03-12T08:28:24.488Z,2025-03-12T11:28:24.488Z
+229,Modifica la prenotazione di sala meeting al giorno 11/01/2025 dalle 04:58 alle 08:58,modifica,sala meeting,2025-01-11T04:58:24.488Z,2025-01-11T08:58:24.488Z
+230,Modifica la prenotazione di auditorium al giorno 28/01/2025 dalle 03:43 alle 10:43,modifica,auditorium,2025-01-28T03:43:24.488Z,2025-01-28T10:43:24.488Z
+231,Cancella la prenotazione di auditorium per il giorno 30/01/2025 dalle 11:58 alle 12:58,cancella,auditorium,2025-01-30T11:58:24.488Z,2025-01-30T12:58:24.488Z
+232,Prenota ufficio A per il giorno 18/01/2025 dalle 13:13 alle 14:13,prenota,ufficio A,2025-01-18T13:13:24.488Z,2025-01-18T14:13:24.488Z
+233,Cancella la prenotazione di desk 40 per il giorno 29/01/2025 dalle 05:28 alle 13:28,cancella,desk 40,2025-01-29T05:28:24.488Z,2025-01-29T13:28:24.488Z
+234,Cancella la prenotazione di ufficio A per il giorno 28/01/2025 dalle 03:13 alle 13:13,cancella,ufficio A,2025-01-28T03:13:24.488Z,2025-01-28T13:13:24.488Z
+235,Prenota sala riunioni per il giorno 25/01/2025 dalle 07:28 alle 10:28,prenota,sala riunioni,2025-01-25T07:28:24.489Z,2025-01-25T10:28:24.489Z
+236,Prenota sala riunioni per il giorno 06/03/2025 dalle 10:58 alle 16:58,prenota,sala riunioni,2025-03-06T10:58:24.489Z,2025-03-06T16:58:24.489Z
+237,Cancella la prenotazione di auditorium per il giorno 29/01/2025 dalle 00:58 alle 08:58,cancella,auditorium,2025-01-29T00:58:24.489Z,2025-01-29T08:58:24.489Z
+238,Cancella la prenotazione di ufficio B per il giorno 17/01/2025 dalle 06:28 alle 07:28,cancella,ufficio B,2025-01-17T06:28:24.489Z,2025-01-17T07:28:24.489Z
+239,Cancella la prenotazione di desk 40 per il giorno 25/02/2025 dalle 05:28 alle 11:28,cancella,desk 40,2025-02-25T05:28:24.489Z,2025-02-25T11:28:24.489Z
+240,Cancella la prenotazione di sala meeting per il giorno 11/01/2025 dalle 05:58 alle 09:58,cancella,sala meeting,2025-01-11T05:58:24.489Z,2025-01-11T09:58:24.489Z
+241,Modifica la prenotazione di sala riunioni al giorno 27/03/2025 dalle 10:13 alle 18:13,modifica,sala riunioni,2025-03-27T10:13:24.489Z,2025-03-27T18:13:24.489Z
+242,Prenota sala meeting per il giorno 26/03/2025 dalle 13:58 alle 14:58,prenota,sala meeting,2025-03-26T13:58:24.489Z,2025-03-26T14:58:24.489Z
+243,Prenota desk 40 per il giorno 03/02/2025 dalle 01:28 alle 04:28,prenota,desk 40,2025-02-03T01:28:24.489Z,2025-02-03T04:28:24.489Z
+244,Modifica la prenotazione di auditorium al giorno 20/01/2025 dalle 11:13 alle 12:13,modifica,auditorium,2025-01-20T11:13:24.489Z,2025-01-20T12:13:24.489Z
+245,Prenota ufficio B per il giorno 29/01/2025 dalle 12:58 alle 18:58,prenota,ufficio B,2025-01-29T12:58:24.489Z,2025-01-29T18:58:24.489Z
+246,Modifica la prenotazione di ufficio A al giorno 23/01/2025 dalle 05:43 alle 08:43,modifica,ufficio A,2025-01-23T05:43:24.489Z,2025-01-23T08:43:24.489Z
+247,Modifica la prenotazione di auditorium al giorno 29/03/2025 dalle 01:58 alle 03:58,modifica,auditorium,2025-03-29T01:58:24.489Z,2025-03-29T03:58:24.489Z
+248,Prenota sala riunioni per il giorno 07/03/2025 dalle 02:58 alle 09:58,prenota,sala riunioni,2025-03-07T02:58:24.489Z,2025-03-07T09:58:24.489Z
+249,Modifica la prenotazione di sala meeting al giorno 05/02/2025 dalle 08:58 alle 09:58,modifica,sala meeting,2025-02-05T08:58:24.489Z,2025-02-05T09:58:24.489Z
+250,Prenota sala meeting per il giorno 06/01/2025 dalle 14:13 alle 15:13,prenota,sala meeting,2025-01-06T14:13:24.489Z,2025-01-06T15:13:24.489Z
+251,Modifica la prenotazione di desk 40 al giorno 21/01/2025 dalle 14:13 alle 15:13,modifica,desk 40,2025-01-21T14:13:24.489Z,2025-01-21T15:13:24.489Z
+252,Modifica la prenotazione di ufficio A al giorno 20/03/2025 dalle 10:43 alle 13:43,modifica,ufficio A,2025-03-20T10:43:24.490Z,2025-03-20T13:43:24.490Z
+253,Prenota sala riunioni per il giorno 16/02/2025 dalle 13:43 alle 15:43,prenota,sala riunioni,2025-02-16T13:43:24.490Z,2025-02-16T15:43:24.490Z
+254,Cancella la prenotazione di sala riunioni per il giorno 17/01/2025 dalle 07:13 alle 14:13,cancella,sala riunioni,2025-01-17T07:13:24.490Z,2025-01-17T14:13:24.490Z
+255,Modifica la prenotazione di ufficio A al giorno 20/01/2025 dalle 12:28 alle 17:28,modifica,ufficio A,2025-01-20T12:28:24.490Z,2025-01-20T17:28:24.490Z
+256,Cancella la prenotazione di ufficio A per il giorno 04/02/2025 dalle 01:58 alle 10:58,cancella,ufficio A,2025-02-04T01:58:24.490Z,2025-02-04T10:58:24.490Z
+257,Cancella la prenotazione di ufficio B per il giorno 29/03/2025 dalle 10:28 alle 18:28,cancella,ufficio B,2025-03-29T10:28:24.490Z,2025-03-29T18:28:24.490Z
+258,Cancella la prenotazione di desk 18 per il giorno 17/03/2025 dalle 02:43 alle 06:43,cancella,desk 18,2025-03-17T02:43:24.490Z,2025-03-17T06:43:24.490Z
+259,Modifica la prenotazione di auditorium al giorno 21/01/2025 dalle 02:28 alle 04:28,modifica,auditorium,2025-01-21T02:28:24.490Z,2025-01-21T04:28:24.490Z
+260,Modifica la prenotazione di ufficio A al giorno 08/02/2025 dalle 13:28 alle 17:28,modifica,ufficio A,2025-02-08T13:28:24.490Z,2025-02-08T17:28:24.490Z
+261,Prenota sala meeting per il giorno 26/01/2025 dalle 10:58 alle 16:58,prenota,sala meeting,2025-01-26T10:58:24.490Z,2025-01-26T16:58:24.490Z
+262,Modifica la prenotazione di ufficio A al giorno 29/03/2025 dalle 08:58 alle 11:58,modifica,ufficio A,2025-03-29T08:58:24.490Z,2025-03-29T11:58:24.490Z
+263,Cancella la prenotazione di ufficio A per il giorno 19/02/2025 dalle 09:43 alle 19:43,cancella,ufficio A,2025-02-19T09:43:24.490Z,2025-02-19T19:43:24.490Z
+264,Modifica la prenotazione di desk 40 al giorno 07/01/2025 dalle 11:13 alle 12:13,modifica,desk 40,2025-01-07T11:13:24.490Z,2025-01-07T12:13:24.490Z
+265,Prenota auditorium per il giorno 04/01/2025 dalle 01:28 alle 05:28,prenota,auditorium,2025-01-04T01:28:24.490Z,2025-01-04T05:28:24.490Z
+266,Prenota ufficio A per il giorno 13/02/2025 dalle 00:13 alle 08:13,prenota,ufficio A,2025-02-13T00:13:24.490Z,2025-02-13T08:13:24.490Z
+267,Cancella la prenotazione di auditorium per il giorno 24/03/2025 dalle 13:13 alle 21:13,cancella,auditorium,2025-03-24T13:13:24.490Z,2025-03-24T21:13:24.490Z
+268,Prenota ufficio A per il giorno 23/03/2025 dalle 04:13 alle 06:13,prenota,ufficio A,2025-03-23T04:13:24.490Z,2025-03-23T06:13:24.490Z
+269,Modifica la prenotazione di sala meeting al giorno 27/03/2025 dalle 11:58 alle 17:58,modifica,sala meeting,2025-03-27T11:58:24.491Z,2025-03-27T17:58:24.491Z
+270,Prenota sala meeting per il giorno 15/02/2025 dalle 12:13 alle 21:13,prenota,sala meeting,2025-02-15T12:13:24.491Z,2025-02-15T21:13:24.491Z
+271,Cancella la prenotazione di desk 18 per il giorno 15/01/2025 dalle 09:58 alle 18:58,cancella,desk 18,2025-01-15T09:58:24.491Z,2025-01-15T18:58:24.491Z
+272,Cancella la prenotazione di sala riunioni per il giorno 18/02/2025 dalle 05:28 alle 14:28,cancella,sala riunioni,2025-02-18T05:28:24.491Z,2025-02-18T14:28:24.491Z
+273,Prenota sala riunioni per il giorno 01/02/2025 dalle 06:28 alle 08:28,prenota,sala riunioni,2025-02-01T06:28:24.491Z,2025-02-01T08:28:24.491Z
+274,Modifica la prenotazione di desk 18 al giorno 09/02/2025 dalle 01:58 alle 06:58,modifica,desk 18,2025-02-09T01:58:24.491Z,2025-02-09T06:58:24.491Z
+275,Cancella la prenotazione di ufficio A per il giorno 14/03/2025 dalle 00:43 alle 07:43,cancella,ufficio A,2025-03-14T00:43:24.491Z,2025-03-14T07:43:24.491Z
+276,Modifica la prenotazione di auditorium al giorno 21/01/2025 dalle 12:43 alle 13:43,modifica,auditorium,2025-01-21T12:43:24.491Z,2025-01-21T13:43:24.491Z
+277,Prenota desk 18 per il giorno 17/02/2025 dalle 07:43 alle 17:43,prenota,desk 18,2025-02-17T07:43:24.491Z,2025-02-17T17:43:24.491Z
+278,Modifica la prenotazione di ufficio B al giorno 09/01/2025 dalle 11:58 alle 20:58,modifica,ufficio B,2025-01-09T11:58:24.491Z,2025-01-09T20:58:24.491Z
+279,Prenota desk 18 per il giorno 11/03/2025 dalle 01:58 alle 04:58,prenota,desk 18,2025-03-11T01:58:24.491Z,2025-03-11T04:58:24.491Z
+280,Prenota desk 18 per il giorno 24/01/2025 dalle 09:43 alle 12:43,prenota,desk 18,2025-01-24T09:43:24.492Z,2025-01-24T12:43:24.492Z
+281,Modifica la prenotazione di ufficio B al giorno 26/02/2025 dalle 12:43 alle 17:43,modifica,ufficio B,2025-02-26T12:43:24.492Z,2025-02-26T17:43:24.492Z
+282,Prenota ufficio A per il giorno 09/02/2025 dalle 06:13 alle 14:13,prenota,ufficio A,2025-02-09T06:13:24.492Z,2025-02-09T14:13:24.492Z
+283,Cancella la prenotazione di sala meeting per il giorno 20/01/2025 dalle 10:58 alle 11:58,cancella,sala meeting,2025-01-20T10:58:24.492Z,2025-01-20T11:58:24.492Z
+284,Prenota sala meeting per il giorno 03/04/2025 dalle 07:58 alle 11:58,prenota,sala meeting,2025-04-03T07:58:24.492Z,2025-04-03T11:58:24.492Z
+285,Modifica la prenotazione di ufficio B al giorno 20/03/2025 dalle 00:28 alle 07:28,modifica,ufficio B,2025-03-20T00:28:24.492Z,2025-03-20T07:28:24.492Z
+286,Prenota auditorium per il giorno 05/03/2025 dalle 12:43 alle 16:43,prenota,auditorium,2025-03-05T12:43:24.492Z,2025-03-05T16:43:24.492Z
+287,Cancella la prenotazione di desk 40 per il giorno 23/01/2025 dalle 10:13 alle 17:13,cancella,desk 40,2025-01-23T10:13:24.492Z,2025-01-23T17:13:24.492Z
+288,Modifica la prenotazione di auditorium al giorno 03/02/2025 dalle 12:58 alle 14:58,modifica,auditorium,2025-02-03T12:58:24.492Z,2025-02-03T14:58:24.492Z
+289,Prenota sala meeting per il giorno 20/01/2025 dalle 14:13 alle 16:13,prenota,sala meeting,2025-01-20T14:13:24.492Z,2025-01-20T16:13:24.492Z
+290,Modifica la prenotazione di desk 18 al giorno 18/03/2025 dalle 09:43 alle 13:43,modifica,desk 18,2025-03-18T09:43:24.492Z,2025-03-18T13:43:24.492Z
+291,Cancella la prenotazione di auditorium per il giorno 30/03/2025 dalle 03:58 alle 04:58,cancella,auditorium,2025-03-30T03:58:24.492Z,2025-03-30T04:58:24.492Z
+292,Modifica la prenotazione di sala riunioni al giorno 10/03/2025 dalle 03:28 alle 13:28,modifica,sala riunioni,2025-03-10T03:28:24.493Z,2025-03-10T13:28:24.493Z
+293,Cancella la prenotazione di auditorium per il giorno 28/03/2025 dalle 06:58 alle 08:58,cancella,auditorium,2025-03-28T06:58:24.493Z,2025-03-28T08:58:24.493Z
+294,Modifica la prenotazione di desk 18 al giorno 22/03/2025 dalle 06:43 alle 08:43,modifica,desk 18,2025-03-22T06:43:24.493Z,2025-03-22T08:43:24.493Z
+295,Modifica la prenotazione di sala meeting al giorno 06/02/2025 dalle 00:13 alle 05:13,modifica,sala meeting,2025-02-06T00:13:24.493Z,2025-02-06T05:13:24.493Z
+296,Prenota desk 18 per il giorno 03/03/2025 dalle 05:43 alle 13:43,prenota,desk 18,2025-03-03T05:43:24.493Z,2025-03-03T13:43:24.493Z
+297,Cancella la prenotazione di auditorium per il giorno 10/03/2025 dalle 00:28 alle 10:28,cancella,auditorium,2025-03-10T00:28:24.493Z,2025-03-10T10:28:24.493Z
+298,Modifica la prenotazione di desk 40 al giorno 18/02/2025 dalle 03:13 alle 10:13,modifica,desk 40,2025-02-18T03:13:24.493Z,2025-02-18T10:13:24.493Z
+299,Cancella la prenotazione di sala riunioni per il giorno 25/03/2025 dalle 00:58 alle 05:58,cancella,sala riunioni,2025-03-25T00:58:24.493Z,2025-03-25T05:58:24.493Z
+300,Cancella la prenotazione di desk 18 per il giorno 09/03/2025 dalle 05:13 alle 10:13,cancella,desk 18,2025-03-09T05:13:24.493Z,2025-03-09T10:13:24.493Z
+301,Cancella la prenotazione di sala riunioni per il giorno 04/01/2025 dalle 01:13 alle 05:13,cancella,sala riunioni,2025-01-04T01:13:24.493Z,2025-01-04T05:13:24.493Z
+302,Modifica la prenotazione di ufficio A al giorno 31/01/2025 dalle 09:13 alle 14:13,modifica,ufficio A,2025-01-31T09:13:24.493Z,2025-01-31T14:13:24.493Z
+303,Prenota desk 40 per il giorno 03/04/2025 dalle 07:13 alle 17:13,prenota,desk 40,2025-04-03T07:13:24.493Z,2025-04-03T17:13:24.493Z
+304,Modifica la prenotazione di desk 40 al giorno 29/03/2025 dalle 05:28 alle 15:28,modifica,desk 40,2025-03-29T05:28:24.494Z,2025-03-29T15:28:24.494Z
+305,Prenota ufficio B per il giorno 26/03/2025 dalle 00:28 alle 02:28,prenota,ufficio B,2025-03-26T00:28:24.494Z,2025-03-26T02:28:24.494Z
+306,Prenota sala meeting per il giorno 18/03/2025 dalle 10:13 alle 17:13,prenota,sala meeting,2025-03-18T10:13:24.494Z,2025-03-18T17:13:24.494Z
+307,Modifica la prenotazione di desk 18 al giorno 08/01/2025 dalle 05:13 alle 13:13,modifica,desk 18,2025-01-08T05:13:24.494Z,2025-01-08T13:13:24.494Z
+308,Modifica la prenotazione di desk 40 al giorno 10/03/2025 dalle 00:13 alle 07:13,modifica,desk 40,2025-03-10T00:13:24.494Z,2025-03-10T07:13:24.494Z
+309,Modifica la prenotazione di sala riunioni al giorno 30/01/2025 dalle 08:43 alle 09:43,modifica,sala riunioni,2025-01-30T08:43:24.494Z,2025-01-30T09:43:24.494Z
+310,Modifica la prenotazione di sala meeting al giorno 15/01/2025 dalle 04:13 alle 05:13,modifica,sala meeting,2025-01-15T04:13:24.494Z,2025-01-15T05:13:24.494Z
+311,Modifica la prenotazione di ufficio A al giorno 04/02/2025 dalle 04:58 alle 10:58,modifica,ufficio A,2025-02-04T04:58:24.494Z,2025-02-04T10:58:24.494Z
+312,Prenota sala meeting per il giorno 01/03/2025 dalle 11:28 alle 17:28,prenota,sala meeting,2025-03-01T11:28:24.494Z,2025-03-01T17:28:24.494Z
+313,Cancella la prenotazione di desk 18 per il giorno 25/03/2025 dalle 03:43 alle 07:43,cancella,desk 18,2025-03-25T03:43:24.494Z,2025-03-25T07:43:24.494Z
+314,Modifica la prenotazione di desk 40 al giorno 14/03/2025 dalle 09:58 alle 16:58,modifica,desk 40,2025-03-14T09:58:24.494Z,2025-03-14T16:58:24.494Z
+315,Cancella la prenotazione di desk 40 per il giorno 25/01/2025 dalle 13:13 alle 15:13,cancella,desk 40,2025-01-25T13:13:24.494Z,2025-01-25T15:13:24.494Z
+316,Cancella la prenotazione di sala meeting per il giorno 22/03/2025 dalle 07:43 alle 13:43,cancella,sala meeting,2025-03-22T07:43:24.494Z,2025-03-22T13:43:24.494Z
+317,Cancella la prenotazione di sala riunioni per il giorno 14/01/2025 dalle 10:13 alle 16:13,cancella,sala riunioni,2025-01-14T10:13:24.494Z,2025-01-14T16:13:24.494Z
+318,Modifica la prenotazione di ufficio A al giorno 25/03/2025 dalle 02:13 alle 06:13,modifica,ufficio A,2025-03-25T02:13:24.494Z,2025-03-25T06:13:24.494Z
+319,Cancella la prenotazione di desk 40 per il giorno 03/04/2025 dalle 06:58 alle 12:58,cancella,desk 40,2025-04-03T06:58:24.494Z,2025-04-03T12:58:24.494Z
+320,Cancella la prenotazione di sala meeting per il giorno 23/01/2025 dalle 01:58 alle 02:58,cancella,sala meeting,2025-01-23T01:58:24.494Z,2025-01-23T02:58:24.494Z
+321,Prenota auditorium per il giorno 18/03/2025 dalle 03:58 alle 12:58,prenota,auditorium,2025-03-18T03:58:24.494Z,2025-03-18T12:58:24.494Z
+322,Modifica la prenotazione di auditorium al giorno 22/02/2025 dalle 08:28 alle 12:28,modifica,auditorium,2025-02-22T08:28:24.494Z,2025-02-22T12:28:24.494Z
+323,Prenota sala riunioni per il giorno 20/03/2025 dalle 14:13 alle 19:13,prenota,sala riunioni,2025-03-20T14:13:24.494Z,2025-03-20T19:13:24.494Z
+324,Prenota desk 18 per il giorno 15/02/2025 dalle 07:58 alle 14:58,prenota,desk 18,2025-02-15T07:58:24.494Z,2025-02-15T14:58:24.494Z
+325,Prenota ufficio A per il giorno 16/01/2025 dalle 12:58 alle 22:58,prenota,ufficio A,2025-01-16T12:58:24.494Z,2025-01-16T22:58:24.494Z
+326,Modifica la prenotazione di sala riunioni al giorno 13/02/2025 dalle 03:13 alle 04:13,modifica,sala riunioni,2025-02-13T03:13:24.494Z,2025-02-13T04:13:24.494Z
+327,Prenota ufficio B per il giorno 22/01/2025 dalle 09:58 alle 10:58,prenota,ufficio B,2025-01-22T09:58:24.494Z,2025-01-22T10:58:24.494Z
+328,Cancella la prenotazione di auditorium per il giorno 01/04/2025 dalle 02:43 alle 06:43,cancella,auditorium,2025-04-01T02:43:24.494Z,2025-04-01T06:43:24.494Z
+329,Cancella la prenotazione di desk 18 per il giorno 30/01/2025 dalle 01:28 alle 06:28,cancella,desk 18,2025-01-30T01:28:24.494Z,2025-01-30T06:28:24.494Z
+330,Prenota sala riunioni per il giorno 22/03/2025 dalle 07:13 alle 14:13,prenota,sala riunioni,2025-03-22T07:13:24.494Z,2025-03-22T14:13:24.494Z
+331,Modifica la prenotazione di ufficio B al giorno 16/03/2025 dalle 03:13 alle 06:13,modifica,ufficio B,2025-03-16T03:13:24.494Z,2025-03-16T06:13:24.494Z
+332,Modifica la prenotazione di ufficio B al giorno 23/02/2025 dalle 10:13 alle 15:13,modifica,ufficio B,2025-02-23T10:13:24.494Z,2025-02-23T15:13:24.494Z
+333,Modifica la prenotazione di desk 40 al giorno 18/02/2025 dalle 11:58 alle 18:58,modifica,desk 40,2025-02-18T11:58:24.494Z,2025-02-18T18:58:24.494Z
+334,Cancella la prenotazione di sala meeting per il giorno 02/02/2025 dalle 04:58 alle 06:58,cancella,sala meeting,2025-02-02T04:58:24.494Z,2025-02-02T06:58:24.494Z
+335,Modifica la prenotazione di auditorium al giorno 13/02/2025 dalle 12:43 alle 21:43,modifica,auditorium,2025-02-13T12:43:24.494Z,2025-02-13T21:43:24.494Z
+336,Modifica la prenotazione di auditorium al giorno 15/01/2025 dalle 14:13 alle 23:13,modifica,auditorium,2025-01-15T14:13:24.494Z,2025-01-15T23:13:24.494Z
+337,Cancella la prenotazione di sala riunioni per il giorno 21/03/2025 dalle 02:58 alle 11:58,cancella,sala riunioni,2025-03-21T02:58:24.494Z,2025-03-21T11:58:24.494Z
+338,Prenota ufficio A per il giorno 06/02/2025 dalle 08:28 alle 16:28,prenota,ufficio A,2025-02-06T08:28:24.494Z,2025-02-06T16:28:24.494Z
+339,Modifica la prenotazione di ufficio A al giorno 07/03/2025 dalle 09:13 alle 11:13,modifica,ufficio A,2025-03-07T09:13:24.494Z,2025-03-07T11:13:24.494Z
+340,Prenota sala riunioni per il giorno 15/03/2025 dalle 06:28 alle 12:28,prenota,sala riunioni,2025-03-15T06:28:24.494Z,2025-03-15T12:28:24.494Z
+341,Cancella la prenotazione di desk 40 per il giorno 03/04/2025 dalle 01:28 alle 07:28,cancella,desk 40,2025-04-03T01:28:24.494Z,2025-04-03T07:28:24.494Z
+342,Prenota desk 18 per il giorno 07/02/2025 dalle 08:58 alle 09:58,prenota,desk 18,2025-02-07T08:58:24.494Z,2025-02-07T09:58:24.494Z
+343,Modifica la prenotazione di ufficio B al giorno 06/03/2025 dalle 05:43 alle 12:43,modifica,ufficio B,2025-03-06T05:43:24.494Z,2025-03-06T12:43:24.494Z
+344,Prenota desk 18 per il giorno 01/03/2025 dalle 03:58 alle 09:58,prenota,desk 18,2025-03-01T03:58:24.494Z,2025-03-01T09:58:24.494Z
+345,Prenota ufficio B per il giorno 09/03/2025 dalle 05:43 alle 14:43,prenota,ufficio B,2025-03-09T05:43:24.494Z,2025-03-09T14:43:24.494Z
+346,Modifica la prenotazione di ufficio B al giorno 12/02/2025 dalle 12:28 alle 22:28,modifica,ufficio B,2025-02-12T12:28:24.494Z,2025-02-12T22:28:24.494Z
+347,Prenota desk 18 per il giorno 17/02/2025 dalle 08:28 alle 10:28,prenota,desk 18,2025-02-17T08:28:24.494Z,2025-02-17T10:28:24.494Z
+348,Modifica la prenotazione di sala riunioni al giorno 11/03/2025 dalle 05:43 alle 09:43,modifica,sala riunioni,2025-03-11T05:43:24.494Z,2025-03-11T09:43:24.494Z
+349,Prenota ufficio B per il giorno 25/01/2025 dalle 12:43 alle 13:43,prenota,ufficio B,2025-01-25T12:43:24.494Z,2025-01-25T13:43:24.494Z
+350,Modifica la prenotazione di ufficio A al giorno 18/01/2025 dalle 04:28 alle 06:28,modifica,ufficio A,2025-01-18T04:28:24.494Z,2025-01-18T06:28:24.494Z
+351,Cancella la prenotazione di ufficio B per il giorno 02/04/2025 dalle 10:13 alle 17:13,cancella,ufficio B,2025-04-02T10:13:24.494Z,2025-04-02T17:13:24.494Z
+352,Cancella la prenotazione di desk 18 per il giorno 04/03/2025 dalle 01:58 alle 04:58,cancella,desk 18,2025-03-04T01:58:24.494Z,2025-03-04T04:58:24.494Z
+353,Prenota sala meeting per il giorno 17/02/2025 dalle 02:13 alle 07:13,prenota,sala meeting,2025-02-17T02:13:24.494Z,2025-02-17T07:13:24.494Z
+354,Cancella la prenotazione di sala riunioni per il giorno 26/01/2025 dalle 04:13 alle 08:13,cancella,sala riunioni,2025-01-26T04:13:24.494Z,2025-01-26T08:13:24.494Z
+355,Prenota sala meeting per il giorno 26/03/2025 dalle 09:28 alle 15:28,prenota,sala meeting,2025-03-26T09:28:24.494Z,2025-03-26T15:28:24.494Z
+356,Cancella la prenotazione di desk 40 per il giorno 15/01/2025 dalle 07:58 alle 08:58,cancella,desk 40,2025-01-15T07:58:24.494Z,2025-01-15T08:58:24.494Z
+357,Modifica la prenotazione di sala riunioni al giorno 14/03/2025 dalle 23:58 alle 01:58,modifica,sala riunioni,2025-03-14T23:58:24.494Z,2025-03-15T01:58:24.494Z
+358,Prenota sala riunioni per il giorno 10/03/2025 dalle 23:28 alle 05:28,prenota,sala riunioni,2025-03-10T23:28:24.494Z,2025-03-11T05:28:24.494Z
+359,Cancella la prenotazione di sala meeting per il giorno 06/01/2025 dalle 11:58 alle 13:58,cancella,sala meeting,2025-01-06T11:58:24.494Z,2025-01-06T13:58:24.494Z
+360,Prenota auditorium per il giorno 25/03/2025 dalle 09:13 alle 12:13,prenota,auditorium,2025-03-25T09:13:24.494Z,2025-03-25T12:13:24.494Z
+361,Modifica la prenotazione di auditorium al giorno 16/02/2025 dalle 00:43 alle 10:43,modifica,auditorium,2025-02-16T00:43:24.494Z,2025-02-16T10:43:24.494Z
+362,Cancella la prenotazione di ufficio B per il giorno 25/01/2025 dalle 14:13 alle 17:13,cancella,ufficio B,2025-01-25T14:13:24.494Z,2025-01-25T17:13:24.494Z
+363,Modifica la prenotazione di auditorium al giorno 27/02/2025 dalle 23:28 alle 08:28,modifica,auditorium,2025-02-27T23:28:24.494Z,2025-02-28T08:28:24.494Z
+364,Prenota desk 40 per il giorno 11/02/2025 dalle 13:58 alle 15:58,prenota,desk 40,2025-02-11T13:58:24.494Z,2025-02-11T15:58:24.494Z
+365,Cancella la prenotazione di desk 18 per il giorno 26/01/2025 dalle 08:43 alle 10:43,cancella,desk 18,2025-01-26T08:43:24.494Z,2025-01-26T10:43:24.494Z
+366,Cancella la prenotazione di auditorium per il giorno 21/03/2025 dalle 01:58 alle 09:58,cancella,auditorium,2025-03-21T01:58:24.494Z,2025-03-21T09:58:24.494Z
+367,Modifica la prenotazione di ufficio B al giorno 21/02/2025 dalle 12:13 alle 14:13,modifica,ufficio B,2025-02-21T12:13:24.494Z,2025-02-21T14:13:24.494Z
+368,Modifica la prenotazione di ufficio B al giorno 11/01/2025 dalle 04:43 alle 10:43,modifica,ufficio B,2025-01-11T04:43:24.494Z,2025-01-11T10:43:24.494Z
+369,Prenota auditorium per il giorno 06/03/2025 dalle 03:13 alle 04:13,prenota,auditorium,2025-03-06T03:13:24.494Z,2025-03-06T04:13:24.494Z
+370,Cancella la prenotazione di sala riunioni per il giorno 05/03/2025 dalle 11:28 alle 20:28,cancella,sala riunioni,2025-03-05T11:28:24.494Z,2025-03-05T20:28:24.494Z
+371,Prenota desk 18 per il giorno 27/03/2025 dalle 05:13 alle 14:13,prenota,desk 18,2025-03-27T05:13:24.494Z,2025-03-27T14:13:24.494Z
+372,Modifica la prenotazione di auditorium al giorno 08/02/2025 dalle 04:43 alle 12:43,modifica,auditorium,2025-02-08T04:43:24.494Z,2025-02-08T12:43:24.494Z
+373,Prenota sala meeting per il giorno 24/03/2025 dalle 06:13 alle 13:13,prenota,sala meeting,2025-03-24T06:13:24.494Z,2025-03-24T13:13:24.494Z
+374,Cancella la prenotazione di sala riunioni per il giorno 06/03/2025 dalle 00:13 alle 02:13,cancella,sala riunioni,2025-03-06T00:13:24.494Z,2025-03-06T02:13:24.494Z
+375,Cancella la prenotazione di ufficio B per il giorno 05/03/2025 dalle 09:13 alle 14:13,cancella,ufficio B,2025-03-05T09:13:24.494Z,2025-03-05T14:13:24.494Z
+376,Cancella la prenotazione di desk 40 per il giorno 08/02/2025 dalle 11:28 alle 20:28,cancella,desk 40,2025-02-08T11:28:24.494Z,2025-02-08T20:28:24.494Z
+377,Prenota auditorium per il giorno 14/01/2025 dalle 03:43 alle 09:43,prenota,auditorium,2025-01-14T03:43:24.494Z,2025-01-14T09:43:24.494Z
+378,Modifica la prenotazione di sala riunioni al giorno 11/03/2025 dalle 23:28 alle 04:28,modifica,sala riunioni,2025-03-11T23:28:24.494Z,2025-03-12T04:28:24.494Z
+379,Cancella la prenotazione di auditorium per il giorno 17/02/2025 dalle 07:28 alle 14:28,cancella,auditorium,2025-02-17T07:28:24.494Z,2025-02-17T14:28:24.494Z
+380,Modifica la prenotazione di ufficio B al giorno 11/03/2025 dalle 12:43 alle 21:43,modifica,ufficio B,2025-03-11T12:43:24.494Z,2025-03-11T21:43:24.494Z
+381,Cancella la prenotazione di desk 18 per il giorno 01/04/2025 dalle 23:43 alle 01:43,cancella,desk 18,2025-04-01T23:43:24.494Z,2025-04-02T01:43:24.494Z
+382,Cancella la prenotazione di auditorium per il giorno 31/01/2025 dalle 10:58 alle 12:58,cancella,auditorium,2025-01-31T10:58:24.494Z,2025-01-31T12:58:24.494Z
+383,Modifica la prenotazione di auditorium al giorno 07/03/2025 dalle 02:28 alle 03:28,modifica,auditorium,2025-03-07T02:28:24.494Z,2025-03-07T03:28:24.494Z
+384,Cancella la prenotazione di auditorium per il giorno 01/04/2025 dalle 00:58 alle 01:58,cancella,auditorium,2025-04-01T00:58:24.494Z,2025-04-01T01:58:24.494Z
+385,Prenota desk 18 per il giorno 14/02/2025 dalle 02:13 alle 06:13,prenota,desk 18,2025-02-14T02:13:24.494Z,2025-02-14T06:13:24.494Z
+386,Cancella la prenotazione di desk 40 per il giorno 22/02/2025 dalle 23:43 alle 02:43,cancella,desk 40,2025-02-22T23:43:24.494Z,2025-02-23T02:43:24.494Z
+387,Modifica la prenotazione di auditorium al giorno 23/03/2025 dalle 09:58 alle 16:58,modifica,auditorium,2025-03-23T09:58:24.494Z,2025-03-23T16:58:24.494Z
+388,Modifica la prenotazione di ufficio B al giorno 03/04/2025 dalle 12:58 alle 16:58,modifica,ufficio B,2025-04-03T12:58:24.494Z,2025-04-03T16:58:24.494Z
+389,Modifica la prenotazione di desk 18 al giorno 06/02/2025 dalle 05:28 alle 12:28,modifica,desk 18,2025-02-06T05:28:24.494Z,2025-02-06T12:28:24.494Z
+390,Cancella la prenotazione di ufficio A per il giorno 07/02/2025 dalle 12:43 alle 20:43,cancella,ufficio A,2025-02-07T12:43:24.494Z,2025-02-07T20:43:24.494Z
+391,Cancella la prenotazione di ufficio B per il giorno 04/01/2025 dalle 10:13 alle 11:13,cancella,ufficio B,2025-01-04T10:13:24.494Z,2025-01-04T11:13:24.494Z
+392,Modifica la prenotazione di desk 40 al giorno 01/03/2025 dalle 01:43 alle 03:43,modifica,desk 40,2025-03-01T01:43:24.494Z,2025-03-01T03:43:24.494Z
+393,Modifica la prenotazione di sala riunioni al giorno 17/01/2025 dalle 02:13 alle 04:13,modifica,sala riunioni,2025-01-17T02:13:24.494Z,2025-01-17T04:13:24.494Z
+394,Prenota ufficio B per il giorno 13/02/2025 dalle 01:58 alle 08:58,prenota,ufficio B,2025-02-13T01:58:24.494Z,2025-02-13T08:58:24.494Z
+395,Cancella la prenotazione di ufficio B per il giorno 08/02/2025 dalle 03:58 alle 05:58,cancella,ufficio B,2025-02-08T03:58:24.494Z,2025-02-08T05:58:24.494Z
+396,Prenota ufficio A per il giorno 28/01/2025 dalle 01:13 alle 05:13,prenota,ufficio A,2025-01-28T01:13:24.494Z,2025-01-28T05:13:24.494Z
+397,Prenota ufficio B per il giorno 07/01/2025 dalle 07:13 alle 09:13,prenota,ufficio B,2025-01-07T07:13:24.494Z,2025-01-07T09:13:24.494Z
+398,Prenota auditorium per il giorno 07/01/2025 dalle 13:13 alle 16:13,prenota,auditorium,2025-01-07T13:13:24.494Z,2025-01-07T16:13:24.494Z
+399,Prenota desk 40 per il giorno 01/04/2025 dalle 11:28 alle 15:28,prenota,desk 40,2025-04-01T11:28:24.494Z,2025-04-01T15:28:24.494Z
+400,Cancella la prenotazione di ufficio B per il giorno 19/02/2025 dalle 06:43 alle 14:43,cancella,ufficio B,2025-02-19T06:43:24.494Z,2025-02-19T14:43:24.494Z
+401,Modifica la prenotazione di desk 40 al giorno 08/01/2025 dalle 09:43 alle 13:43,modifica,desk 40,2025-01-08T09:43:24.494Z,2025-01-08T13:43:24.494Z
+402,Modifica la prenotazione di sala meeting al giorno 08/01/2025 dalle 08:28 alle 11:28,modifica,sala meeting,2025-01-08T08:28:24.494Z,2025-01-08T11:28:24.494Z
+403,Cancella la prenotazione di desk 40 per il giorno 04/02/2025 dalle 13:43 alle 19:43,cancella,desk 40,2025-02-04T13:43:24.494Z,2025-02-04T19:43:24.494Z
+404,Cancella la prenotazione di auditorium per il giorno 26/03/2025 dalle 00:13 alle 07:13,cancella,auditorium,2025-03-26T00:13:24.494Z,2025-03-26T07:13:24.494Z
+405,Prenota sala meeting per il giorno 08/03/2025 dalle 00:43 alle 03:43,prenota,sala meeting,2025-03-08T00:43:24.494Z,2025-03-08T03:43:24.494Z
+406,Modifica la prenotazione di auditorium al giorno 14/02/2025 dalle 10:13 alle 11:13,modifica,auditorium,2025-02-14T10:13:24.494Z,2025-02-14T11:13:24.494Z
+407,Cancella la prenotazione di sala riunioni per il giorno 03/02/2025 dalle 08:58 alle 17:58,cancella,sala riunioni,2025-02-03T08:58:24.494Z,2025-02-03T17:58:24.494Z
+408,Prenota auditorium per il giorno 14/03/2025 dalle 04:28 alle 06:28,prenota,auditorium,2025-03-14T04:28:24.494Z,2025-03-14T06:28:24.494Z
+409,Modifica la prenotazione di sala riunioni al giorno 24/02/2025 dalle 07:28 alle 17:28,modifica,sala riunioni,2025-02-24T07:28:24.494Z,2025-02-24T17:28:24.494Z
+410,Modifica la prenotazione di auditorium al giorno 13/02/2025 dalle 04:28 alle 07:28,modifica,auditorium,2025-02-13T04:28:24.494Z,2025-02-13T07:28:24.494Z
+411,Prenota desk 18 per il giorno 01/02/2025 dalle 00:13 alle 01:13,prenota,desk 18,2025-02-01T00:13:24.494Z,2025-02-01T01:13:24.494Z
+412,Modifica la prenotazione di sala riunioni al giorno 21/02/2025 dalle 11:28 alle 15:28,modifica,sala riunioni,2025-02-21T11:28:24.494Z,2025-02-21T15:28:24.494Z
+413,Modifica la prenotazione di sala riunioni al giorno 16/03/2025 dalle 07:28 alle 08:28,modifica,sala riunioni,2025-03-16T07:28:24.494Z,2025-03-16T08:28:24.494Z
+414,Modifica la prenotazione di desk 40 al giorno 04/03/2025 dalle 14:13 alle 19:13,modifica,desk 40,2025-03-04T14:13:24.494Z,2025-03-04T19:13:24.494Z
+415,Modifica la prenotazione di ufficio B al giorno 21/02/2025 dalle 06:43 alle 14:43,modifica,ufficio B,2025-02-21T06:43:24.494Z,2025-02-21T14:43:24.494Z
+416,Modifica la prenotazione di sala meeting al giorno 16/02/2025 dalle 10:13 alle 18:13,modifica,sala meeting,2025-02-16T10:13:24.494Z,2025-02-16T18:13:24.494Z
+417,Prenota ufficio A per il giorno 12/03/2025 dalle 13:58 alle 17:58,prenota,ufficio A,2025-03-12T13:58:24.494Z,2025-03-12T17:58:24.494Z
+418,Prenota sala meeting per il giorno 25/03/2025 dalle 10:43 alle 17:43,prenota,sala meeting,2025-03-25T10:43:24.494Z,2025-03-25T17:43:24.494Z
+419,Cancella la prenotazione di auditorium per il giorno 19/02/2025 dalle 10:28 alle 17:28,cancella,auditorium,2025-02-19T10:28:24.494Z,2025-02-19T17:28:24.494Z
+420,Cancella la prenotazione di auditorium per il giorno 08/01/2025 dalle 07:13 alle 16:13,cancella,auditorium,2025-01-08T07:13:24.494Z,2025-01-08T16:13:24.494Z
+421,Prenota ufficio A per il giorno 19/01/2025 dalle 12:58 alle 16:58,prenota,ufficio A,2025-01-19T12:58:24.494Z,2025-01-19T16:58:24.494Z
+422,Cancella la prenotazione di ufficio A per il giorno 25/02/2025 dalle 07:13 alle 15:13,cancella,ufficio A,2025-02-25T07:13:24.494Z,2025-02-25T15:13:24.494Z
+423,Cancella la prenotazione di ufficio A per il giorno 18/02/2025 dalle 04:58 alle 11:58,cancella,ufficio A,2025-02-18T04:58:24.494Z,2025-02-18T11:58:24.494Z
+424,Prenota desk 18 per il giorno 11/03/2025 dalle 02:43 alle 06:43,prenota,desk 18,2025-03-11T02:43:24.494Z,2025-03-11T06:43:24.494Z
+425,Modifica la prenotazione di auditorium al giorno 16/03/2025 dalle 02:58 alle 10:58,modifica,auditorium,2025-03-16T02:58:24.494Z,2025-03-16T10:58:24.494Z
+426,Modifica la prenotazione di desk 40 al giorno 24/02/2025 dalle 04:58 alle 08:58,modifica,desk 40,2025-02-24T04:58:24.494Z,2025-02-24T08:58:24.494Z
+427,Cancella la prenotazione di auditorium per il giorno 04/03/2025 dalle 01:13 alle 06:13,cancella,auditorium,2025-03-04T01:13:24.494Z,2025-03-04T06:13:24.494Z
+428,Modifica la prenotazione di ufficio A al giorno 09/01/2025 dalle 02:43 alle 08:43,modifica,ufficio A,2025-01-09T02:43:24.494Z,2025-01-09T08:43:24.494Z
+429,Modifica la prenotazione di auditorium al giorno 28/03/2025 dalle 06:13 alle 09:13,modifica,auditorium,2025-03-28T06:13:24.494Z,2025-03-28T09:13:24.494Z
+430,Cancella la prenotazione di sala riunioni per il giorno 01/04/2025 dalle 03:13 alle 13:13,cancella,sala riunioni,2025-04-01T03:13:24.494Z,2025-04-01T13:13:24.494Z
+431,Modifica la prenotazione di auditorium al giorno 06/02/2025 dalle 10:43 alle 17:43,modifica,auditorium,2025-02-06T10:43:24.494Z,2025-02-06T17:43:24.494Z
+432,Modifica la prenotazione di desk 40 al giorno 28/01/2025 dalle 02:13 alle 08:13,modifica,desk 40,2025-01-28T02:13:24.494Z,2025-01-28T08:13:24.494Z
+433,Cancella la prenotazione di auditorium per il giorno 19/01/2025 dalle 12:13 alle 18:13,cancella,auditorium,2025-01-19T12:13:24.494Z,2025-01-19T18:13:24.494Z
+434,Modifica la prenotazione di desk 40 al giorno 22/03/2025 dalle 07:28 alle 09:28,modifica,desk 40,2025-03-22T07:28:24.494Z,2025-03-22T09:28:24.494Z
+435,Prenota sala riunioni per il giorno 04/01/2025 dalle 23:28 alle 05:28,prenota,sala riunioni,2025-01-04T23:28:24.494Z,2025-01-05T05:28:24.494Z
+436,Prenota sala meeting per il giorno 17/02/2025 dalle 02:43 alle 06:43,prenota,sala meeting,2025-02-17T02:43:24.494Z,2025-02-17T06:43:24.494Z
+437,Cancella la prenotazione di desk 40 per il giorno 11/01/2025 dalle 04:58 alle 14:58,cancella,desk 40,2025-01-11T04:58:24.494Z,2025-01-11T14:58:24.494Z
+438,Cancella la prenotazione di ufficio A per il giorno 15/02/2025 dalle 10:43 alle 15:43,cancella,ufficio A,2025-02-15T10:43:24.494Z,2025-02-15T15:43:24.494Z
+439,Cancella la prenotazione di sala riunioni per il giorno 15/03/2025 dalle 01:43 alle 04:43,cancella,sala riunioni,2025-03-15T01:43:24.494Z,2025-03-15T04:43:24.494Z
+440,Cancella la prenotazione di sala riunioni per il giorno 12/03/2025 dalle 14:13 alle 17:13,cancella,sala riunioni,2025-03-12T14:13:24.494Z,2025-03-12T17:13:24.494Z
+441,Modifica la prenotazione di ufficio B al giorno 24/03/2025 dalle 06:58 alle 10:58,modifica,ufficio B,2025-03-24T06:58:24.494Z,2025-03-24T10:58:24.494Z
+442,Prenota desk 18 per il giorno 21/01/2025 dalle 14:13 alle 16:13,prenota,desk 18,2025-01-21T14:13:24.494Z,2025-01-21T16:13:24.494Z
+443,Prenota auditorium per il giorno 20/02/2025 dalle 07:13 alle 15:13,prenota,auditorium,2025-02-20T07:13:24.494Z,2025-02-20T15:13:24.494Z
+444,Prenota desk 40 per il giorno 05/01/2025 dalle 08:58 alle 16:58,prenota,desk 40,2025-01-05T08:58:24.494Z,2025-01-05T16:58:24.494Z
+445,Modifica la prenotazione di ufficio B al giorno 26/01/2025 dalle 06:28 alle 14:28,modifica,ufficio B,2025-01-26T06:28:24.494Z,2025-01-26T14:28:24.494Z
+446,Modifica la prenotazione di ufficio B al giorno 16/02/2025 dalle 13:58 alle 15:58,modifica,ufficio B,2025-02-16T13:58:24.494Z,2025-02-16T15:58:24.494Z
+447,Cancella la prenotazione di sala riunioni per il giorno 25/01/2025 dalle 01:58 alle 08:58,cancella,sala riunioni,2025-01-25T01:58:24.494Z,2025-01-25T08:58:24.494Z
+448,Prenota sala riunioni per il giorno 29/03/2025 dalle 02:58 alle 07:58,prenota,sala riunioni,2025-03-29T02:58:24.494Z,2025-03-29T07:58:24.494Z
+449,Modifica la prenotazione di desk 40 al giorno 13/01/2025 dalle 05:13 alle 06:13,modifica,desk 40,2025-01-13T05:13:24.494Z,2025-01-13T06:13:24.494Z
+450,Modifica la prenotazione di ufficio B al giorno 25/02/2025 dalle 01:58 alle 06:58,modifica,ufficio B,2025-02-25T01:58:24.494Z,2025-02-25T06:58:24.494Z
+451,Prenota ufficio B per il giorno 07/02/2025 dalle 07:28 alle 15:28,prenota,ufficio B,2025-02-07T07:28:24.494Z,2025-02-07T15:28:24.494Z
+452,Cancella la prenotazione di auditorium per il giorno 09/01/2025 dalle 09:43 alle 14:43,cancella,auditorium,2025-01-09T09:43:24.494Z,2025-01-09T14:43:24.494Z
+453,Cancella la prenotazione di ufficio A per il giorno 27/02/2025 dalle 04:28 alle 09:28,cancella,ufficio A,2025-02-27T04:28:24.494Z,2025-02-27T09:28:24.494Z
+454,Modifica la prenotazione di desk 40 al giorno 28/03/2025 dalle 06:28 alle 12:28,modifica,desk 40,2025-03-28T06:28:24.494Z,2025-03-28T12:28:24.494Z
+455,Modifica la prenotazione di sala riunioni al giorno 19/01/2025 dalle 12:28 alle 22:28,modifica,sala riunioni,2025-01-19T12:28:24.494Z,2025-01-19T22:28:24.494Z
+456,Prenota sala meeting per il giorno 20/02/2025 dalle 03:13 alle 10:13,prenota,sala meeting,2025-02-20T03:13:24.494Z,2025-02-20T10:13:24.494Z
+457,Cancella la prenotazione di sala riunioni per il giorno 01/04/2025 dalle 09:58 alle 16:58,cancella,sala riunioni,2025-04-01T09:58:24.494Z,2025-04-01T16:58:24.494Z
+458,Cancella la prenotazione di sala meeting per il giorno 09/03/2025 dalle 13:13 alle 20:13,cancella,sala meeting,2025-03-09T13:13:24.494Z,2025-03-09T20:13:24.494Z
+459,Modifica la prenotazione di sala meeting al giorno 19/01/2025 dalle 04:58 alle 13:58,modifica,sala meeting,2025-01-19T04:58:24.494Z,2025-01-19T13:58:24.494Z
+460,Prenota ufficio A per il giorno 08/02/2025 dalle 03:28 alle 11:28,prenota,ufficio A,2025-02-08T03:28:24.494Z,2025-02-08T11:28:24.494Z
+461,Modifica la prenotazione di sala riunioni al giorno 29/03/2025 dalle 13:58 alle 22:58,modifica,sala riunioni,2025-03-29T13:58:24.494Z,2025-03-29T22:58:24.494Z
+462,Prenota sala riunioni per il giorno 19/01/2025 dalle 11:28 alle 15:28,prenota,sala riunioni,2025-01-19T11:28:24.494Z,2025-01-19T15:28:24.494Z
+463,Prenota auditorium per il giorno 19/02/2025 dalle 00:43 alle 10:43,prenota,auditorium,2025-02-19T00:43:24.494Z,2025-02-19T10:43:24.494Z
+464,Prenota desk 40 per il giorno 14/01/2025 dalle 12:28 alle 13:28,prenota,desk 40,2025-01-14T12:28:24.494Z,2025-01-14T13:28:24.494Z
+465,Modifica la prenotazione di sala riunioni al giorno 15/02/2025 dalle 12:28 alle 15:28,modifica,sala riunioni,2025-02-15T12:28:24.494Z,2025-02-15T15:28:24.494Z
+466,Modifica la prenotazione di desk 18 al giorno 02/03/2025 dalle 09:58 alle 11:58,modifica,desk 18,2025-03-02T09:58:24.494Z,2025-03-02T11:58:24.494Z
+467,Modifica la prenotazione di sala riunioni al giorno 10/01/2025 dalle 10:43 alle 14:43,modifica,sala riunioni,2025-01-10T10:43:24.494Z,2025-01-10T14:43:24.494Z
+468,Modifica la prenotazione di sala riunioni al giorno 26/01/2025 dalle 00:28 alle 01:28,modifica,sala riunioni,2025-01-26T00:28:24.494Z,2025-01-26T01:28:24.494Z
+469,Cancella la prenotazione di desk 40 per il giorno 31/03/2025 dalle 02:43 alle 03:43,cancella,desk 40,2025-03-31T02:43:24.494Z,2025-03-31T03:43:24.494Z
+470,Modifica la prenotazione di sala riunioni al giorno 21/02/2025 dalle 04:43 alle 12:43,modifica,sala riunioni,2025-02-21T04:43:24.494Z,2025-02-21T12:43:24.494Z
+471,Prenota desk 18 per il giorno 07/03/2025 dalle 08:43 alle 16:43,prenota,desk 18,2025-03-07T08:43:24.494Z,2025-03-07T16:43:24.494Z
+472,Cancella la prenotazione di desk 18 per il giorno 30/03/2025 dalle 08:28 alle 16:28,cancella,desk 18,2025-03-30T08:28:24.494Z,2025-03-30T16:28:24.494Z
+473,Prenota ufficio B per il giorno 03/01/2025 dalle 00:43 alle 04:43,prenota,ufficio B,2025-01-03T00:43:24.494Z,2025-01-03T04:43:24.494Z
+474,Cancella la prenotazione di auditorium per il giorno 13/03/2025 dalle 08:43 alle 10:43,cancella,auditorium,2025-03-13T08:43:24.494Z,2025-03-13T10:43:24.494Z
+475,Modifica la prenotazione di desk 40 al giorno 12/01/2025 dalle 02:43 alle 08:43,modifica,desk 40,2025-01-12T02:43:24.494Z,2025-01-12T08:43:24.494Z
+476,Prenota auditorium per il giorno 22/02/2025 dalle 09:58 alle 19:58,prenota,auditorium,2025-02-22T09:58:24.494Z,2025-02-22T19:58:24.494Z
+477,Cancella la prenotazione di ufficio B per il giorno 25/03/2025 dalle 03:43 alle 10:43,cancella,ufficio B,2025-03-25T03:43:24.494Z,2025-03-25T10:43:24.494Z
+478,Cancella la prenotazione di desk 40 per il giorno 16/02/2025 dalle 10:43 alle 19:43,cancella,desk 40,2025-02-16T10:43:24.494Z,2025-02-16T19:43:24.494Z
+479,Prenota desk 18 per il giorno 31/03/2025 dalle 03:58 alle 06:58,prenota,desk 18,2025-03-31T03:58:24.494Z,2025-03-31T06:58:24.494Z
+480,Prenota sala riunioni per il giorno 11/01/2025 dalle 06:58 alle 07:58,prenota,sala riunioni,2025-01-11T06:58:24.494Z,2025-01-11T07:58:24.494Z
+481,Modifica la prenotazione di desk 40 al giorno 27/02/2025 dalle 01:13 alle 02:13,modifica,desk 40,2025-02-27T01:13:24.494Z,2025-02-27T02:13:24.494Z
+482,Modifica la prenotazione di desk 18 al giorno 14/01/2025 dalle 04:58 alle 14:58,modifica,desk 18,2025-01-14T04:58:24.494Z,2025-01-14T14:58:24.494Z
+483,Modifica la prenotazione di sala riunioni al giorno 16/03/2025 dalle 03:58 alle 11:58,modifica,sala riunioni,2025-03-16T03:58:24.494Z,2025-03-16T11:58:24.494Z
+484,Cancella la prenotazione di desk 18 per il giorno 05/03/2025 dalle 05:13 alle 10:13,cancella,desk 18,2025-03-05T05:13:24.494Z,2025-03-05T10:13:24.494Z
+485,Cancella la prenotazione di sala meeting per il giorno 13/03/2025 dalle 10:43 alle 14:43,cancella,sala meeting,2025-03-13T10:43:24.494Z,2025-03-13T14:43:24.494Z
+486,Modifica la prenotazione di auditorium al giorno 08/01/2025 dalle 10:58 alle 17:58,modifica,auditorium,2025-01-08T10:58:24.494Z,2025-01-08T17:58:24.494Z
+487,Cancella la prenotazione di ufficio A per il giorno 13/02/2025 dalle 14:13 alle 22:13,cancella,ufficio A,2025-02-13T14:13:24.494Z,2025-02-13T22:13:24.494Z
+488,Cancella la prenotazione di ufficio A per il giorno 22/01/2025 dalle 02:13 alle 09:13,cancella,ufficio A,2025-01-22T02:13:24.494Z,2025-01-22T09:13:24.494Z
+489,Prenota desk 40 per il giorno 20/01/2025 dalle 11:58 alle 18:58,prenota,desk 40,2025-01-20T11:58:24.494Z,2025-01-20T18:58:24.494Z
+490,Modifica la prenotazione di auditorium al giorno 23/02/2025 dalle 04:28 alle 11:28,modifica,auditorium,2025-02-23T04:28:24.494Z,2025-02-23T11:28:24.494Z
+491,Modifica la prenotazione di auditorium al giorno 22/01/2025 dalle 08:43 alle 12:43,modifica,auditorium,2025-01-22T08:43:24.494Z,2025-01-22T12:43:24.494Z
+492,Prenota sala riunioni per il giorno 22/02/2025 dalle 06:43 alle 11:43,prenota,sala riunioni,2025-02-22T06:43:24.494Z,2025-02-22T11:43:24.494Z
+493,Cancella la prenotazione di auditorium per il giorno 05/01/2025 dalle 07:13 alle 10:13,cancella,auditorium,2025-01-05T07:13:24.494Z,2025-01-05T10:13:24.494Z
+494,Cancella la prenotazione di desk 40 per il giorno 14/03/2025 dalle 03:43 alle 07:43,cancella,desk 40,2025-03-14T03:43:24.494Z,2025-03-14T07:43:24.494Z
+495,Cancella la prenotazione di ufficio B per il giorno 07/03/2025 dalle 06:13 alle 09:13,cancella,ufficio B,2025-03-07T06:13:24.494Z,2025-03-07T09:13:24.494Z
+496,Cancella la prenotazione di desk 18 per il giorno 10/01/2025 dalle 04:28 alle 06:28,cancella,desk 18,2025-01-10T04:28:24.494Z,2025-01-10T06:28:24.494Z
+497,Cancella la prenotazione di desk 18 per il giorno 05/03/2025 dalle 08:58 alle 11:58,cancella,desk 18,2025-03-05T08:58:24.494Z,2025-03-05T11:58:24.494Z
+498,Prenota ufficio B per il giorno 07/03/2025 dalle 11:43 alle 18:43,prenota,ufficio B,2025-03-07T11:43:24.494Z,2025-03-07T18:43:24.494Z
+499,Cancella la prenotazione di sala riunioni per il giorno 11/02/2025 dalle 09:43 alle 15:43,cancella,sala riunioni,2025-02-11T09:43:24.494Z,2025-02-11T15:43:24.494Z
+500,Modifica la prenotazione di sala meeting al giorno 31/03/2025 dalle 09:13 alle 19:13,modifica,sala meeting,2025-03-31T09:13:24.494Z,2025-03-31T19:13:24.494Z
+501,Prenota ufficio B per il giorno 19/01/2025 dalle 07:58 alle 13:58,prenota,ufficio B,2025-01-19T07:58:24.494Z,2025-01-19T13:58:24.494Z
+502,Modifica la prenotazione di sala meeting al giorno 01/04/2025 dalle 12:43 alle 18:43,modifica,sala meeting,2025-04-01T12:43:24.494Z,2025-04-01T18:43:24.494Z
+503,Modifica la prenotazione di ufficio A al giorno 11/01/2025 dalle 00:13 alle 06:13,modifica,ufficio A,2025-01-11T00:13:24.494Z,2025-01-11T06:13:24.494Z
+504,Cancella la prenotazione di auditorium per il giorno 29/01/2025 dalle 04:43 alle 10:43,cancella,auditorium,2025-01-29T04:43:24.494Z,2025-01-29T10:43:24.494Z
+505,Modifica la prenotazione di ufficio A al giorno 07/02/2025 dalle 07:58 alle 17:58,modifica,ufficio A,2025-02-07T07:58:24.494Z,2025-02-07T17:58:24.494Z
+506,Cancella la prenotazione di desk 18 per il giorno 27/01/2025 dalle 13:43 alle 19:43,cancella,desk 18,2025-01-27T13:43:24.494Z,2025-01-27T19:43:24.494Z
+507,Modifica la prenotazione di ufficio B al giorno 01/02/2025 dalle 10:43 alle 14:43,modifica,ufficio B,2025-02-01T10:43:24.494Z,2025-02-01T14:43:24.494Z
+508,Cancella la prenotazione di ufficio B per il giorno 04/03/2025 dalle 13:28 alle 19:28,cancella,ufficio B,2025-03-04T13:28:24.494Z,2025-03-04T19:28:24.494Z
+509,Modifica la prenotazione di sala riunioni al giorno 21/02/2025 dalle 11:43 alle 21:43,modifica,sala riunioni,2025-02-21T11:43:24.494Z,2025-02-21T21:43:24.494Z
+510,Cancella la prenotazione di sala riunioni per il giorno 11/03/2025 dalle 07:13 alle 17:13,cancella,sala riunioni,2025-03-11T07:13:24.494Z,2025-03-11T17:13:24.494Z
+511,Modifica la prenotazione di sala meeting al giorno 11/01/2025 dalle 07:13 alle 11:13,modifica,sala meeting,2025-01-11T07:13:24.494Z,2025-01-11T11:13:24.494Z
+512,Cancella la prenotazione di desk 18 per il giorno 21/01/2025 dalle 04:28 alle 12:28,cancella,desk 18,2025-01-21T04:28:24.494Z,2025-01-21T12:28:24.494Z
+513,Prenota auditorium per il giorno 24/03/2025 dalle 23:58 alle 05:58,prenota,auditorium,2025-03-24T23:58:24.494Z,2025-03-25T05:58:24.494Z
+514,Modifica la prenotazione di ufficio A al giorno 15/03/2025 dalle 01:58 alle 07:58,modifica,ufficio A,2025-03-15T01:58:24.494Z,2025-03-15T07:58:24.494Z
+515,Cancella la prenotazione di sala meeting per il giorno 21/03/2025 dalle 13:43 alle 17:43,cancella,sala meeting,2025-03-21T13:43:24.509Z,2025-03-21T17:43:24.509Z
+516,Modifica la prenotazione di ufficio B al giorno 18/01/2025 dalle 03:28 alle 07:28,modifica,ufficio B,2025-01-18T03:28:24.509Z,2025-01-18T07:28:24.509Z
+517,Modifica la prenotazione di desk 40 al giorno 08/03/2025 dalle 03:43 alle 10:43,modifica,desk 40,2025-03-08T03:43:24.509Z,2025-03-08T10:43:24.509Z
+518,Cancella la prenotazione di desk 18 per il giorno 04/01/2025 dalle 03:58 alle 07:58,cancella,desk 18,2025-01-04T03:58:24.509Z,2025-01-04T07:58:24.509Z
+519,Prenota sala meeting per il giorno 06/01/2025 dalle 00:13 alle 02:13,prenota,sala meeting,2025-01-06T00:13:24.509Z,2025-01-06T02:13:24.509Z
+520,Cancella la prenotazione di ufficio A per il giorno 21/01/2025 dalle 07:13 alle 16:13,cancella,ufficio A,2025-01-21T07:13:24.509Z,2025-01-21T16:13:24.509Z
+521,Prenota ufficio B per il giorno 28/02/2025 dalle 11:58 alle 13:58,prenota,ufficio B,2025-02-28T11:58:24.509Z,2025-02-28T13:58:24.509Z
+522,Cancella la prenotazione di ufficio A per il giorno 07/02/2025 dalle 03:13 alle 08:13,cancella,ufficio A,2025-02-07T03:13:24.509Z,2025-02-07T08:13:24.509Z
+523,Prenota ufficio B per il giorno 19/01/2025 dalle 04:28 alle 06:28,prenota,ufficio B,2025-01-19T04:28:24.509Z,2025-01-19T06:28:24.509Z
+524,Prenota desk 40 per il giorno 13/02/2025 dalle 08:13 alle 14:13,prenota,desk 40,2025-02-13T08:13:24.511Z,2025-02-13T14:13:24.511Z
+525,Prenota sala meeting per il giorno 20/02/2025 dalle 07:28 alle 14:28,prenota,sala meeting,2025-02-20T07:28:24.511Z,2025-02-20T14:28:24.511Z
+526,Modifica la prenotazione di sala meeting al giorno 22/02/2025 dalle 01:58 alle 11:58,modifica,sala meeting,2025-02-22T01:58:24.511Z,2025-02-22T11:58:24.511Z
+527,Prenota desk 18 per il giorno 08/02/2025 dalle 04:28 alle 13:28,prenota,desk 18,2025-02-08T04:28:24.511Z,2025-02-08T13:28:24.511Z
+528,Prenota desk 18 per il giorno 19/01/2025 dalle 06:28 alle 08:28,prenota,desk 18,2025-01-19T06:28:24.511Z,2025-01-19T08:28:24.511Z
+529,Prenota auditorium per il giorno 16/01/2025 dalle 07:43 alle 11:43,prenota,auditorium,2025-01-16T07:43:24.511Z,2025-01-16T11:43:24.511Z
+530,Prenota desk 40 per il giorno 18/02/2025 dalle 04:58 alle 06:58,prenota,desk 40,2025-02-18T04:58:24.511Z,2025-02-18T06:58:24.511Z
+531,Cancella la prenotazione di sala meeting per il giorno 11/01/2025 dalle 07:13 alle 16:13,cancella,sala meeting,2025-01-11T07:13:24.511Z,2025-01-11T16:13:24.511Z
+532,Prenota ufficio B per il giorno 25/02/2025 dalle 10:13 alle 13:13,prenota,ufficio B,2025-02-25T10:13:24.511Z,2025-02-25T13:13:24.511Z
+533,Modifica la prenotazione di desk 40 al giorno 14/01/2025 dalle 12:43 alle 20:43,modifica,desk 40,2025-01-14T12:43:24.511Z,2025-01-14T20:43:24.511Z
+534,Prenota sala riunioni per il giorno 05/02/2025 dalle 02:43 alle 03:43,prenota,sala riunioni,2025-02-05T02:43:24.511Z,2025-02-05T03:43:24.511Z
+535,Modifica la prenotazione di desk 18 al giorno 14/03/2025 dalle 23:28 alle 03:28,modifica,desk 18,2025-03-14T23:28:24.511Z,2025-03-15T03:28:24.511Z
+536,Cancella la prenotazione di sala riunioni per il giorno 08/01/2025 dalle 02:43 alle 05:43,cancella,sala riunioni,2025-01-08T02:43:24.511Z,2025-01-08T05:43:24.511Z
+537,Prenota ufficio B per il giorno 12/02/2025 dalle 05:13 alle 12:13,prenota,ufficio B,2025-02-12T05:13:24.511Z,2025-02-12T12:13:24.511Z
+538,Prenota ufficio B per il giorno 09/02/2025 dalle 06:28 alle 13:28,prenota,ufficio B,2025-02-09T06:28:24.511Z,2025-02-09T13:28:24.511Z
+539,Modifica la prenotazione di sala riunioni al giorno 08/01/2025 dalle 02:28 alle 06:28,modifica,sala riunioni,2025-01-08T02:28:24.512Z,2025-01-08T06:28:24.512Z
+540,Prenota ufficio B per il giorno 05/03/2025 dalle 23:58 alle 01:58,prenota,ufficio B,2025-03-05T23:58:24.512Z,2025-03-06T01:58:24.512Z
+541,Modifica la prenotazione di sala meeting al giorno 09/03/2025 dalle 13:43 alle 20:43,modifica,sala meeting,2025-03-09T13:43:24.512Z,2025-03-09T20:43:24.512Z
+542,Prenota auditorium per il giorno 11/03/2025 dalle 23:58 alle 04:58,prenota,auditorium,2025-03-11T23:58:24.512Z,2025-03-12T04:58:24.512Z
+543,Modifica la prenotazione di sala meeting al giorno 09/03/2025 dalle 05:43 alle 09:43,modifica,sala meeting,2025-03-09T05:43:24.512Z,2025-03-09T09:43:24.512Z
+544,Modifica la prenotazione di sala meeting al giorno 14/02/2025 dalle 02:58 alle 07:58,modifica,sala meeting,2025-02-14T02:58:24.512Z,2025-02-14T07:58:24.512Z
+545,Cancella la prenotazione di sala riunioni per il giorno 27/03/2025 dalle 04:13 alle 05:13,cancella,sala riunioni,2025-03-27T04:13:24.512Z,2025-03-27T05:13:24.512Z
+546,Cancella la prenotazione di ufficio B per il giorno 27/03/2025 dalle 10:13 alle 14:13,cancella,ufficio B,2025-03-27T10:13:24.512Z,2025-03-27T14:13:24.512Z
+547,Prenota sala riunioni per il giorno 08/01/2025 dalle 05:28 alle 09:28,prenota,sala riunioni,2025-01-08T05:28:24.512Z,2025-01-08T09:28:24.512Z
+548,Prenota desk 40 per il giorno 16/03/2025 dalle 10:58 alle 14:58,prenota,desk 40,2025-03-16T10:58:24.512Z,2025-03-16T14:58:24.512Z
+549,Modifica la prenotazione di desk 40 al giorno 10/02/2025 dalle 05:13 alle 06:13,modifica,desk 40,2025-02-10T05:13:24.512Z,2025-02-10T06:13:24.512Z
+550,Modifica la prenotazione di desk 18 al giorno 01/02/2025 dalle 08:58 alle 12:58,modifica,desk 18,2025-02-01T08:58:24.512Z,2025-02-01T12:58:24.512Z
+551,Modifica la prenotazione di sala riunioni al giorno 10/02/2025 dalle 23:43 alle 02:43,modifica,sala riunioni,2025-02-10T23:43:24.512Z,2025-02-11T02:43:24.512Z
+552,Cancella la prenotazione di auditorium per il giorno 07/03/2025 dalle 11:13 alle 17:13,cancella,auditorium,2025-03-07T11:13:24.512Z,2025-03-07T17:13:24.512Z
+553,Cancella la prenotazione di ufficio A per il giorno 21/03/2025 dalle 11:43 alle 19:43,cancella,ufficio A,2025-03-21T11:43:24.512Z,2025-03-21T19:43:24.512Z
+554,Cancella la prenotazione di ufficio B per il giorno 20/03/2025 dalle 03:43 alle 05:43,cancella,ufficio B,2025-03-20T03:43:24.512Z,2025-03-20T05:43:24.512Z
+555,Modifica la prenotazione di sala riunioni al giorno 03/01/2025 dalle 12:28 alle 22:28,modifica,sala riunioni,2025-01-03T12:28:24.512Z,2025-01-03T22:28:24.512Z
+556,Prenota desk 40 per il giorno 04/01/2025 dalle 03:28 alle 08:28,prenota,desk 40,2025-01-04T03:28:24.512Z,2025-01-04T08:28:24.512Z
+557,Cancella la prenotazione di ufficio A per il giorno 16/03/2025 dalle 01:28 alle 02:28,cancella,ufficio A,2025-03-16T01:28:24.512Z,2025-03-16T02:28:24.512Z
+558,Cancella la prenotazione di auditorium per il giorno 26/03/2025 dalle 03:13 alle 09:13,cancella,auditorium,2025-03-26T03:13:24.512Z,2025-03-26T09:13:24.512Z
+559,Prenota sala meeting per il giorno 25/02/2025 dalle 09:28 alle 14:28,prenota,sala meeting,2025-02-25T09:28:24.513Z,2025-02-25T14:28:24.513Z
+560,Prenota sala riunioni per il giorno 10/02/2025 dalle 01:58 alle 09:58,prenota,sala riunioni,2025-02-10T01:58:24.513Z,2025-02-10T09:58:24.513Z
+561,Prenota sala riunioni per il giorno 25/03/2025 dalle 10:28 alle 18:28,prenota,sala riunioni,2025-03-25T10:28:24.513Z,2025-03-25T18:28:24.513Z
+562,Prenota sala riunioni per il giorno 17/01/2025 dalle 00:43 alle 08:43,prenota,sala riunioni,2025-01-17T00:43:24.513Z,2025-01-17T08:43:24.513Z
+563,Modifica la prenotazione di desk 18 al giorno 15/03/2025 dalle 03:58 alle 04:58,modifica,desk 18,2025-03-15T03:58:24.513Z,2025-03-15T04:58:24.513Z
+564,Modifica la prenotazione di ufficio B al giorno 05/03/2025 dalle 00:43 alle 04:43,modifica,ufficio B,2025-03-05T00:43:24.513Z,2025-03-05T04:43:24.513Z
+565,Prenota ufficio A per il giorno 30/03/2025 dalle 05:28 alle 06:28,prenota,ufficio A,2025-03-30T05:28:24.513Z,2025-03-30T06:28:24.513Z
+566,Cancella la prenotazione di ufficio A per il giorno 03/03/2025 dalle 05:43 alle 06:43,cancella,ufficio A,2025-03-03T05:43:24.513Z,2025-03-03T06:43:24.513Z
+567,Modifica la prenotazione di sala riunioni al giorno 28/03/2025 dalle 00:58 alle 05:58,modifica,sala riunioni,2025-03-28T00:58:24.513Z,2025-03-28T05:58:24.513Z
+568,Modifica la prenotazione di ufficio A al giorno 28/01/2025 dalle 11:58 alle 12:58,modifica,ufficio A,2025-01-28T11:58:24.513Z,2025-01-28T12:58:24.513Z
+569,Modifica la prenotazione di sala meeting al giorno 27/01/2025 dalle 03:13 alle 04:13,modifica,sala meeting,2025-01-27T03:13:24.513Z,2025-01-27T04:13:24.513Z
+570,Modifica la prenotazione di sala riunioni al giorno 16/03/2025 dalle 13:13 alle 22:13,modifica,sala riunioni,2025-03-16T13:13:24.513Z,2025-03-16T22:13:24.513Z
+571,Modifica la prenotazione di ufficio A al giorno 01/02/2025 dalle 10:28 alle 15:28,modifica,ufficio A,2025-02-01T10:28:24.513Z,2025-02-01T15:28:24.513Z
+572,Cancella la prenotazione di sala riunioni per il giorno 20/03/2025 dalle 05:13 alle 13:13,cancella,sala riunioni,2025-03-20T05:13:24.513Z,2025-03-20T13:13:24.513Z
+573,Modifica la prenotazione di auditorium al giorno 19/02/2025 dalle 09:58 alle 18:58,modifica,auditorium,2025-02-19T09:58:24.513Z,2025-02-19T18:58:24.513Z
+574,Modifica la prenotazione di auditorium al giorno 13/02/2025 dalle 10:58 alle 17:58,modifica,auditorium,2025-02-13T10:58:24.513Z,2025-02-13T17:58:24.513Z
+575,Prenota ufficio B per il giorno 23/02/2025 dalle 05:13 alle 11:13,prenota,ufficio B,2025-02-23T05:13:24.513Z,2025-02-23T11:13:24.513Z
+576,Cancella la prenotazione di auditorium per il giorno 30/03/2025 dalle 12:13 alle 21:13,cancella,auditorium,2025-03-30T12:13:24.513Z,2025-03-30T21:13:24.513Z
+577,Cancella la prenotazione di sala meeting per il giorno 27/02/2025 dalle 00:58 alle 03:58,cancella,sala meeting,2025-02-27T00:58:24.513Z,2025-02-27T03:58:24.513Z
+578,Cancella la prenotazione di sala meeting per il giorno 26/03/2025 dalle 07:13 alle 16:13,cancella,sala meeting,2025-03-26T07:13:24.513Z,2025-03-26T16:13:24.513Z
+579,Modifica la prenotazione di auditorium al giorno 08/01/2025 dalle 04:43 alle 14:43,modifica,auditorium,2025-01-08T04:43:24.514Z,2025-01-08T14:43:24.514Z
+580,Cancella la prenotazione di ufficio B per il giorno 24/03/2025 dalle 12:43 alle 22:43,cancella,ufficio B,2025-03-24T12:43:24.514Z,2025-03-24T22:43:24.514Z
+581,Prenota desk 40 per il giorno 29/01/2025 dalle 13:13 alle 15:13,prenota,desk 40,2025-01-29T13:13:24.514Z,2025-01-29T15:13:24.514Z
+582,Cancella la prenotazione di sala riunioni per il giorno 08/03/2025 dalle 07:28 alle 16:28,cancella,sala riunioni,2025-03-08T07:28:24.514Z,2025-03-08T16:28:24.514Z
+583,Prenota ufficio B per il giorno 03/01/2025 dalle 03:43 alle 07:43,prenota,ufficio B,2025-01-03T03:43:24.514Z,2025-01-03T07:43:24.514Z
+584,Modifica la prenotazione di desk 18 al giorno 14/02/2025 dalle 06:28 alle 12:28,modifica,desk 18,2025-02-14T06:28:24.514Z,2025-02-14T12:28:24.514Z
+585,Modifica la prenotazione di desk 40 al giorno 19/02/2025 dalle 08:13 alle 17:13,modifica,desk 40,2025-02-19T08:13:24.514Z,2025-02-19T17:13:24.514Z
+586,Modifica la prenotazione di desk 40 al giorno 22/02/2025 dalle 02:58 alle 09:58,modifica,desk 40,2025-02-22T02:58:24.514Z,2025-02-22T09:58:24.514Z
+587,Modifica la prenotazione di desk 40 al giorno 16/01/2025 dalle 03:13 alle 06:13,modifica,desk 40,2025-01-16T03:13:24.514Z,2025-01-16T06:13:24.514Z
+588,Modifica la prenotazione di desk 40 al giorno 27/01/2025 dalle 10:28 alle 19:28,modifica,desk 40,2025-01-27T10:28:24.514Z,2025-01-27T19:28:24.514Z
+589,Prenota ufficio A per il giorno 21/01/2025 dalle 13:28 alle 18:28,prenota,ufficio A,2025-01-21T13:28:24.514Z,2025-01-21T18:28:24.514Z
+590,Prenota desk 40 per il giorno 23/02/2025 dalle 03:43 alle 12:43,prenota,desk 40,2025-02-23T03:43:24.514Z,2025-02-23T12:43:24.514Z
+591,Modifica la prenotazione di sala riunioni al giorno 26/01/2025 dalle 23:28 alle 00:28,modifica,sala riunioni,2025-01-26T23:28:24.514Z,2025-01-27T00:28:24.514Z
+592,Cancella la prenotazione di sala riunioni per il giorno 29/01/2025 dalle 01:28 alle 03:28,cancella,sala riunioni,2025-01-29T01:28:24.514Z,2025-01-29T03:28:24.514Z
+593,Cancella la prenotazione di ufficio A per il giorno 18/01/2025 dalle 05:58 alle 12:58,cancella,ufficio A,2025-01-18T05:58:24.514Z,2025-01-18T12:58:24.514Z
+594,Prenota desk 18 per il giorno 20/03/2025 dalle 03:58 alle 10:58,prenota,desk 18,2025-03-20T03:58:24.514Z,2025-03-20T10:58:24.514Z
+595,Cancella la prenotazione di auditorium per il giorno 10/02/2025 dalle 06:13 alle 16:13,cancella,auditorium,2025-02-10T06:13:24.514Z,2025-02-10T16:13:24.514Z
+596,Modifica la prenotazione di sala riunioni al giorno 30/03/2025 dalle 06:28 alle 14:28,modifica,sala riunioni,2025-03-30T06:28:24.514Z,2025-03-30T14:28:24.514Z
+597,Cancella la prenotazione di sala meeting per il giorno 06/01/2025 dalle 04:13 alle 11:13,cancella,sala meeting,2025-01-06T04:13:24.514Z,2025-01-06T11:13:24.514Z
+598,Modifica la prenotazione di desk 40 al giorno 15/01/2025 dalle 05:58 alle 13:58,modifica,desk 40,2025-01-15T05:58:24.514Z,2025-01-15T13:58:24.514Z
+599,Prenota ufficio A per il giorno 07/01/2025 dalle 06:28 alle 14:28,prenota,ufficio A,2025-01-07T06:28:24.514Z,2025-01-07T14:28:24.514Z
+600,Cancella la prenotazione di ufficio B per il giorno 14/01/2025 dalle 00:43 alle 02:43,cancella,ufficio B,2025-01-14T00:43:24.515Z,2025-01-14T02:43:24.515Z
+601,Cancella la prenotazione di ufficio A per il giorno 15/02/2025 dalle 03:13 alle 04:13,cancella,ufficio A,2025-02-15T03:13:24.515Z,2025-02-15T04:13:24.515Z
+602,Cancella la prenotazione di sala meeting per il giorno 14/03/2025 dalle 12:13 alle 16:13,cancella,sala meeting,2025-03-14T12:13:24.515Z,2025-03-14T16:13:24.515Z
+603,Modifica la prenotazione di ufficio A al giorno 14/01/2025 dalle 23:43 alle 09:43,modifica,ufficio A,2025-01-14T23:43:24.515Z,2025-01-15T09:43:24.515Z
+604,Modifica la prenotazione di desk 40 al giorno 06/01/2025 dalle 14:13 alle 16:13,modifica,desk 40,2025-01-06T14:13:24.515Z,2025-01-06T16:13:24.515Z
+605,Modifica la prenotazione di auditorium al giorno 03/03/2025 dalle 04:13 alle 13:13,modifica,auditorium,2025-03-03T04:13:24.515Z,2025-03-03T13:13:24.515Z
+606,Modifica la prenotazione di desk 18 al giorno 09/01/2025 dalle 03:28 alle 12:28,modifica,desk 18,2025-01-09T03:28:24.515Z,2025-01-09T12:28:24.515Z
+607,Cancella la prenotazione di auditorium per il giorno 01/03/2025 dalle 03:43 alle 04:43,cancella,auditorium,2025-03-01T03:43:24.515Z,2025-03-01T04:43:24.515Z
+608,Cancella la prenotazione di ufficio B per il giorno 14/02/2025 dalle 05:28 alle 08:28,cancella,ufficio B,2025-02-14T05:28:24.515Z,2025-02-14T08:28:24.515Z
+609,Prenota auditorium per il giorno 05/03/2025 dalle 06:43 alle 07:43,prenota,auditorium,2025-03-05T06:43:24.515Z,2025-03-05T07:43:24.515Z
+610,Cancella la prenotazione di desk 40 per il giorno 27/03/2025 dalle 13:43 alle 20:43,cancella,desk 40,2025-03-27T13:43:24.515Z,2025-03-27T20:43:24.515Z
+611,Prenota sala meeting per il giorno 26/01/2025 dalle 02:58 alle 12:58,prenota,sala meeting,2025-01-26T02:58:24.515Z,2025-01-26T12:58:24.515Z
+612,Cancella la prenotazione di auditorium per il giorno 28/02/2025 dalle 11:28 alle 13:28,cancella,auditorium,2025-02-28T11:28:24.515Z,2025-02-28T13:28:24.515Z
+613,Prenota auditorium per il giorno 19/01/2025 dalle 10:28 alle 18:28,prenota,auditorium,2025-01-19T10:28:24.515Z,2025-01-19T18:28:24.515Z
+614,Cancella la prenotazione di sala meeting per il giorno 02/04/2025 dalle 05:28 alle 14:28,cancella,sala meeting,2025-04-02T05:28:24.515Z,2025-04-02T14:28:24.515Z
+615,Modifica la prenotazione di sala meeting al giorno 25/03/2025 dalle 07:28 alle 14:28,modifica,sala meeting,2025-03-25T07:28:24.515Z,2025-03-25T14:28:24.515Z
+616,Cancella la prenotazione di sala riunioni per il giorno 07/02/2025 dalle 06:13 alle 08:13,cancella,sala riunioni,2025-02-07T06:13:24.515Z,2025-02-07T08:13:24.515Z
+617,Prenota sala riunioni per il giorno 05/02/2025 dalle 13:58 alle 21:58,prenota,sala riunioni,2025-02-05T13:58:24.515Z,2025-02-05T21:58:24.515Z
+618,Cancella la prenotazione di ufficio B per il giorno 03/02/2025 dalle 13:43 alle 15:43,cancella,ufficio B,2025-02-03T13:43:24.515Z,2025-02-03T15:43:24.515Z
+619,Prenota auditorium per il giorno 14/01/2025 dalle 08:43 alle 12:43,prenota,auditorium,2025-01-14T08:43:24.515Z,2025-01-14T12:43:24.515Z
+620,Cancella la prenotazione di desk 18 per il giorno 13/03/2025 dalle 04:58 alle 12:58,cancella,desk 18,2025-03-13T04:58:24.516Z,2025-03-13T12:58:24.516Z
+621,Prenota desk 40 per il giorno 28/03/2025 dalle 02:13 alle 04:13,prenota,desk 40,2025-03-28T02:13:24.516Z,2025-03-28T04:13:24.516Z
+622,Modifica la prenotazione di sala riunioni al giorno 01/02/2025 dalle 02:43 alle 07:43,modifica,sala riunioni,2025-02-01T02:43:24.516Z,2025-02-01T07:43:24.516Z
+623,Prenota desk 18 per il giorno 02/04/2025 dalle 05:28 alle 11:28,prenota,desk 18,2025-04-02T05:28:24.516Z,2025-04-02T11:28:24.516Z
+624,Prenota ufficio B per il giorno 04/01/2025 dalle 00:58 alle 10:58,prenota,ufficio B,2025-01-04T00:58:24.516Z,2025-01-04T10:58:24.516Z
+625,Modifica la prenotazione di sala riunioni al giorno 10/02/2025 dalle 13:43 alle 19:43,modifica,sala riunioni,2025-02-10T13:43:24.516Z,2025-02-10T19:43:24.516Z
+626,Prenota desk 40 per il giorno 05/03/2025 dalle 11:43 alle 15:43,prenota,desk 40,2025-03-05T11:43:24.516Z,2025-03-05T15:43:24.516Z
+627,Modifica la prenotazione di ufficio A al giorno 05/03/2025 dalle 06:43 alle 08:43,modifica,ufficio A,2025-03-05T06:43:24.516Z,2025-03-05T08:43:24.516Z
+628,Prenota ufficio A per il giorno 14/03/2025 dalle 09:28 alle 12:28,prenota,ufficio A,2025-03-14T09:28:24.516Z,2025-03-14T12:28:24.516Z
+629,Modifica la prenotazione di auditorium al giorno 09/03/2025 dalle 01:28 alle 09:28,modifica,auditorium,2025-03-09T01:28:24.516Z,2025-03-09T09:28:24.516Z
+630,Modifica la prenotazione di sala riunioni al giorno 16/03/2025 dalle 01:43 alle 08:43,modifica,sala riunioni,2025-03-16T01:43:24.516Z,2025-03-16T08:43:24.516Z
+631,Modifica la prenotazione di sala meeting al giorno 31/01/2025 dalle 12:58 alle 19:58,modifica,sala meeting,2025-01-31T12:58:24.516Z,2025-01-31T19:58:24.516Z
+632,Prenota desk 40 per il giorno 26/02/2025 dalle 23:58 alle 06:58,prenota,desk 40,2025-02-26T23:58:24.516Z,2025-02-27T06:58:24.516Z
+633,Prenota auditorium per il giorno 29/03/2025 dalle 10:58 alle 17:58,prenota,auditorium,2025-03-29T10:58:24.516Z,2025-03-29T17:58:24.516Z
+634,Cancella la prenotazione di ufficio B per il giorno 31/01/2025 dalle 10:43 alle 18:43,cancella,ufficio B,2025-01-31T10:43:24.517Z,2025-01-31T18:43:24.517Z
+635,Modifica la prenotazione di desk 40 al giorno 09/03/2025 dalle 14:13 alle 17:13,modifica,desk 40,2025-03-09T14:13:24.517Z,2025-03-09T17:13:24.517Z
+636,Prenota ufficio B per il giorno 10/03/2025 dalle 04:13 alle 06:13,prenota,ufficio B,2025-03-10T04:13:24.517Z,2025-03-10T06:13:24.517Z
+637,Cancella la prenotazione di ufficio B per il giorno 06/01/2025 dalle 05:28 alle 14:28,cancella,ufficio B,2025-01-06T05:28:24.517Z,2025-01-06T14:28:24.517Z
+638,Prenota desk 18 per il giorno 21/01/2025 dalle 11:28 alle 17:28,prenota,desk 18,2025-01-21T11:28:24.517Z,2025-01-21T17:28:24.517Z
+639,Cancella la prenotazione di ufficio A per il giorno 07/02/2025 dalle 06:58 alle 11:58,cancella,ufficio A,2025-02-07T06:58:24.517Z,2025-02-07T11:58:24.517Z
+640,Modifica la prenotazione di ufficio B al giorno 13/02/2025 dalle 13:58 alle 21:58,modifica,ufficio B,2025-02-13T13:58:24.517Z,2025-02-13T21:58:24.517Z
+641,Modifica la prenotazione di ufficio A al giorno 21/02/2025 dalle 11:43 alle 19:43,modifica,ufficio A,2025-02-21T11:43:24.517Z,2025-02-21T19:43:24.517Z
+642,Cancella la prenotazione di sala riunioni per il giorno 01/04/2025 dalle 06:58 alle 15:58,cancella,sala riunioni,2025-04-01T06:58:24.517Z,2025-04-01T15:58:24.517Z
+643,Modifica la prenotazione di ufficio B al giorno 24/03/2025 dalle 00:58 alle 05:58,modifica,ufficio B,2025-03-24T00:58:24.517Z,2025-03-24T05:58:24.517Z
+644,Cancella la prenotazione di desk 40 per il giorno 08/02/2025 dalle 08:43 alle 14:43,cancella,desk 40,2025-02-08T08:43:24.517Z,2025-02-08T14:43:24.517Z
+645,Cancella la prenotazione di auditorium per il giorno 16/03/2025 dalle 02:58 alle 07:58,cancella,auditorium,2025-03-16T02:58:24.517Z,2025-03-16T07:58:24.517Z
+646,Prenota desk 40 per il giorno 14/02/2025 dalle 08:13 alle 13:13,prenota,desk 40,2025-02-14T08:13:24.517Z,2025-02-14T13:13:24.517Z
+647,Cancella la prenotazione di ufficio B per il giorno 26/02/2025 dalle 09:43 alle 19:43,cancella,ufficio B,2025-02-26T09:43:24.517Z,2025-02-26T19:43:24.517Z
+648,Prenota desk 40 per il giorno 01/04/2025 dalle 03:43 alle 09:43,prenota,desk 40,2025-04-01T03:43:24.517Z,2025-04-01T09:43:24.517Z
+649,Modifica la prenotazione di ufficio B al giorno 14/03/2025 dalle 04:43 alle 12:43,modifica,ufficio B,2025-03-14T04:43:24.518Z,2025-03-14T12:43:24.518Z
+650,Modifica la prenotazione di ufficio B al giorno 25/01/2025 dalle 00:58 alle 04:58,modifica,ufficio B,2025-01-25T00:58:24.518Z,2025-01-25T04:58:24.518Z
+651,Prenota ufficio B per il giorno 25/03/2025 dalle 12:58 alle 15:58,prenota,ufficio B,2025-03-25T12:58:24.518Z,2025-03-25T15:58:24.518Z
+652,Modifica la prenotazione di desk 40 al giorno 07/03/2025 dalle 04:43 alle 11:43,modifica,desk 40,2025-03-07T04:43:24.518Z,2025-03-07T11:43:24.518Z
+653,Cancella la prenotazione di desk 18 per il giorno 06/02/2025 dalle 14:13 alle 23:13,cancella,desk 18,2025-02-06T14:13:24.518Z,2025-02-06T23:13:24.518Z
+654,Cancella la prenotazione di auditorium per il giorno 04/02/2025 dalle 08:28 alle 13:28,cancella,auditorium,2025-02-04T08:28:24.518Z,2025-02-04T13:28:24.518Z
+655,Prenota ufficio A per il giorno 14/03/2025 dalle 05:28 alle 07:28,prenota,ufficio A,2025-03-14T05:28:24.518Z,2025-03-14T07:28:24.518Z
+656,Prenota desk 40 per il giorno 04/02/2025 dalle 14:13 alle 22:13,prenota,desk 40,2025-02-04T14:13:24.518Z,2025-02-04T22:13:24.518Z
+657,Modifica la prenotazione di ufficio B al giorno 07/02/2025 dalle 08:13 alle 12:13,modifica,ufficio B,2025-02-07T08:13:24.518Z,2025-02-07T12:13:24.518Z
+658,Cancella la prenotazione di sala riunioni per il giorno 26/02/2025 dalle 10:13 alle 20:13,cancella,sala riunioni,2025-02-26T10:13:24.518Z,2025-02-26T20:13:24.518Z
+659,Prenota ufficio A per il giorno 27/02/2025 dalle 05:58 alle 07:58,prenota,ufficio A,2025-02-27T05:58:24.518Z,2025-02-27T07:58:24.518Z
+660,Prenota auditorium per il giorno 18/01/2025 dalle 04:28 alle 05:28,prenota,auditorium,2025-01-18T04:28:24.518Z,2025-01-18T05:28:24.518Z
+661,Prenota sala meeting per il giorno 16/01/2025 dalle 07:58 alle 10:58,prenota,sala meeting,2025-01-16T07:58:24.518Z,2025-01-16T10:58:24.518Z
+662,Prenota desk 18 per il giorno 31/03/2025 dalle 05:43 alle 06:43,prenota,desk 18,2025-03-31T05:43:24.518Z,2025-03-31T06:43:24.518Z
+663,Modifica la prenotazione di ufficio B al giorno 09/01/2025 dalle 23:28 alle 05:28,modifica,ufficio B,2025-01-09T23:28:24.518Z,2025-01-10T05:28:24.518Z
+664,Modifica la prenotazione di desk 18 al giorno 07/02/2025 dalle 04:13 alle 08:13,modifica,desk 18,2025-02-07T04:13:24.518Z,2025-02-07T08:13:24.518Z
+665,Prenota auditorium per il giorno 23/03/2025 dalle 08:58 alle 17:58,prenota,auditorium,2025-03-23T08:58:24.518Z,2025-03-23T17:58:24.518Z
+666,Cancella la prenotazione di desk 40 per il giorno 02/02/2025 dalle 01:28 alle 10:28,cancella,desk 40,2025-02-02T01:28:24.518Z,2025-02-02T10:28:24.518Z
+667,Modifica la prenotazione di sala meeting al giorno 31/01/2025 dalle 02:13 alle 06:13,modifica,sala meeting,2025-01-31T02:13:24.518Z,2025-01-31T06:13:24.518Z
+668,Modifica la prenotazione di ufficio B al giorno 05/01/2025 dalle 01:28 alle 11:28,modifica,ufficio B,2025-01-05T01:28:24.518Z,2025-01-05T11:28:24.518Z
+669,Modifica la prenotazione di ufficio B al giorno 06/02/2025 dalle 12:13 alle 14:13,modifica,ufficio B,2025-02-06T12:13:24.518Z,2025-02-06T14:13:24.518Z
+670,Prenota auditorium per il giorno 24/02/2025 dalle 02:43 alle 10:43,prenota,auditorium,2025-02-24T02:43:24.518Z,2025-02-24T10:43:24.518Z
+671,Modifica la prenotazione di auditorium al giorno 25/01/2025 dalle 13:43 alle 18:43,modifica,auditorium,2025-01-25T13:43:24.518Z,2025-01-25T18:43:24.518Z
+672,Prenota sala riunioni per il giorno 02/02/2025 dalle 09:58 alle 16:58,prenota,sala riunioni,2025-02-02T09:58:24.518Z,2025-02-02T16:58:24.518Z
+673,Modifica la prenotazione di desk 40 al giorno 20/03/2025 dalle 13:13 alle 21:13,modifica,desk 40,2025-03-20T13:13:24.518Z,2025-03-20T21:13:24.518Z
+674,Prenota auditorium per il giorno 15/01/2025 dalle 12:28 alle 19:28,prenota,auditorium,2025-01-15T12:28:24.518Z,2025-01-15T19:28:24.518Z
+675,Modifica la prenotazione di ufficio A al giorno 28/02/2025 dalle 02:13 alle 12:13,modifica,ufficio A,2025-02-28T02:13:24.519Z,2025-02-28T12:13:24.519Z
+676,Cancella la prenotazione di sala riunioni per il giorno 13/03/2025 dalle 11:58 alle 15:58,cancella,sala riunioni,2025-03-13T11:58:24.519Z,2025-03-13T15:58:24.519Z
+677,Modifica la prenotazione di ufficio A al giorno 27/02/2025 dalle 11:58 alle 17:58,modifica,ufficio A,2025-02-27T11:58:24.519Z,2025-02-27T17:58:24.519Z
+678,Prenota ufficio A per il giorno 08/03/2025 dalle 09:13 alle 17:13,prenota,ufficio A,2025-03-08T09:13:24.519Z,2025-03-08T17:13:24.519Z
+679,Modifica la prenotazione di auditorium al giorno 19/02/2025 dalle 01:28 alle 11:28,modifica,auditorium,2025-02-19T01:28:24.519Z,2025-02-19T11:28:24.519Z
+680,Modifica la prenotazione di desk 18 al giorno 20/02/2025 dalle 02:13 alle 06:13,modifica,desk 18,2025-02-20T02:13:24.519Z,2025-02-20T06:13:24.519Z
+681,Prenota sala meeting per il giorno 17/02/2025 dalle 05:58 alle 09:58,prenota,sala meeting,2025-02-17T05:58:24.519Z,2025-02-17T09:58:24.519Z
+682,Modifica la prenotazione di sala meeting al giorno 01/02/2025 dalle 06:13 alle 07:13,modifica,sala meeting,2025-02-01T06:13:24.519Z,2025-02-01T07:13:24.519Z
+683,Modifica la prenotazione di ufficio B al giorno 03/02/2025 dalle 09:28 alle 17:28,modifica,ufficio B,2025-02-03T09:28:24.519Z,2025-02-03T17:28:24.519Z
+684,Modifica la prenotazione di desk 40 al giorno 05/01/2025 dalle 05:58 alle 11:58,modifica,desk 40,2025-01-05T05:58:24.519Z,2025-01-05T11:58:24.519Z
+685,Cancella la prenotazione di sala riunioni per il giorno 06/03/2025 dalle 06:13 alle 13:13,cancella,sala riunioni,2025-03-06T06:13:24.519Z,2025-03-06T13:13:24.519Z
+686,Prenota ufficio A per il giorno 04/02/2025 dalle 04:43 alle 09:43,prenota,ufficio A,2025-02-04T04:43:24.519Z,2025-02-04T09:43:24.519Z
+687,Cancella la prenotazione di sala meeting per il giorno 05/03/2025 dalle 01:43 alle 05:43,cancella,sala meeting,2025-03-05T01:43:24.519Z,2025-03-05T05:43:24.519Z
+688,Modifica la prenotazione di desk 18 al giorno 10/03/2025 dalle 08:43 alle 09:43,modifica,desk 18,2025-03-10T08:43:24.519Z,2025-03-10T09:43:24.519Z
+689,Cancella la prenotazione di sala meeting per il giorno 09/01/2025 dalle 11:43 alle 13:43,cancella,sala meeting,2025-01-09T11:43:24.519Z,2025-01-09T13:43:24.519Z
+690,Modifica la prenotazione di auditorium al giorno 14/01/2025 dalle 08:28 alle 13:28,modifica,auditorium,2025-01-14T08:28:24.519Z,2025-01-14T13:28:24.519Z
+691,Prenota ufficio B per il giorno 04/02/2025 dalle 06:43 alle 11:43,prenota,ufficio B,2025-02-04T06:43:24.519Z,2025-02-04T11:43:24.519Z
+692,Prenota desk 40 per il giorno 27/02/2025 dalle 03:43 alle 07:43,prenota,desk 40,2025-02-27T03:43:24.519Z,2025-02-27T07:43:24.519Z
+693,Cancella la prenotazione di sala meeting per il giorno 24/01/2025 dalle 07:28 alle 11:28,cancella,sala meeting,2025-01-24T07:28:24.519Z,2025-01-24T11:28:24.519Z
+694,Prenota ufficio B per il giorno 09/01/2025 dalle 08:43 alle 13:43,prenota,ufficio B,2025-01-09T08:43:24.519Z,2025-01-09T13:43:24.519Z
+695,Modifica la prenotazione di ufficio A al giorno 26/02/2025 dalle 13:43 alle 17:43,modifica,ufficio A,2025-02-26T13:43:24.519Z,2025-02-26T17:43:24.519Z
+696,Prenota desk 40 per il giorno 28/01/2025 dalle 08:28 alle 10:28,prenota,desk 40,2025-01-28T08:28:24.519Z,2025-01-28T10:28:24.519Z
+697,Prenota sala meeting per il giorno 25/01/2025 dalle 07:28 alle 15:28,prenota,sala meeting,2025-01-25T07:28:24.519Z,2025-01-25T15:28:24.519Z
+698,Modifica la prenotazione di desk 40 al giorno 19/02/2025 dalle 10:43 alle 13:43,modifica,desk 40,2025-02-19T10:43:24.519Z,2025-02-19T13:43:24.519Z
+699,Modifica la prenotazione di auditorium al giorno 03/02/2025 dalle 11:28 alle 17:28,modifica,auditorium,2025-02-03T11:28:24.519Z,2025-02-03T17:28:24.519Z
+700,Prenota desk 40 per il giorno 06/02/2025 dalle 07:28 alle 16:28,prenota,desk 40,2025-02-06T07:28:24.520Z,2025-02-06T16:28:24.520Z
+701,Modifica la prenotazione di sala riunioni al giorno 22/02/2025 dalle 01:43 alle 02:43,modifica,sala riunioni,2025-02-22T01:43:24.520Z,2025-02-22T02:43:24.520Z
+702,Cancella la prenotazione di auditorium per il giorno 19/01/2025 dalle 02:58 alle 12:58,cancella,auditorium,2025-01-19T02:58:24.520Z,2025-01-19T12:58:24.520Z
+703,Cancella la prenotazione di ufficio A per il giorno 03/02/2025 dalle 06:43 alle 08:43,cancella,ufficio A,2025-02-03T06:43:24.520Z,2025-02-03T08:43:24.520Z
+704,Modifica la prenotazione di auditorium al giorno 23/01/2025 dalle 09:28 alle 11:28,modifica,auditorium,2025-01-23T09:28:24.520Z,2025-01-23T11:28:24.520Z
+705,Cancella la prenotazione di auditorium per il giorno 03/01/2025 dalle 04:13 alle 13:13,cancella,auditorium,2025-01-03T04:13:24.520Z,2025-01-03T13:13:24.520Z
+706,Cancella la prenotazione di desk 18 per il giorno 22/02/2025 dalle 08:13 alle 17:13,cancella,desk 18,2025-02-22T08:13:24.520Z,2025-02-22T17:13:24.520Z
+707,Cancella la prenotazione di desk 18 per il giorno 10/03/2025 dalle 05:13 alle 10:13,cancella,desk 18,2025-03-10T05:13:24.520Z,2025-03-10T10:13:24.520Z
+708,Modifica la prenotazione di ufficio A al giorno 24/01/2025 dalle 08:13 alle 11:13,modifica,ufficio A,2025-01-24T08:13:24.520Z,2025-01-24T11:13:24.520Z
+709,Prenota auditorium per il giorno 12/01/2025 dalle 08:58 alle 13:58,prenota,auditorium,2025-01-12T08:58:24.520Z,2025-01-12T13:58:24.520Z
+710,Prenota ufficio B per il giorno 24/02/2025 dalle 06:13 alle 11:13,prenota,ufficio B,2025-02-24T06:13:24.520Z,2025-02-24T11:13:24.520Z
+711,Cancella la prenotazione di sala riunioni per il giorno 12/02/2025 dalle 06:43 alle 07:43,cancella,sala riunioni,2025-02-12T06:43:24.520Z,2025-02-12T07:43:24.520Z
+712,Prenota ufficio A per il giorno 25/03/2025 dalle 11:43 alle 19:43,prenota,ufficio A,2025-03-25T11:43:24.520Z,2025-03-25T19:43:24.520Z
+713,Modifica la prenotazione di desk 40 al giorno 20/01/2025 dalle 09:58 alle 16:58,modifica,desk 40,2025-01-20T09:58:24.520Z,2025-01-20T16:58:24.520Z
+714,Prenota auditorium per il giorno 05/01/2025 dalle 13:43 alle 21:43,prenota,auditorium,2025-01-05T13:43:24.520Z,2025-01-05T21:43:24.520Z
+715,Cancella la prenotazione di ufficio A per il giorno 23/02/2025 dalle 07:13 alle 13:13,cancella,ufficio A,2025-02-23T07:13:24.520Z,2025-02-23T13:13:24.520Z
+716,Prenota ufficio A per il giorno 19/01/2025 dalle 05:28 alle 09:28,prenota,ufficio A,2025-01-19T05:28:24.520Z,2025-01-19T09:28:24.520Z
+717,Prenota desk 18 per il giorno 15/01/2025 dalle 03:58 alle 04:58,prenota,desk 18,2025-01-15T03:58:24.520Z,2025-01-15T04:58:24.520Z
+718,Cancella la prenotazione di ufficio A per il giorno 21/02/2025 dalle 14:13 alle 16:13,cancella,ufficio A,2025-02-21T14:13:24.520Z,2025-02-21T16:13:24.520Z
+719,Modifica la prenotazione di sala meeting al giorno 17/02/2025 dalle 13:13 alle 14:13,modifica,sala meeting,2025-02-17T13:13:24.520Z,2025-02-17T14:13:24.520Z
+720,Cancella la prenotazione di sala riunioni per il giorno 17/02/2025 dalle 04:43 alle 09:43,cancella,sala riunioni,2025-02-17T04:43:24.520Z,2025-02-17T09:43:24.520Z
+721,Modifica la prenotazione di auditorium al giorno 04/01/2025 dalle 00:43 alle 09:43,modifica,auditorium,2025-01-04T00:43:24.520Z,2025-01-04T09:43:24.520Z
+722,Cancella la prenotazione di sala riunioni per il giorno 06/01/2025 dalle 07:43 alle 16:43,cancella,sala riunioni,2025-01-06T07:43:24.520Z,2025-01-06T16:43:24.520Z
+723,Cancella la prenotazione di sala riunioni per il giorno 01/03/2025 dalle 05:58 alle 15:58,cancella,sala riunioni,2025-03-01T05:58:24.520Z,2025-03-01T15:58:24.520Z
+724,Cancella la prenotazione di sala meeting per il giorno 23/03/2025 dalle 04:58 alle 10:58,cancella,sala meeting,2025-03-23T04:58:24.520Z,2025-03-23T10:58:24.520Z
+725,Prenota desk 40 per il giorno 10/03/2025 dalle 08:28 alle 16:28,prenota,desk 40,2025-03-10T08:28:24.520Z,2025-03-10T16:28:24.520Z
+726,Cancella la prenotazione di ufficio A per il giorno 08/03/2025 dalle 23:28 alle 02:28,cancella,ufficio A,2025-03-08T23:28:24.520Z,2025-03-09T02:28:24.520Z
+727,Cancella la prenotazione di sala meeting per il giorno 28/03/2025 dalle 11:13 alle 16:13,cancella,sala meeting,2025-03-28T11:13:24.521Z,2025-03-28T16:13:24.521Z
+728,Prenota auditorium per il giorno 28/01/2025 dalle 01:13 alle 06:13,prenota,auditorium,2025-01-28T01:13:24.521Z,2025-01-28T06:13:24.521Z
+729,Cancella la prenotazione di auditorium per il giorno 07/01/2025 dalle 23:58 alle 00:58,cancella,auditorium,2025-01-07T23:58:24.521Z,2025-01-08T00:58:24.521Z
+730,Prenota auditorium per il giorno 25/02/2025 dalle 08:43 alle 15:43,prenota,auditorium,2025-02-25T08:43:24.521Z,2025-02-25T15:43:24.521Z
+731,Prenota ufficio A per il giorno 14/03/2025 dalle 08:58 alle 12:58,prenota,ufficio A,2025-03-14T08:58:24.521Z,2025-03-14T12:58:24.521Z
+732,Prenota sala riunioni per il giorno 23/01/2025 dalle 12:28 alle 17:28,prenota,sala riunioni,2025-01-23T12:28:24.521Z,2025-01-23T17:28:24.521Z
+733,Modifica la prenotazione di ufficio A al giorno 11/01/2025 dalle 03:13 alle 06:13,modifica,ufficio A,2025-01-11T03:13:24.521Z,2025-01-11T06:13:24.521Z
+734,Modifica la prenotazione di ufficio A al giorno 17/01/2025 dalle 01:13 alle 07:13,modifica,ufficio A,2025-01-17T01:13:24.521Z,2025-01-17T07:13:24.521Z
+735,Modifica la prenotazione di desk 18 al giorno 19/02/2025 dalle 13:13 alle 18:13,modifica,desk 18,2025-02-19T13:13:24.521Z,2025-02-19T18:13:24.521Z
+736,Modifica la prenotazione di ufficio B al giorno 14/03/2025 dalle 13:58 alle 19:58,modifica,ufficio B,2025-03-14T13:58:24.521Z,2025-03-14T19:58:24.521Z
+737,Modifica la prenotazione di auditorium al giorno 29/03/2025 dalle 09:58 alle 19:58,modifica,auditorium,2025-03-29T09:58:24.521Z,2025-03-29T19:58:24.521Z
+738,Prenota auditorium per il giorno 05/01/2025 dalle 06:13 alle 11:13,prenota,auditorium,2025-01-05T06:13:24.521Z,2025-01-05T11:13:24.521Z
+739,Cancella la prenotazione di ufficio B per il giorno 10/02/2025 dalle 07:13 alle 08:13,cancella,ufficio B,2025-02-10T07:13:24.521Z,2025-02-10T08:13:24.521Z
+740,Modifica la prenotazione di sala meeting al giorno 04/02/2025 dalle 00:43 alle 09:43,modifica,sala meeting,2025-02-04T00:43:24.522Z,2025-02-04T09:43:24.522Z
+741,Prenota desk 40 per il giorno 31/01/2025 dalle 13:43 alle 21:43,prenota,desk 40,2025-01-31T13:43:24.522Z,2025-01-31T21:43:24.522Z
+742,Prenota sala riunioni per il giorno 02/04/2025 dalle 07:58 alle 14:58,prenota,sala riunioni,2025-04-02T07:58:24.522Z,2025-04-02T14:58:24.522Z
+743,Modifica la prenotazione di ufficio A al giorno 25/02/2025 dalle 08:58 alle 13:58,modifica,ufficio A,2025-02-25T08:58:24.522Z,2025-02-25T13:58:24.522Z
+744,Prenota auditorium per il giorno 23/01/2025 dalle 09:13 alle 11:13,prenota,auditorium,2025-01-23T09:13:24.522Z,2025-01-23T11:13:24.522Z
+745,Cancella la prenotazione di sala riunioni per il giorno 27/02/2025 dalle 06:13 alle 09:13,cancella,sala riunioni,2025-02-27T06:13:24.522Z,2025-02-27T09:13:24.522Z
+746,Cancella la prenotazione di ufficio A per il giorno 06/01/2025 dalle 04:58 alle 06:58,cancella,ufficio A,2025-01-06T04:58:24.522Z,2025-01-06T06:58:24.522Z
+747,Cancella la prenotazione di auditorium per il giorno 06/03/2025 dalle 14:13 alle 21:13,cancella,auditorium,2025-03-06T14:13:24.522Z,2025-03-06T21:13:24.522Z
+748,Modifica la prenotazione di auditorium al giorno 23/02/2025 dalle 05:43 alle 10:43,modifica,auditorium,2025-02-23T05:43:24.522Z,2025-02-23T10:43:24.522Z
+749,Prenota ufficio B per il giorno 24/01/2025 dalle 04:43 alle 14:43,prenota,ufficio B,2025-01-24T04:43:24.522Z,2025-01-24T14:43:24.522Z
+750,Cancella la prenotazione di ufficio B per il giorno 20/02/2025 dalle 12:28 alle 14:28,cancella,ufficio B,2025-02-20T12:28:24.522Z,2025-02-20T14:28:24.522Z
+751,Prenota sala riunioni per il giorno 04/01/2025 dalle 02:13 alle 10:13,prenota,sala riunioni,2025-01-04T02:13:24.522Z,2025-01-04T10:13:24.522Z
+752,Prenota desk 40 per il giorno 02/04/2025 dalle 09:43 alle 10:43,prenota,desk 40,2025-04-02T09:43:24.522Z,2025-04-02T10:43:24.522Z
+753,Prenota ufficio A per il giorno 24/01/2025 dalle 23:43 alle 04:43,prenota,ufficio A,2025-01-24T23:43:24.522Z,2025-01-25T04:43:24.522Z
+754,Cancella la prenotazione di desk 18 per il giorno 31/03/2025 dalle 13:58 alle 23:58,cancella,desk 18,2025-03-31T13:58:24.522Z,2025-03-31T23:58:24.522Z
+755,Prenota sala riunioni per il giorno 24/01/2025 dalle 13:58 alle 19:58,prenota,sala riunioni,2025-01-24T13:58:24.522Z,2025-01-24T19:58:24.522Z
+756,Prenota sala riunioni per il giorno 18/03/2025 dalle 00:28 alle 10:28,prenota,sala riunioni,2025-03-18T00:28:24.522Z,2025-03-18T10:28:24.522Z
+757,Prenota desk 40 per il giorno 27/01/2025 dalle 11:43 alle 18:43,prenota,desk 40,2025-01-27T11:43:24.522Z,2025-01-27T18:43:24.522Z
+758,Cancella la prenotazione di sala riunioni per il giorno 06/02/2025 dalle 08:58 alle 18:58,cancella,sala riunioni,2025-02-06T08:58:24.522Z,2025-02-06T18:58:24.522Z
+759,Modifica la prenotazione di sala riunioni al giorno 22/03/2025 dalle 03:43 alle 05:43,modifica,sala riunioni,2025-03-22T03:43:24.522Z,2025-03-22T05:43:24.522Z
+760,Cancella la prenotazione di ufficio B per il giorno 05/02/2025 dalle 01:28 alle 09:28,cancella,ufficio B,2025-02-05T01:28:24.522Z,2025-02-05T09:28:24.522Z
+761,Modifica la prenotazione di auditorium al giorno 01/04/2025 dalle 03:28 alle 10:28,modifica,auditorium,2025-04-01T03:28:24.522Z,2025-04-01T10:28:24.522Z
+762,Cancella la prenotazione di desk 18 per il giorno 23/01/2025 dalle 11:13 alle 19:13,cancella,desk 18,2025-01-23T11:13:24.522Z,2025-01-23T19:13:24.522Z
+763,Cancella la prenotazione di ufficio B per il giorno 11/02/2025 dalle 04:13 alle 11:13,cancella,ufficio B,2025-02-11T04:13:24.522Z,2025-02-11T11:13:24.522Z
+764,Prenota desk 40 per il giorno 11/02/2025 dalle 09:58 alle 13:58,prenota,desk 40,2025-02-11T09:58:24.522Z,2025-02-11T13:58:24.522Z
+765,Prenota ufficio A per il giorno 22/01/2025 dalle 10:43 alle 11:43,prenota,ufficio A,2025-01-22T10:43:24.522Z,2025-01-22T11:43:24.522Z
+766,Prenota sala riunioni per il giorno 19/03/2025 dalle 13:28 alle 16:28,prenota,sala riunioni,2025-03-19T13:28:24.522Z,2025-03-19T16:28:24.522Z
+767,Prenota ufficio A per il giorno 19/01/2025 dalle 01:28 alle 06:28,prenota,ufficio A,2025-01-19T01:28:24.522Z,2025-01-19T06:28:24.522Z
+768,Cancella la prenotazione di desk 18 per il giorno 12/02/2025 dalle 08:43 alle 16:43,cancella,desk 18,2025-02-12T08:43:24.523Z,2025-02-12T16:43:24.523Z
+769,Cancella la prenotazione di ufficio A per il giorno 18/01/2025 dalle 13:58 alle 17:58,cancella,ufficio A,2025-01-18T13:58:24.523Z,2025-01-18T17:58:24.523Z
+770,Cancella la prenotazione di desk 18 per il giorno 07/01/2025 dalle 04:43 alle 11:43,cancella,desk 18,2025-01-07T04:43:24.523Z,2025-01-07T11:43:24.523Z
+771,Prenota sala meeting per il giorno 10/01/2025 dalle 23:28 alle 04:28,prenota,sala meeting,2025-01-10T23:28:24.523Z,2025-01-11T04:28:24.523Z
+772,Cancella la prenotazione di auditorium per il giorno 07/03/2025 dalle 07:13 alle 13:13,cancella,auditorium,2025-03-07T07:13:24.523Z,2025-03-07T13:13:24.523Z
+773,Cancella la prenotazione di auditorium per il giorno 13/02/2025 dalle 11:13 alle 17:13,cancella,auditorium,2025-02-13T11:13:24.523Z,2025-02-13T17:13:24.523Z
+774,Modifica la prenotazione di desk 40 al giorno 02/04/2025 dalle 01:28 alle 04:28,modifica,desk 40,2025-04-02T01:28:24.523Z,2025-04-02T04:28:24.523Z
+775,Cancella la prenotazione di ufficio A per il giorno 14/01/2025 dalle 06:58 alle 09:58,cancella,ufficio A,2025-01-14T06:58:24.523Z,2025-01-14T09:58:24.523Z
+776,Prenota auditorium per il giorno 02/02/2025 dalle 08:13 alle 13:13,prenota,auditorium,2025-02-02T08:13:24.523Z,2025-02-02T13:13:24.523Z
+777,Prenota desk 18 per il giorno 26/01/2025 dalle 05:28 alle 06:28,prenota,desk 18,2025-01-26T05:28:24.523Z,2025-01-26T06:28:24.523Z
+778,Modifica la prenotazione di sala meeting al giorno 15/02/2025 dalle 11:58 alle 17:58,modifica,sala meeting,2025-02-15T11:58:24.523Z,2025-02-15T17:58:24.523Z
+779,Prenota sala riunioni per il giorno 05/03/2025 dalle 11:43 alle 15:43,prenota,sala riunioni,2025-03-05T11:43:24.523Z,2025-03-05T15:43:24.523Z
+780,Prenota sala meeting per il giorno 31/03/2025 dalle 09:58 alle 18:58,prenota,sala meeting,2025-03-31T09:58:24.523Z,2025-03-31T18:58:24.523Z
+781,Cancella la prenotazione di ufficio B per il giorno 19/03/2025 dalle 08:43 alle 15:43,cancella,ufficio B,2025-03-19T08:43:24.523Z,2025-03-19T15:43:24.523Z
+782,Modifica la prenotazione di desk 40 al giorno 08/01/2025 dalle 06:58 alle 15:58,modifica,desk 40,2025-01-08T06:58:24.523Z,2025-01-08T15:58:24.523Z
+783,Cancella la prenotazione di sala riunioni per il giorno 08/02/2025 dalle 04:28 alle 11:28,cancella,sala riunioni,2025-02-08T04:28:24.523Z,2025-02-08T11:28:24.523Z
+784,Modifica la prenotazione di desk 18 al giorno 11/01/2025 dalle 07:13 alle 15:13,modifica,desk 18,2025-01-11T07:13:24.523Z,2025-01-11T15:13:24.523Z
+785,Modifica la prenotazione di ufficio B al giorno 01/02/2025 dalle 13:58 alle 23:58,modifica,ufficio B,2025-02-01T13:58:24.523Z,2025-02-01T23:58:24.523Z
+786,Prenota ufficio A per il giorno 05/02/2025 dalle 03:28 alle 07:28,prenota,ufficio A,2025-02-05T03:28:24.523Z,2025-02-05T07:28:24.523Z
+787,Modifica la prenotazione di ufficio B al giorno 04/02/2025 dalle 05:58 alle 06:58,modifica,ufficio B,2025-02-04T05:58:24.523Z,2025-02-04T06:58:24.523Z
+788,Modifica la prenotazione di auditorium al giorno 08/01/2025 dalle 03:13 alle 07:13,modifica,auditorium,2025-01-08T03:13:24.523Z,2025-01-08T07:13:24.523Z
+789,Cancella la prenotazione di sala riunioni per il giorno 26/02/2025 dalle 23:28 alle 04:28,cancella,sala riunioni,2025-02-26T23:28:24.523Z,2025-02-27T04:28:24.523Z
+790,Modifica la prenotazione di desk 40 al giorno 13/03/2025 dalle 05:28 alle 14:28,modifica,desk 40,2025-03-13T05:28:24.523Z,2025-03-13T14:28:24.523Z
+791,Modifica la prenotazione di desk 40 al giorno 25/03/2025 dalle 11:58 alle 21:58,modifica,desk 40,2025-03-25T11:58:24.523Z,2025-03-25T21:58:24.523Z
+792,Modifica la prenotazione di sala riunioni al giorno 07/03/2025 dalle 08:43 alle 17:43,modifica,sala riunioni,2025-03-07T08:43:24.523Z,2025-03-07T17:43:24.523Z
+793,Modifica la prenotazione di ufficio B al giorno 08/02/2025 dalle 11:28 alle 15:28,modifica,ufficio B,2025-02-08T11:28:24.523Z,2025-02-08T15:28:24.523Z
+794,Cancella la prenotazione di ufficio B per il giorno 14/02/2025 dalle 01:43 alle 02:43,cancella,ufficio B,2025-02-14T01:43:24.523Z,2025-02-14T02:43:24.523Z
+795,Modifica la prenotazione di ufficio A al giorno 13/01/2025 dalle 04:43 alle 12:43,modifica,ufficio A,2025-01-13T04:43:24.524Z,2025-01-13T12:43:24.524Z
+796,Prenota sala riunioni per il giorno 19/01/2025 dalle 13:58 alle 16:58,prenota,sala riunioni,2025-01-19T13:58:24.524Z,2025-01-19T16:58:24.524Z
+797,Modifica la prenotazione di sala meeting al giorno 29/03/2025 dalle 04:13 alle 07:13,modifica,sala meeting,2025-03-29T04:13:24.524Z,2025-03-29T07:13:24.524Z
+798,Cancella la prenotazione di auditorium per il giorno 23/01/2025 dalle 04:28 alle 09:28,cancella,auditorium,2025-01-23T04:28:24.524Z,2025-01-23T09:28:24.524Z
+799,Cancella la prenotazione di ufficio B per il giorno 01/04/2025 dalle 07:28 alle 09:28,cancella,ufficio B,2025-04-01T07:28:24.524Z,2025-04-01T09:28:24.524Z
+800,Prenota desk 40 per il giorno 18/01/2025 dalle 12:28 alle 16:28,prenota,desk 40,2025-01-18T12:28:24.524Z,2025-01-18T16:28:24.524Z
+801,Prenota desk 40 per il giorno 06/02/2025 dalle 01:28 alle 09:28,prenota,desk 40,2025-02-06T01:28:24.524Z,2025-02-06T09:28:24.524Z
+802,Cancella la prenotazione di sala riunioni per il giorno 08/03/2025 dalle 12:13 alle 21:13,cancella,sala riunioni,2025-03-08T12:13:24.524Z,2025-03-08T21:13:24.524Z
+803,Prenota ufficio A per il giorno 29/03/2025 dalle 08:58 alle 10:58,prenota,ufficio A,2025-03-29T08:58:24.524Z,2025-03-29T10:58:24.524Z
+804,Cancella la prenotazione di desk 40 per il giorno 14/01/2025 dalle 04:43 alle 11:43,cancella,desk 40,2025-01-14T04:43:24.524Z,2025-01-14T11:43:24.524Z
+805,Prenota ufficio B per il giorno 04/02/2025 dalle 10:28 alle 20:28,prenota,ufficio B,2025-02-04T10:28:24.524Z,2025-02-04T20:28:24.524Z
+806,Prenota sala riunioni per il giorno 23/01/2025 dalle 01:58 alle 04:58,prenota,sala riunioni,2025-01-23T01:58:24.524Z,2025-01-23T04:58:24.524Z
+807,Modifica la prenotazione di desk 40 al giorno 01/04/2025 dalle 07:43 alle 15:43,modifica,desk 40,2025-04-01T07:43:24.524Z,2025-04-01T15:43:24.524Z
+808,Modifica la prenotazione di sala meeting al giorno 06/01/2025 dalle 05:13 alle 12:13,modifica,sala meeting,2025-01-06T05:13:24.524Z,2025-01-06T12:13:24.524Z
+809,Prenota desk 40 per il giorno 09/03/2025 dalle 12:13 alle 16:13,prenota,desk 40,2025-03-09T12:13:24.524Z,2025-03-09T16:13:24.524Z
+810,Prenota auditorium per il giorno 23/03/2025 dalle 10:13 alle 20:13,prenota,auditorium,2025-03-23T10:13:24.524Z,2025-03-23T20:13:24.524Z
+811,Modifica la prenotazione di desk 18 al giorno 11/01/2025 dalle 10:43 alle 18:43,modifica,desk 18,2025-01-11T10:43:24.524Z,2025-01-11T18:43:24.524Z
+812,Modifica la prenotazione di desk 40 al giorno 02/03/2025 dalle 05:58 alle 11:58,modifica,desk 40,2025-03-02T05:58:24.524Z,2025-03-02T11:58:24.524Z
+813,Prenota sala riunioni per il giorno 07/01/2025 dalle 06:43 alle 07:43,prenota,sala riunioni,2025-01-07T06:43:24.524Z,2025-01-07T07:43:24.524Z
+814,Modifica la prenotazione di sala meeting al giorno 05/01/2025 dalle 09:58 alle 15:58,modifica,sala meeting,2025-01-05T09:58:24.524Z,2025-01-05T15:58:24.524Z
+815,Cancella la prenotazione di desk 18 per il giorno 03/01/2025 dalle 05:13 alle 07:13,cancella,desk 18,2025-01-03T05:13:24.524Z,2025-01-03T07:13:24.524Z
+816,Prenota desk 40 per il giorno 15/01/2025 dalle 08:28 alle 18:28,prenota,desk 40,2025-01-15T08:28:24.524Z,2025-01-15T18:28:24.524Z
+817,Prenota ufficio A per il giorno 07/03/2025 dalle 07:58 alle 09:58,prenota,ufficio A,2025-03-07T07:58:24.524Z,2025-03-07T09:58:24.524Z
+818,Modifica la prenotazione di desk 40 al giorno 07/01/2025 dalle 11:58 alle 15:58,modifica,desk 40,2025-01-07T11:58:24.524Z,2025-01-07T15:58:24.524Z
+819,Cancella la prenotazione di ufficio B per il giorno 26/02/2025 dalle 03:28 alle 05:28,cancella,ufficio B,2025-02-26T03:28:24.524Z,2025-02-26T05:28:24.524Z
+820,Prenota sala meeting per il giorno 29/03/2025 dalle 01:58 alle 08:58,prenota,sala meeting,2025-03-29T01:58:24.524Z,2025-03-29T08:58:24.524Z
+821,Prenota sala meeting per il giorno 15/02/2025 dalle 13:13 alle 15:13,prenota,sala meeting,2025-02-15T13:13:24.524Z,2025-02-15T15:13:24.524Z
+822,Modifica la prenotazione di sala meeting al giorno 12/01/2025 dalle 06:58 alle 11:58,modifica,sala meeting,2025-01-12T06:58:24.525Z,2025-01-12T11:58:24.525Z
+823,Cancella la prenotazione di sala riunioni per il giorno 06/01/2025 dalle 03:58 alle 06:58,cancella,sala riunioni,2025-01-06T03:58:24.525Z,2025-01-06T06:58:24.525Z
+824,Modifica la prenotazione di sala riunioni al giorno 20/01/2025 dalle 13:28 alle 19:28,modifica,sala riunioni,2025-01-20T13:28:24.525Z,2025-01-20T19:28:24.525Z
+825,Prenota sala riunioni per il giorno 05/02/2025 dalle 11:58 alle 17:58,prenota,sala riunioni,2025-02-05T11:58:24.525Z,2025-02-05T17:58:24.525Z
+826,Prenota auditorium per il giorno 17/03/2025 dalle 02:28 alle 06:28,prenota,auditorium,2025-03-17T02:28:24.525Z,2025-03-17T06:28:24.525Z
+827,Prenota sala meeting per il giorno 11/02/2025 dalle 12:28 alle 21:28,prenota,sala meeting,2025-02-11T12:28:24.525Z,2025-02-11T21:28:24.525Z
+828,Modifica la prenotazione di desk 40 al giorno 01/04/2025 dalle 07:58 alle 16:58,modifica,desk 40,2025-04-01T07:58:24.525Z,2025-04-01T16:58:24.525Z
+829,Modifica la prenotazione di sala meeting al giorno 15/01/2025 dalle 14:13 alle 15:13,modifica,sala meeting,2025-01-15T14:13:24.525Z,2025-01-15T15:13:24.525Z
+830,Cancella la prenotazione di ufficio A per il giorno 14/01/2025 dalle 09:58 alle 14:58,cancella,ufficio A,2025-01-14T09:58:24.525Z,2025-01-14T14:58:24.525Z
+831,Modifica la prenotazione di sala riunioni al giorno 20/01/2025 dalle 00:28 alle 10:28,modifica,sala riunioni,2025-01-20T00:28:24.525Z,2025-01-20T10:28:24.525Z
+832,Prenota sala riunioni per il giorno 05/03/2025 dalle 00:13 alle 06:13,prenota,sala riunioni,2025-03-05T00:13:24.525Z,2025-03-05T06:13:24.525Z
+833,Cancella la prenotazione di ufficio B per il giorno 16/01/2025 dalle 03:43 alle 13:43,cancella,ufficio B,2025-01-16T03:43:24.525Z,2025-01-16T13:43:24.525Z
+834,Modifica la prenotazione di desk 40 al giorno 03/02/2025 dalle 00:58 alle 03:58,modifica,desk 40,2025-02-03T00:58:24.525Z,2025-02-03T03:58:24.525Z
+835,Prenota desk 18 per il giorno 16/03/2025 dalle 10:28 alle 11:28,prenota,desk 18,2025-03-16T10:28:24.525Z,2025-03-16T11:28:24.525Z
+836,Cancella la prenotazione di auditorium per il giorno 03/04/2025 dalle 01:43 alle 10:43,cancella,auditorium,2025-04-03T01:43:24.525Z,2025-04-03T10:43:24.525Z
+837,Prenota ufficio A per il giorno 03/01/2025 dalle 09:58 alle 19:58,prenota,ufficio A,2025-01-03T09:58:24.525Z,2025-01-03T19:58:24.525Z
+838,Modifica la prenotazione di desk 40 al giorno 27/01/2025 dalle 06:43 alle 07:43,modifica,desk 40,2025-01-27T06:43:24.525Z,2025-01-27T07:43:24.525Z
+839,Cancella la prenotazione di auditorium per il giorno 22/03/2025 dalle 10:13 alle 14:13,cancella,auditorium,2025-03-22T10:13:24.525Z,2025-03-22T14:13:24.525Z
+840,Modifica la prenotazione di sala meeting al giorno 16/02/2025 dalle 02:13 alle 12:13,modifica,sala meeting,2025-02-16T02:13:24.525Z,2025-02-16T12:13:24.525Z
+841,Cancella la prenotazione di ufficio B per il giorno 08/02/2025 dalle 03:43 alle 13:43,cancella,ufficio B,2025-02-08T03:43:24.525Z,2025-02-08T13:43:24.525Z
+842,Prenota desk 18 per il giorno 25/02/2025 dalle 04:13 alle 05:13,prenota,desk 18,2025-02-25T04:13:24.525Z,2025-02-25T05:13:24.525Z
+843,Prenota ufficio A per il giorno 19/03/2025 dalle 02:58 alle 05:58,prenota,ufficio A,2025-03-19T02:58:24.525Z,2025-03-19T05:58:24.525Z
+844,Modifica la prenotazione di auditorium al giorno 26/03/2025 dalle 08:28 alle 12:28,modifica,auditorium,2025-03-26T08:28:24.525Z,2025-03-26T12:28:24.525Z
+845,Prenota desk 18 per il giorno 08/01/2025 dalle 02:43 alle 03:43,prenota,desk 18,2025-01-08T02:43:24.525Z,2025-01-08T03:43:24.525Z
+846,Modifica la prenotazione di sala riunioni al giorno 31/03/2025 dalle 05:43 alle 09:43,modifica,sala riunioni,2025-03-31T05:43:24.525Z,2025-03-31T09:43:24.525Z
+847,Cancella la prenotazione di sala riunioni per il giorno 16/03/2025 dalle 23:43 alle 01:43,cancella,sala riunioni,2025-03-16T23:43:24.525Z,2025-03-17T01:43:24.525Z
+848,Modifica la prenotazione di sala riunioni al giorno 24/02/2025 dalle 00:58 alle 04:58,modifica,sala riunioni,2025-02-24T00:58:24.525Z,2025-02-24T04:58:24.525Z
+849,Cancella la prenotazione di auditorium per il giorno 21/01/2025 dalle 10:28 alle 16:28,cancella,auditorium,2025-01-21T10:28:24.525Z,2025-01-21T16:28:24.525Z
+850,Cancella la prenotazione di ufficio A per il giorno 20/02/2025 dalle 09:58 alle 17:58,cancella,ufficio A,2025-02-20T09:58:24.525Z,2025-02-20T17:58:24.525Z
+851,Modifica la prenotazione di auditorium al giorno 25/03/2025 dalle 01:43 alle 08:43,modifica,auditorium,2025-03-25T01:43:24.525Z,2025-03-25T08:43:24.525Z
+852,Cancella la prenotazione di auditorium per il giorno 29/03/2025 dalle 12:43 alle 20:43,cancella,auditorium,2025-03-29T12:43:24.525Z,2025-03-29T20:43:24.525Z
+853,Cancella la prenotazione di sala meeting per il giorno 26/02/2025 dalle 23:58 alle 00:58,cancella,sala meeting,2025-02-26T23:58:24.525Z,2025-02-27T00:58:24.525Z
+854,Cancella la prenotazione di ufficio A per il giorno 22/01/2025 dalle 23:28 alle 07:28,cancella,ufficio A,2025-01-22T23:28:24.526Z,2025-01-23T07:28:24.526Z
+855,Modifica la prenotazione di sala meeting al giorno 29/01/2025 dalle 05:28 alle 10:28,modifica,sala meeting,2025-01-29T05:28:24.526Z,2025-01-29T10:28:24.526Z
+856,Prenota sala meeting per il giorno 07/02/2025 dalle 02:13 alle 03:13,prenota,sala meeting,2025-02-07T02:13:24.526Z,2025-02-07T03:13:24.526Z
+857,Cancella la prenotazione di desk 40 per il giorno 11/03/2025 dalle 01:13 alle 07:13,cancella,desk 40,2025-03-11T01:13:24.526Z,2025-03-11T07:13:24.526Z
+858,Cancella la prenotazione di desk 18 per il giorno 31/01/2025 dalle 06:43 alle 11:43,cancella,desk 18,2025-01-31T06:43:24.526Z,2025-01-31T11:43:24.526Z
+859,Cancella la prenotazione di ufficio A per il giorno 06/02/2025 dalle 02:13 alle 06:13,cancella,ufficio A,2025-02-06T02:13:24.526Z,2025-02-06T06:13:24.526Z
+860,Cancella la prenotazione di auditorium per il giorno 05/01/2025 dalle 11:43 alle 19:43,cancella,auditorium,2025-01-05T11:43:24.526Z,2025-01-05T19:43:24.526Z
+861,Cancella la prenotazione di auditorium per il giorno 14/03/2025 dalle 07:43 alle 09:43,cancella,auditorium,2025-03-14T07:43:24.526Z,2025-03-14T09:43:24.526Z
+862,Cancella la prenotazione di desk 18 per il giorno 19/02/2025 dalle 07:58 alle 09:58,cancella,desk 18,2025-02-19T07:58:24.526Z,2025-02-19T09:58:24.526Z
+863,Cancella la prenotazione di desk 40 per il giorno 28/03/2025 dalle 07:58 alle 14:58,cancella,desk 40,2025-03-28T07:58:24.526Z,2025-03-28T14:58:24.526Z
+864,Prenota sala riunioni per il giorno 16/03/2025 dalle 13:28 alle 17:28,prenota,sala riunioni,2025-03-16T13:28:24.526Z,2025-03-16T17:28:24.526Z
+865,Cancella la prenotazione di sala meeting per il giorno 03/02/2025 dalle 11:43 alle 19:43,cancella,sala meeting,2025-02-03T11:43:24.526Z,2025-02-03T19:43:24.526Z
+866,Modifica la prenotazione di sala riunioni al giorno 21/01/2025 dalle 23:58 alle 08:58,modifica,sala riunioni,2025-01-21T23:58:24.526Z,2025-01-22T08:58:24.526Z
+867,Cancella la prenotazione di ufficio B per il giorno 15/02/2025 dalle 00:13 alle 04:13,cancella,ufficio B,2025-02-15T00:13:24.526Z,2025-02-15T04:13:24.526Z
+868,Prenota sala riunioni per il giorno 11/02/2025 dalle 11:13 alle 16:13,prenota,sala riunioni,2025-02-11T11:13:24.526Z,2025-02-11T16:13:24.526Z
+869,Modifica la prenotazione di desk 40 al giorno 06/02/2025 dalle 08:43 alle 15:43,modifica,desk 40,2025-02-06T08:43:24.526Z,2025-02-06T15:43:24.526Z
+870,Modifica la prenotazione di desk 40 al giorno 21/03/2025 dalle 08:58 alle 10:58,modifica,desk 40,2025-03-21T08:58:24.526Z,2025-03-21T10:58:24.526Z
+871,Cancella la prenotazione di ufficio A per il giorno 23/03/2025 dalle 02:43 alle 08:43,cancella,ufficio A,2025-03-23T02:43:24.526Z,2025-03-23T08:43:24.526Z
+872,Prenota desk 40 per il giorno 15/02/2025 dalle 05:13 alle 09:13,prenota,desk 40,2025-02-15T05:13:24.526Z,2025-02-15T09:13:24.526Z
+873,Modifica la prenotazione di sala meeting al giorno 07/03/2025 dalle 03:13 alle 12:13,modifica,sala meeting,2025-03-07T03:13:24.526Z,2025-03-07T12:13:24.526Z
+874,Prenota desk 18 per il giorno 12/01/2025 dalle 00:43 alle 04:43,prenota,desk 18,2025-01-12T00:43:24.526Z,2025-01-12T04:43:24.526Z
+875,Cancella la prenotazione di desk 40 per il giorno 08/01/2025 dalle 03:13 alle 10:13,cancella,desk 40,2025-01-08T03:13:24.526Z,2025-01-08T10:13:24.526Z
+876,Modifica la prenotazione di desk 18 al giorno 12/01/2025 dalle 01:13 alle 04:13,modifica,desk 18,2025-01-12T01:13:24.526Z,2025-01-12T04:13:24.526Z
+877,Prenota desk 18 per il giorno 30/01/2025 dalle 02:58 alle 04:58,prenota,desk 18,2025-01-30T02:58:24.526Z,2025-01-30T04:58:24.526Z
+878,Prenota sala meeting per il giorno 04/01/2025 dalle 14:13 alle 16:13,prenota,sala meeting,2025-01-04T14:13:24.526Z,2025-01-04T16:13:24.526Z
+879,Cancella la prenotazione di desk 18 per il giorno 19/03/2025 dalle 14:13 alle 18:13,cancella,desk 18,2025-03-19T14:13:24.526Z,2025-03-19T18:13:24.526Z
+880,Prenota sala meeting per il giorno 02/02/2025 dalle 08:28 alle 10:28,prenota,sala meeting,2025-02-02T08:28:24.526Z,2025-02-02T10:28:24.526Z
+881,Cancella la prenotazione di desk 40 per il giorno 20/03/2025 dalle 07:43 alle 08:43,cancella,desk 40,2025-03-20T07:43:24.527Z,2025-03-20T08:43:24.527Z
+882,Cancella la prenotazione di desk 18 per il giorno 07/02/2025 dalle 07:43 alle 08:43,cancella,desk 18,2025-02-07T07:43:24.527Z,2025-02-07T08:43:24.527Z
+883,Cancella la prenotazione di desk 40 per il giorno 30/01/2025 dalle 12:13 alle 18:13,cancella,desk 40,2025-01-30T12:13:24.527Z,2025-01-30T18:13:24.527Z
+884,Prenota sala riunioni per il giorno 08/03/2025 dalle 08:43 alle 18:43,prenota,sala riunioni,2025-03-08T08:43:24.527Z,2025-03-08T18:43:24.527Z
+885,Cancella la prenotazione di sala riunioni per il giorno 26/02/2025 dalle 10:58 alle 16:58,cancella,sala riunioni,2025-02-26T10:58:24.527Z,2025-02-26T16:58:24.527Z
+886,Cancella la prenotazione di ufficio B per il giorno 02/04/2025 dalle 01:28 alle 03:28,cancella,ufficio B,2025-04-02T01:28:24.527Z,2025-04-02T03:28:24.527Z
+887,Modifica la prenotazione di ufficio B al giorno 05/01/2025 dalle 09:58 alle 13:58,modifica,ufficio B,2025-01-05T09:58:24.527Z,2025-01-05T13:58:24.527Z
+888,Prenota desk 40 per il giorno 23/01/2025 dalle 02:28 alle 05:28,prenota,desk 40,2025-01-23T02:28:24.527Z,2025-01-23T05:28:24.527Z
+889,Prenota desk 40 per il giorno 29/01/2025 dalle 02:43 alle 07:43,prenota,desk 40,2025-01-29T02:43:24.527Z,2025-01-29T07:43:24.527Z
+890,Cancella la prenotazione di sala riunioni per il giorno 28/03/2025 dalle 06:43 alle 16:43,cancella,sala riunioni,2025-03-28T06:43:24.527Z,2025-03-28T16:43:24.527Z
+891,Prenota sala riunioni per il giorno 18/01/2025 dalle 10:43 alle 16:43,prenota,sala riunioni,2025-01-18T10:43:24.527Z,2025-01-18T16:43:24.527Z
+892,Modifica la prenotazione di desk 40 al giorno 10/02/2025 dalle 13:13 alle 16:13,modifica,desk 40,2025-02-10T13:13:24.527Z,2025-02-10T16:13:24.527Z
+893,Modifica la prenotazione di sala riunioni al giorno 23/01/2025 dalle 07:13 alle 08:13,modifica,sala riunioni,2025-01-23T07:13:24.527Z,2025-01-23T08:13:24.527Z
+894,Prenota sala meeting per il giorno 07/01/2025 dalle 07:43 alle 14:43,prenota,sala meeting,2025-01-07T07:43:24.527Z,2025-01-07T14:43:24.527Z
+895,Prenota sala riunioni per il giorno 23/01/2025 dalle 02:28 alle 05:28,prenota,sala riunioni,2025-01-23T02:28:24.527Z,2025-01-23T05:28:24.527Z
+896,Cancella la prenotazione di sala riunioni per il giorno 27/02/2025 dalle 02:43 alle 07:43,cancella,sala riunioni,2025-02-27T02:43:24.527Z,2025-02-27T07:43:24.527Z
+897,Modifica la prenotazione di ufficio B al giorno 15/03/2025 dalle 13:58 alle 21:58,modifica,ufficio B,2025-03-15T13:58:24.527Z,2025-03-15T21:58:24.527Z
+898,Prenota desk 40 per il giorno 20/03/2025 dalle 07:43 alle 15:43,prenota,desk 40,2025-03-20T07:43:24.527Z,2025-03-20T15:43:24.527Z
+899,Cancella la prenotazione di auditorium per il giorno 22/03/2025 dalle 13:13 alle 18:13,cancella,auditorium,2025-03-22T13:13:24.527Z,2025-03-22T18:13:24.527Z
+900,Cancella la prenotazione di sala meeting per il giorno 21/03/2025 dalle 02:28 alle 06:28,cancella,sala meeting,2025-03-21T02:28:24.527Z,2025-03-21T06:28:24.527Z
+901,Cancella la prenotazione di sala meeting per il giorno 20/02/2025 dalle 12:13 alle 14:13,cancella,sala meeting,2025-02-20T12:13:24.527Z,2025-02-20T14:13:24.527Z
+902,Modifica la prenotazione di sala riunioni al giorno 01/04/2025 dalle 01:28 alle 05:28,modifica,sala riunioni,2025-04-01T01:28:24.527Z,2025-04-01T05:28:24.527Z
+903,Modifica la prenotazione di desk 18 al giorno 12/03/2025 dalle 12:28 alle 21:28,modifica,desk 18,2025-03-12T12:28:24.527Z,2025-03-12T21:28:24.527Z
+904,Cancella la prenotazione di ufficio A per il giorno 27/03/2025 dalle 08:43 alle 09:43,cancella,ufficio A,2025-03-27T08:43:24.527Z,2025-03-27T09:43:24.527Z
+905,Modifica la prenotazione di auditorium al giorno 12/03/2025 dalle 13:43 alle 16:43,modifica,auditorium,2025-03-12T13:43:24.527Z,2025-03-12T16:43:24.527Z
+906,Prenota sala riunioni per il giorno 09/03/2025 dalle 12:28 alle 16:28,prenota,sala riunioni,2025-03-09T12:28:24.527Z,2025-03-09T16:28:24.527Z
+907,Modifica la prenotazione di ufficio B al giorno 13/01/2025 dalle 04:28 alle 09:28,modifica,ufficio B,2025-01-13T04:28:24.528Z,2025-01-13T09:28:24.528Z
+908,Cancella la prenotazione di sala meeting per il giorno 14/03/2025 dalle 01:43 alle 02:43,cancella,sala meeting,2025-03-14T01:43:24.528Z,2025-03-14T02:43:24.528Z
+909,Cancella la prenotazione di ufficio A per il giorno 29/01/2025 dalle 01:43 alle 03:43,cancella,ufficio A,2025-01-29T01:43:24.528Z,2025-01-29T03:43:24.528Z
+910,Modifica la prenotazione di auditorium al giorno 23/03/2025 dalle 06:28 alle 13:28,modifica,auditorium,2025-03-23T06:28:24.528Z,2025-03-23T13:28:24.528Z
+911,Modifica la prenotazione di desk 18 al giorno 13/03/2025 dalle 00:58 alle 08:58,modifica,desk 18,2025-03-13T00:58:24.528Z,2025-03-13T08:58:24.528Z
+912,Prenota desk 18 per il giorno 07/02/2025 dalle 12:58 alle 13:58,prenota,desk 18,2025-02-07T12:58:24.528Z,2025-02-07T13:58:24.528Z
+913,Prenota desk 40 per il giorno 04/01/2025 dalle 11:28 alle 12:28,prenota,desk 40,2025-01-04T11:28:24.528Z,2025-01-04T12:28:24.528Z
+914,Modifica la prenotazione di sala riunioni al giorno 13/01/2025 dalle 04:43 alle 14:43,modifica,sala riunioni,2025-01-13T04:43:24.528Z,2025-01-13T14:43:24.528Z
+915,Prenota sala riunioni per il giorno 01/04/2025 dalle 03:13 alle 05:13,prenota,sala riunioni,2025-04-01T03:13:24.528Z,2025-04-01T05:13:24.528Z
+916,Cancella la prenotazione di desk 40 per il giorno 12/03/2025 dalle 09:58 alle 10:58,cancella,desk 40,2025-03-12T09:58:24.528Z,2025-03-12T10:58:24.528Z
+917,Modifica la prenotazione di desk 18 al giorno 20/03/2025 dalle 23:43 alle 05:43,modifica,desk 18,2025-03-20T23:43:24.528Z,2025-03-21T05:43:24.528Z
+918,Cancella la prenotazione di ufficio A per il giorno 30/03/2025 dalle 00:58 alle 05:58,cancella,ufficio A,2025-03-30T00:58:24.528Z,2025-03-30T05:58:24.528Z
+919,Cancella la prenotazione di auditorium per il giorno 13/01/2025 dalle 07:43 alle 17:43,cancella,auditorium,2025-01-13T07:43:24.528Z,2025-01-13T17:43:24.528Z
+920,Modifica la prenotazione di ufficio B al giorno 13/03/2025 dalle 06:58 alle 14:58,modifica,ufficio B,2025-03-13T06:58:24.528Z,2025-03-13T14:58:24.528Z
+921,Modifica la prenotazione di desk 40 al giorno 12/01/2025 dalle 01:43 alle 06:43,modifica,desk 40,2025-01-12T01:43:24.528Z,2025-01-12T06:43:24.528Z
+922,Modifica la prenotazione di ufficio B al giorno 08/01/2025 dalle 05:13 alle 13:13,modifica,ufficio B,2025-01-08T05:13:24.528Z,2025-01-08T13:13:24.528Z
+923,Prenota ufficio B per il giorno 27/02/2025 dalle 06:28 alle 07:28,prenota,ufficio B,2025-02-27T06:28:24.528Z,2025-02-27T07:28:24.528Z
+924,Modifica la prenotazione di sala riunioni al giorno 03/01/2025 dalle 09:58 alle 13:58,modifica,sala riunioni,2025-01-03T09:58:24.528Z,2025-01-03T13:58:24.528Z
+925,Cancella la prenotazione di sala meeting per il giorno 25/03/2025 dalle 04:28 alle 10:28,cancella,sala meeting,2025-03-25T04:28:24.528Z,2025-03-25T10:28:24.528Z
+926,Modifica la prenotazione di ufficio B al giorno 07/02/2025 dalle 07:43 alle 14:43,modifica,ufficio B,2025-02-07T07:43:24.528Z,2025-02-07T14:43:24.528Z
+927,Cancella la prenotazione di ufficio B per il giorno 18/01/2025 dalle 03:13 alle 06:13,cancella,ufficio B,2025-01-18T03:13:24.528Z,2025-01-18T06:13:24.528Z
+928,Cancella la prenotazione di ufficio B per il giorno 01/02/2025 dalle 04:58 alle 05:58,cancella,ufficio B,2025-02-01T04:58:24.528Z,2025-02-01T05:58:24.528Z
+929,Cancella la prenotazione di sala meeting per il giorno 24/01/2025 dalle 12:13 alle 13:13,cancella,sala meeting,2025-01-24T12:13:24.528Z,2025-01-24T13:13:24.528Z
+930,Modifica la prenotazione di desk 18 al giorno 08/01/2025 dalle 10:13 alle 11:13,modifica,desk 18,2025-01-08T10:13:24.528Z,2025-01-08T11:13:24.528Z
+931,Cancella la prenotazione di auditorium per il giorno 02/02/2025 dalle 06:13 alle 16:13,cancella,auditorium,2025-02-02T06:13:24.528Z,2025-02-02T16:13:24.528Z
+932,Cancella la prenotazione di desk 40 per il giorno 05/01/2025 dalle 11:43 alle 14:43,cancella,desk 40,2025-01-05T11:43:24.529Z,2025-01-05T14:43:24.529Z
+933,Prenota sala riunioni per il giorno 06/02/2025 dalle 11:28 alle 13:28,prenota,sala riunioni,2025-02-06T11:28:24.529Z,2025-02-06T13:28:24.529Z
+934,Cancella la prenotazione di sala meeting per il giorno 11/03/2025 dalle 00:28 alle 05:28,cancella,sala meeting,2025-03-11T00:28:24.529Z,2025-03-11T05:28:24.529Z
+935,Modifica la prenotazione di desk 18 al giorno 05/02/2025 dalle 12:43 alle 21:43,modifica,desk 18,2025-02-05T12:43:24.529Z,2025-02-05T21:43:24.529Z
+936,Cancella la prenotazione di ufficio A per il giorno 03/02/2025 dalle 07:43 alle 14:43,cancella,ufficio A,2025-02-03T07:43:24.529Z,2025-02-03T14:43:24.529Z
+937,Modifica la prenotazione di desk 40 al giorno 27/01/2025 dalle 07:28 alle 14:28,modifica,desk 40,2025-01-27T07:28:24.529Z,2025-01-27T14:28:24.529Z
+938,Cancella la prenotazione di auditorium per il giorno 22/01/2025 dalle 09:28 alle 12:28,cancella,auditorium,2025-01-22T09:28:24.529Z,2025-01-22T12:28:24.529Z
+939,Modifica la prenotazione di ufficio A al giorno 23/03/2025 dalle 09:58 alle 12:58,modifica,ufficio A,2025-03-23T09:58:24.529Z,2025-03-23T12:58:24.529Z
+940,Modifica la prenotazione di ufficio B al giorno 26/03/2025 dalle 09:58 alle 16:58,modifica,ufficio B,2025-03-26T09:58:24.529Z,2025-03-26T16:58:24.529Z
+941,Cancella la prenotazione di auditorium per il giorno 05/01/2025 dalle 03:13 alle 06:13,cancella,auditorium,2025-01-05T03:13:24.529Z,2025-01-05T06:13:24.529Z
+942,Cancella la prenotazione di desk 18 per il giorno 11/03/2025 dalle 05:43 alle 07:43,cancella,desk 18,2025-03-11T05:43:24.529Z,2025-03-11T07:43:24.529Z
+943,Cancella la prenotazione di desk 40 per il giorno 04/02/2025 dalle 01:13 alle 02:13,cancella,desk 40,2025-02-04T01:13:24.529Z,2025-02-04T02:13:24.529Z
+944,Cancella la prenotazione di sala meeting per il giorno 24/03/2025 dalle 05:43 alle 11:43,cancella,sala meeting,2025-03-24T05:43:24.529Z,2025-03-24T11:43:24.529Z
+945,Cancella la prenotazione di desk 40 per il giorno 09/02/2025 dalle 12:28 alle 15:28,cancella,desk 40,2025-02-09T12:28:24.529Z,2025-02-09T15:28:24.529Z
+946,Cancella la prenotazione di desk 40 per il giorno 01/02/2025 dalle 10:58 alle 16:58,cancella,desk 40,2025-02-01T10:58:24.529Z,2025-02-01T16:58:24.529Z
+947,Modifica la prenotazione di desk 18 al giorno 26/01/2025 dalle 03:43 alle 04:43,modifica,desk 18,2025-01-26T03:43:24.529Z,2025-01-26T04:43:24.529Z
+948,Modifica la prenotazione di sala riunioni al giorno 04/03/2025 dalle 05:58 alle 12:58,modifica,sala riunioni,2025-03-04T05:58:24.529Z,2025-03-04T12:58:24.529Z
+949,Cancella la prenotazione di desk 40 per il giorno 09/02/2025 dalle 07:28 alle 11:28,cancella,desk 40,2025-02-09T07:28:24.529Z,2025-02-09T11:28:24.529Z
+950,Modifica la prenotazione di sala riunioni al giorno 19/02/2025 dalle 02:43 alle 07:43,modifica,sala riunioni,2025-02-19T02:43:24.529Z,2025-02-19T07:43:24.529Z
+951,Cancella la prenotazione di desk 18 per il giorno 20/01/2025 dalle 06:28 alle 12:28,cancella,desk 18,2025-01-20T06:28:24.529Z,2025-01-20T12:28:24.529Z
+952,Prenota sala meeting per il giorno 31/03/2025 dalle 09:28 alle 14:28,prenota,sala meeting,2025-03-31T09:28:24.529Z,2025-03-31T14:28:24.529Z
+953,Prenota auditorium per il giorno 30/01/2025 dalle 02:58 alle 06:58,prenota,auditorium,2025-01-30T02:58:24.529Z,2025-01-30T06:58:24.529Z
+954,Modifica la prenotazione di sala meeting al giorno 19/03/2025 dalle 04:28 alle 11:28,modifica,sala meeting,2025-03-19T04:28:24.529Z,2025-03-19T11:28:24.529Z
+955,Modifica la prenotazione di auditorium al giorno 21/01/2025 dalle 11:28 alle 13:28,modifica,auditorium,2025-01-21T11:28:24.529Z,2025-01-21T13:28:24.529Z
+956,Prenota desk 18 per il giorno 20/03/2025 dalle 07:13 alle 09:13,prenota,desk 18,2025-03-20T07:13:24.529Z,2025-03-20T09:13:24.529Z
+957,Modifica la prenotazione di sala riunioni al giorno 21/03/2025 dalle 02:43 alle 12:43,modifica,sala riunioni,2025-03-21T02:43:24.529Z,2025-03-21T12:43:24.529Z
+958,Prenota desk 18 per il giorno 30/03/2025 dalle 03:13 alle 07:13,prenota,desk 18,2025-03-30T03:13:24.529Z,2025-03-30T07:13:24.529Z
+959,Prenota ufficio A per il giorno 26/03/2025 dalle 04:43 alle 05:43,prenota,ufficio A,2025-03-26T04:43:24.529Z,2025-03-26T05:43:24.529Z
+960,Cancella la prenotazione di desk 40 per il giorno 07/01/2025 dalle 10:28 alle 12:28,cancella,desk 40,2025-01-07T10:28:24.530Z,2025-01-07T12:28:24.530Z
+961,Modifica la prenotazione di desk 40 al giorno 08/03/2025 dalle 06:58 alle 13:58,modifica,desk 40,2025-03-08T06:58:24.530Z,2025-03-08T13:58:24.530Z
+962,Prenota ufficio A per il giorno 08/03/2025 dalle 13:13 alle 22:13,prenota,ufficio A,2025-03-08T13:13:24.530Z,2025-03-08T22:13:24.530Z
+963,Modifica la prenotazione di desk 40 al giorno 11/03/2025 dalle 13:28 alle 14:28,modifica,desk 40,2025-03-11T13:28:24.530Z,2025-03-11T14:28:24.530Z
+964,Prenota auditorium per il giorno 06/01/2025 dalle 11:28 alle 21:28,prenota,auditorium,2025-01-06T11:28:24.530Z,2025-01-06T21:28:24.530Z
+965,Prenota sala meeting per il giorno 25/02/2025 dalle 00:43 alle 10:43,prenota,sala meeting,2025-02-25T00:43:24.530Z,2025-02-25T10:43:24.530Z
+966,Modifica la prenotazione di sala riunioni al giorno 03/02/2025 dalle 11:13 alle 17:13,modifica,sala riunioni,2025-02-03T11:13:24.530Z,2025-02-03T17:13:24.530Z
+967,Cancella la prenotazione di desk 18 per il giorno 02/04/2025 dalle 06:58 alle 11:58,cancella,desk 18,2025-04-02T06:58:24.530Z,2025-04-02T11:58:24.530Z
+968,Modifica la prenotazione di sala riunioni al giorno 25/02/2025 dalle 13:28 alle 23:28,modifica,sala riunioni,2025-02-25T13:28:24.530Z,2025-02-25T23:28:24.530Z
+969,Modifica la prenotazione di auditorium al giorno 22/02/2025 dalle 04:58 alle 07:58,modifica,auditorium,2025-02-22T04:58:24.530Z,2025-02-22T07:58:24.530Z
+970,Prenota sala riunioni per il giorno 11/02/2025 dalle 08:28 alle 10:28,prenota,sala riunioni,2025-02-11T08:28:24.530Z,2025-02-11T10:28:24.530Z
+971,Modifica la prenotazione di desk 18 al giorno 17/03/2025 dalle 03:28 alle 12:28,modifica,desk 18,2025-03-17T03:28:24.530Z,2025-03-17T12:28:24.530Z
+972,Cancella la prenotazione di auditorium per il giorno 01/02/2025 dalle 06:13 alle 12:13,cancella,auditorium,2025-02-01T06:13:24.530Z,2025-02-01T12:13:24.530Z
+973,Prenota ufficio B per il giorno 20/01/2025 dalle 12:13 alle 16:13,prenota,ufficio B,2025-01-20T12:13:24.530Z,2025-01-20T16:13:24.530Z
+974,Prenota desk 40 per il giorno 23/01/2025 dalle 02:43 alle 04:43,prenota,desk 40,2025-01-23T02:43:24.530Z,2025-01-23T04:43:24.530Z
+975,Prenota ufficio A per il giorno 07/02/2025 dalle 04:58 alle 11:58,prenota,ufficio A,2025-02-07T04:58:24.530Z,2025-02-07T11:58:24.530Z
+976,Prenota sala riunioni per il giorno 04/02/2025 dalle 13:28 alle 18:28,prenota,sala riunioni,2025-02-04T13:28:24.530Z,2025-02-04T18:28:24.530Z
+977,Prenota ufficio B per il giorno 12/03/2025 dalle 05:28 alle 11:28,prenota,ufficio B,2025-03-12T05:28:24.530Z,2025-03-12T11:28:24.530Z
+978,Modifica la prenotazione di sala riunioni al giorno 15/02/2025 dalle 03:13 alle 10:13,modifica,sala riunioni,2025-02-15T03:13:24.530Z,2025-02-15T10:13:24.530Z
+979,Cancella la prenotazione di ufficio A per il giorno 08/01/2025 dalle 07:28 alle 09:28,cancella,ufficio A,2025-01-08T07:28:24.530Z,2025-01-08T09:28:24.530Z
+980,Modifica la prenotazione di auditorium al giorno 26/02/2025 dalle 11:28 alle 12:28,modifica,auditorium,2025-02-26T11:28:24.530Z,2025-02-26T12:28:24.530Z
+981,Prenota desk 40 per il giorno 10/01/2025 dalle 07:43 alle 13:43,prenota,desk 40,2025-01-10T07:43:24.531Z,2025-01-10T13:43:24.531Z
+982,Cancella la prenotazione di ufficio A per il giorno 21/03/2025 dalle 00:28 alle 07:28,cancella,ufficio A,2025-03-21T00:28:24.531Z,2025-03-21T07:28:24.531Z
+983,Prenota desk 18 per il giorno 02/03/2025 dalle 00:58 alle 04:58,prenota,desk 18,2025-03-02T00:58:24.531Z,2025-03-02T04:58:24.531Z
+984,Prenota auditorium per il giorno 30/01/2025 dalle 03:58 alle 09:58,prenota,auditorium,2025-01-30T03:58:24.531Z,2025-01-30T09:58:24.531Z
+985,Prenota desk 40 per il giorno 27/02/2025 dalle 07:43 alle 14:43,prenota,desk 40,2025-02-27T07:43:24.531Z,2025-02-27T14:43:24.531Z
+986,Modifica la prenotazione di sala riunioni al giorno 06/03/2025 dalle 10:13 alle 17:13,modifica,sala riunioni,2025-03-06T10:13:24.531Z,2025-03-06T17:13:24.531Z
+987,Modifica la prenotazione di desk 18 al giorno 21/01/2025 dalle 08:43 alle 17:43,modifica,desk 18,2025-01-21T08:43:24.531Z,2025-01-21T17:43:24.531Z
+988,Cancella la prenotazione di sala meeting per il giorno 08/01/2025 dalle 00:43 alle 05:43,cancella,sala meeting,2025-01-08T00:43:24.531Z,2025-01-08T05:43:24.531Z
+989,Modifica la prenotazione di sala riunioni al giorno 11/03/2025 dalle 06:43 alle 12:43,modifica,sala riunioni,2025-03-11T06:43:24.531Z,2025-03-11T12:43:24.531Z
+990,Cancella la prenotazione di auditorium per il giorno 05/03/2025 dalle 12:43 alle 19:43,cancella,auditorium,2025-03-05T12:43:24.532Z,2025-03-05T19:43:24.532Z
+991,Prenota auditorium per il giorno 01/02/2025 dalle 09:58 alle 19:58,prenota,auditorium,2025-02-01T09:58:24.532Z,2025-02-01T19:58:24.532Z
+992,Modifica la prenotazione di sala riunioni al giorno 09/01/2025 dalle 00:58 alle 08:58,modifica,sala riunioni,2025-01-09T00:58:24.532Z,2025-01-09T08:58:24.532Z
+993,Modifica la prenotazione di desk 18 al giorno 05/01/2025 dalle 08:28 alle 17:28,modifica,desk 18,2025-01-05T08:28:24.532Z,2025-01-05T17:28:24.532Z
+994,Cancella la prenotazione di ufficio B per il giorno 18/03/2025 dalle 10:28 alle 15:28,cancella,ufficio B,2025-03-18T10:28:24.532Z,2025-03-18T15:28:24.532Z
+995,Cancella la prenotazione di ufficio B per il giorno 26/01/2025 dalle 13:28 alle 21:28,cancella,ufficio B,2025-01-26T13:28:24.532Z,2025-01-26T21:28:24.532Z
+996,Cancella la prenotazione di ufficio B per il giorno 24/01/2025 dalle 06:13 alle 16:13,cancella,ufficio B,2025-01-24T06:13:24.532Z,2025-01-24T16:13:24.532Z
+997,Modifica la prenotazione di desk 40 al giorno 20/02/2025 dalle 12:58 alle 21:58,modifica,desk 40,2025-02-20T12:58:24.532Z,2025-02-20T21:58:24.532Z
+998,Modifica la prenotazione di ufficio B al giorno 20/03/2025 dalle 11:13 alle 13:13,modifica,ufficio B,2025-03-20T11:13:24.532Z,2025-03-20T13:13:24.532Z
+999,Modifica la prenotazione di sala meeting al giorno 21/01/2025 dalle 07:58 alle 17:58,modifica,sala meeting,2025-01-21T07:58:24.532Z,2025-01-21T17:58:24.532Z
