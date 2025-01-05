@@ -1,6 +1,6 @@
 {
   "io": {
-    "out_folder": "./out"
+    "out_folder": "./datasets"
   },
   "synth_generator": {
     "total_objects": 5000,

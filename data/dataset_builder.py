@@ -62,13 +62,13 @@ class DatasetBuilder():
             ins, outs = generator.run()
             data = [{"Input": i, "Action": o["action"], "Asset": o["asset"], "Start": o["start"], "End": o["end"]} for i, o in zip(ins, outs)]
             df = pd.DataFrame(data)
-            df.to_csv(filename)
+            df.to_csv(filename, index=False)
 
             print(f"DONE! {prefix} data saved into {Path(filename).resolve()}")
 
 
 if __name__ == "__main__":
-    cfg_file, schema_file = Path("./config.json"), Path("./config_schema.json")
+    cfg_file, schema_file = Path("../config/config.json"), Path("../config/config_schema.json")
 
     valid_input = cfg_file.is_file() and schema_file.is_file() and cfg_file.suffix == '.json' and schema_file.suffix == '.json'
  

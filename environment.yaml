@@ -8,3 +8,5 @@ dependencies:
   - jsonschema
   - pytorch=2.2.0=cpu_*
   - torchtext=0.17.0
+  - portalocker # Required to use with torchtext datasets
+  - spacy # Tokenizer
