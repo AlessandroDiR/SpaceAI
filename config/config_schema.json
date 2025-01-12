@@ -2,7 +2,7 @@
   "title": "Configs",
   "description": "Configuration file for synthetic data generation",
   "type": "object",
-  "required": ["io", "synth_generator"],
+  "required": ["io", "sentences_generator"],
   "properties": {
     "io": {
       "type": "object",
@@ -13,7 +13,7 @@
         }
       }
     },
-    "synth_generator": {
+    "sentences_generator": {
       "type": "object",
       "required": ["total_objects", "test_percentage", "validation_percentage"],
       "properties": {
@@ -31,6 +31,35 @@
           "type": "number",
           "minimum": 0,
           "maximum": 1
+        },
+        "params": {
+          "type": "object",
+          "properties": {
+            "train": {
+              "type": "object",
+              "properties": {
+                "as_duration": {
+                  "type": ["boolean", "string"]
+                }
+              }
+            },
+            "test": {
+              "type": "object",
+              "properties": {
+                "as_duration": {
+                  "type": ["boolean", "string"]
+                }
+              }
+            },
+            "validation": {
+              "type": "object",
+              "properties": {
+                "as_duration": {
+                  "type": ["boolean", "string"]
+                }
+              }
+            }
+          }
         }
       }
     }

@@ -1,0 +1,1001 @@
+Input,Asset,Start,End
+prenota desk 40 tra 34 giorni dalle 14:45 per 4 ore e 45 minuti,desk 40,2025-02-15T14:45:00,2025-02-15T19:30:00
+prenota ufficio A tra 8 giorni dalle 14:15 per 2 ore e 15 minuti,ufficio A,2025-01-20T14:15:00,2025-01-20T16:30:00
+prenota sala riunioni tra 21 giorni dalle 13:30 per 2 ore e 15 minuti,sala riunioni,2025-02-03T13:30:00,2025-02-03T15:45:00
+prenota ufficio B tra 88 giorni dalle 08:30 per 4 ore e 30 minuti,ufficio B,2025-04-11T08:30:00,2025-04-11T13:00:00
+prenota ufficio B tra 10 giorni dalle 13:15 per 3 ore e 45 minuti,ufficio B,2025-01-23T13:15:00,2025-01-23T17:00:00
+prenota auditorium tra 41 giorni dalle 20:30 per 4 ore e 30 minuti,auditorium,2025-02-22T20:30:00,2025-02-23T01:00:00
+prenota ufficio A tra 38 giorni dalle 15:15 per 15 minuti,ufficio A,2025-02-19T15:15:00,2025-02-19T15:30:00
+prenota sala riunioni tra 57 giorni dalle 12:15 per 1 ore e 30 minuti,sala riunioni,2025-03-11T12:15:00,2025-03-11T13:45:00
+prenota desk 40 tra 74 giorni dalle 09:30 per 1 ore e 30 minuti,desk 40,2025-03-28T09:30:00,2025-03-28T11:00:00
+prenota sala riunioni tra 35 giorni dalle 08:30 per 4 ore e 45 minuti,sala riunioni,2025-02-17T08:30:00,2025-02-17T13:15:00
+prenota auditorium tra 31 giorni dalle 20:15 per 3 ore e 15 minuti,auditorium,2025-02-12T20:15:00,2025-02-12T23:30:00
+prenota sala meeting tra 39 giorni dalle 12:15 per mezz'ora,sala meeting,2025-02-21T12:15:00,2025-02-21T12:45:00
+prenota ufficio B tra 51 giorni dalle 11:45 per 1 ore e 15 minuti,ufficio B,2025-03-05T11:45:00,2025-03-05T13:00:00
+prenota desk 18 domani dalle 08:00 per 3 ore e 45 minuti,desk 18,2025-01-14T08:00:00,2025-01-14T11:45:00
+prenota desk 40 tra 44 giorni dalle 10:15 per 15 minuti,desk 40,2025-02-26T10:15:00,2025-02-26T10:30:00
+prenota sala meeting tra 70 giorni dalle 15:00 per 4 ore e 30 minuti,sala meeting,2025-03-23T15:00:00,2025-03-23T19:30:00
+prenota sala meeting tra 19 giorni dalle 11:30 per 2 ore e 45 minuti,sala meeting,2025-02-01T11:30:00,2025-02-01T14:15:00
+prenota auditorium tra 55 giorni dalle 16:45 per 2 ore e 30 minuti,auditorium,2025-03-08T16:45:00,2025-03-08T19:15:00
+prenota desk 40 tra 87 giorni dalle 18:45 per 15 minuti,desk 40,2025-04-09T18:45:00,2025-04-09T19:00:00
+prenota ufficio A tra 24 giorni dalle 18:15 per 45 minuti,ufficio A,2025-02-05T18:15:00,2025-02-05T19:00:00
+prenota ufficio B tra 52 giorni dalle 20:30 per 1 ore e 15 minuti,ufficio B,2025-03-05T20:30:00,2025-03-05T21:45:00
+prenota ufficio A tra 59 giorni dalle 15:15 per 4 ore e 30 minuti,ufficio A,2025-03-12T15:15:00,2025-03-12T19:45:00
+prenota ufficio A tra 86 giorni dalle 13:45 per 1 ore e 15 minuti,ufficio A,2025-04-09T13:45:00,2025-04-09T15:00:00
+prenota ufficio A 1 giorni fa dalle 09:30 per 45 minuti,ufficio A,2025-01-12T09:30:00,2025-01-12T10:15:00
+prenota desk 40 tra 5 giorni dalle 20:30 per 1 ore e 30 minuti,desk 40,2025-01-17T20:30:00,2025-01-17T22:00:00
+prenota ufficio B tra 7 giorni dalle 08:30 per 2 ore e 45 minuti,ufficio B,2025-01-20T08:30:00,2025-01-20T11:15:00
+prenota ufficio B tra 83 giorni dalle 08:00 per 15 minuti,ufficio B,2025-04-06T08:00:00,2025-04-06T08:15:00
+prenota ufficio A tra 86 giorni dalle 10:15 per mezz'ora,ufficio A,2025-04-09T10:15:00,2025-04-09T10:45:00
+prenota auditorium tra 40 giorni dalle 15:15 per mezz'ora,auditorium,2025-02-21T15:15:00,2025-02-21T15:45:00
+prenota sala riunioni tra 76 giorni dalle 12:15 per 4 ore e 45 minuti,sala riunioni,2025-03-30T12:15:00,2025-03-30T17:00:00
+prenota desk 40 tra 15 giorni dalle 20:15 per 3 ore e 45 minuti,desk 40,2025-01-27T20:15:00,2025-01-28T00:00:00
+prenota desk 40 tra 80 giorni dalle 19:00 per 3 ore e 15 minuti,desk 40,2025-04-02T19:00:00,2025-04-02T22:15:00
+prenota sala riunioni tra 24 giorni dalle 09:15 per 3 ore e 45 minuti,sala riunioni,2025-02-06T09:15:00,2025-02-06T13:00:00
+prenota sala meeting tra 44 giorni dalle 19:15 per 4 ore e 30 minuti,sala meeting,2025-02-25T19:15:00,2025-02-25T23:45:00
+prenota auditorium tra 3 giorni dalle 17:15 per 4 ore e 45 minuti,auditorium,2025-01-15T17:15:00,2025-01-15T22:00:00
+prenota desk 18 tra 62 giorni dalle 20:15 per 2 ore e 15 minuti,desk 18,2025-03-15T20:15:00,2025-03-15T22:30:00
+prenota desk 18 tra 47 giorni dalle 17:30 per 1 ore e 15 minuti,desk 18,2025-02-28T17:30:00,2025-02-28T18:45:00
+prenota auditorium tra 20 giorni dalle 10:45 per 1 ore e 45 minuti,auditorium,2025-02-02T10:45:00,2025-02-02T12:30:00
+prenota ufficio B tra 24 giorni dalle 16:15 per mezz'ora,ufficio B,2025-02-05T16:15:00,2025-02-05T16:45:00
+prenota sala meeting tra 60 giorni dalle 19:15 per 2 ore e 15 minuti,sala meeting,2025-03-13T19:15:00,2025-03-13T21:30:00
+prenota auditorium tra 29 giorni dalle 14:45 per 45 minuti,auditorium,2025-02-10T14:45:00,2025-02-10T15:30:00
+prenota sala meeting tra 4 giorni dalle 15:45 per 15 minuti,sala meeting,2025-01-16T15:45:00,2025-01-16T16:00:00
+prenota ufficio B tra 57 giorni dalle 08:15 per 3 ore e 45 minuti,ufficio B,2025-03-11T08:15:00,2025-03-11T12:00:00
+prenota ufficio A tra 15 giorni dalle 20:15 per 1 ore e 30 minuti,ufficio A,2025-01-27T20:15:00,2025-01-27T21:45:00
+prenota sala riunioni tra 11 giorni dalle 08:45 per 15 minuti,sala riunioni,2025-01-24T08:45:00,2025-01-24T09:00:00
+prenota ufficio A tra 11 giorni dalle 13:15 per 4 ore e 45 minuti,ufficio A,2025-01-24T13:15:00,2025-01-24T18:00:00
+prenota ufficio B tra 79 giorni dalle 10:00 per 3 ore e 45 minuti,ufficio B,2025-04-02T10:00:00,2025-04-02T13:45:00
+prenota desk 40 tra 80 giorni dalle 14:30 per 4 ore e 30 minuti,desk 40,2025-04-02T14:30:00,2025-04-02T19:00:00
+prenota desk 40 tra 51 giorni dalle 15:15 per 2 ore e 30 minuti,desk 40,2025-03-04T15:15:00,2025-03-04T17:45:00
+prenota desk 40 tra 32 giorni dalle 10:15 per 1 ore e 15 minuti,desk 40,2025-02-14T10:15:00,2025-02-14T11:30:00
+prenota desk 18 tra 18 giorni dalle 10:15 per 4 ore e 15 minuti,desk 18,2025-01-31T10:15:00,2025-01-31T14:30:00
+prenota desk 18 tra 13 giorni dalle 20:30 per 2 ore e 15 minuti,desk 18,2025-01-25T20:30:00,2025-01-25T22:45:00
+prenota sala meeting tra 71 giorni dalle 18:15 per 1 ore e 15 minuti,sala meeting,2025-03-24T18:15:00,2025-03-24T19:30:00
+prenota desk 18 tra 45 giorni dalle 14:00 per 3 ore e 15 minuti,desk 18,2025-02-26T14:00:00,2025-02-26T17:15:00
+prenota desk 40 tra 78 giorni dalle 13:15 per 2 ore e 45 minuti,desk 40,2025-04-01T13:15:00,2025-04-01T16:00:00
+prenota sala riunioni tra 48 giorni dalle 11:45 per 1 ore e 15 minuti,sala riunioni,2025-03-02T11:45:00,2025-03-02T13:00:00
+prenota desk 40 tra 81 giorni dalle 09:00 per 2 ore e 30 minuti,desk 40,2025-04-04T09:00:00,2025-04-04T11:30:00
+prenota desk 18 tra 61 giorni dalle 12:00 per 1 ore e 15 minuti,desk 18,2025-03-15T12:00:00,2025-03-15T13:15:00
+prenota ufficio A tra 84 giorni dalle 13:15 per 4 ore e 30 minuti,ufficio A,2025-04-07T13:15:00,2025-04-07T17:45:00
+prenota desk 40 tra 15 giorni dalle 18:30 per 1 ore e 15 minuti,desk 40,2025-01-27T18:30:00,2025-01-27T19:45:00
+prenota desk 18 tra 8 giorni dalle 11:45 per 1 ore e 30 minuti,desk 18,2025-01-21T11:45:00,2025-01-21T13:15:00
+prenota desk 18 tra 7 giorni dalle 16:30 per 3 ore e 15 minuti,desk 18,2025-01-19T16:30:00,2025-01-19T19:45:00
+prenota ufficio B tra 60 giorni dalle 18:30 per 3 ore e 15 minuti,ufficio B,2025-03-13T18:30:00,2025-03-13T21:45:00
+prenota sala meeting tra 35 giorni dalle 20:45 per mezz'ora,sala meeting,2025-02-16T20:45:00,2025-02-16T21:15:00
+prenota sala meeting tra 32 giorni dalle 17:00 per 1 ore e 45 minuti,sala meeting,2025-02-13T17:00:00,2025-02-13T18:45:00
+prenota desk 18 tra 7 giorni dalle 13:00 per 3 ore e 45 minuti,desk 18,2025-01-20T13:00:00,2025-01-20T16:45:00
+prenota sala meeting tra 8 giorni dalle 09:30 per 2 ore e 30 minuti,sala meeting,2025-01-21T09:30:00,2025-01-21T12:00:00
+prenota sala meeting tra 2 giorni dalle 17:00 per 4 ore e 45 minuti,sala meeting,2025-01-14T17:00:00,2025-01-14T21:45:00
+prenota ufficio A tra 74 giorni dalle 11:30 per 3 ore e 45 minuti,ufficio A,2025-03-28T11:30:00,2025-03-28T15:15:00
+prenota ufficio A tra 45 giorni dalle 20:15 per mezz'ora,ufficio A,2025-02-26T20:15:00,2025-02-26T20:45:00
+prenota desk 40 oggi dalle 20:15 per mezz'ora,desk 40,2025-01-12T20:15:00,2025-01-12T20:45:00
+prenota auditorium tra 54 giorni dalle 10:00 per 45 minuti,auditorium,2025-03-08T10:00:00,2025-03-08T10:45:00
+prenota desk 40 tra 83 giorni dalle 15:00 per 1 ore e 45 minuti,desk 40,2025-04-05T15:00:00,2025-04-05T16:45:00
+prenota desk 18 tra 10 giorni dalle 10:30 per 15 minuti,desk 18,2025-01-23T10:30:00,2025-01-23T10:45:00
+prenota ufficio B tra 31 giorni dalle 20:45 per 4 ore e 30 minuti,ufficio B,2025-02-12T20:45:00,2025-02-13T01:15:00
+prenota ufficio A tra 68 giorni dalle 17:45 per 3 ore e 15 minuti,ufficio A,2025-03-21T17:45:00,2025-03-21T21:00:00
+prenota ufficio B tra 66 giorni dalle 15:15 per 15 minuti,ufficio B,2025-03-19T15:15:00,2025-03-19T15:30:00
+prenota ufficio A tra 62 giorni dalle 15:15 per 45 minuti,ufficio A,2025-03-15T15:15:00,2025-03-15T16:00:00
+prenota desk 40 tra 22 giorni dalle 10:45 per 3 ore e 45 minuti,desk 40,2025-02-04T10:45:00,2025-02-04T14:30:00
+prenota desk 40 tra 3 giorni dalle 15:30 per 4 ore e 45 minuti,desk 40,2025-01-15T15:30:00,2025-01-15T20:15:00
+prenota ufficio B tra 79 giorni dalle 15:45 per 2 ore e 15 minuti,ufficio B,2025-04-01T15:45:00,2025-04-01T18:00:00
+prenota desk 40 tra 80 giorni dalle 11:30 per 1 ore e 15 minuti,desk 40,2025-04-03T11:30:00,2025-04-03T12:45:00
+prenota ufficio B tra 11 giorni dalle 18:45 per 2 ore e 30 minuti,ufficio B,2025-01-23T18:45:00,2025-01-23T21:15:00
+prenota auditorium tra 3 giorni dalle 16:30 per 1 ore e 15 minuti,auditorium,2025-01-15T16:30:00,2025-01-15T17:45:00
+prenota sala riunioni tra 17 giorni dalle 08:15 per 45 minuti,sala riunioni,2025-01-30T08:15:00,2025-01-30T09:00:00
+prenota sala riunioni tra 44 giorni dalle 08:30 per 3 ore e 30 minuti,sala riunioni,2025-02-26T08:30:00,2025-02-26T12:00:00
+prenota sala meeting tra 36 giorni dalle 17:45 per 2 ore e 30 minuti,sala meeting,2025-02-17T17:45:00,2025-02-17T20:15:00
+prenota sala riunioni tra 5 giorni dalle 08:15 per 3 ore e 45 minuti,sala riunioni,2025-01-18T08:15:00,2025-01-18T12:00:00
+prenota ufficio A tra 49 giorni dalle 12:30 per 4 ore e 45 minuti,ufficio A,2025-03-03T12:30:00,2025-03-03T17:15:00
+prenota desk 40 tra 55 giorni dalle 15:45 per 2 ore e 45 minuti,desk 40,2025-03-08T15:45:00,2025-03-08T18:30:00
+prenota ufficio A tra 75 giorni dalle 15:30 per mezz'ora,ufficio A,2025-03-28T15:30:00,2025-03-28T16:00:00
+prenota desk 40 tra 25 giorni dalle 14:30 per 3 ore e 45 minuti,desk 40,2025-02-06T14:30:00,2025-02-06T18:15:00
+prenota sala riunioni tra 31 giorni dalle 13:00 per mezz'ora,sala riunioni,2025-02-13T13:00:00,2025-02-13T13:30:00
+prenota auditorium tra 44 giorni dalle 13:15 per 3 ore e 15 minuti,auditorium,2025-02-26T13:15:00,2025-02-26T16:30:00
+prenota sala riunioni tra 75 giorni dalle 19:45 per 2 ore e 45 minuti,sala riunioni,2025-03-28T19:45:00,2025-03-28T22:30:00
+prenota ufficio A tra 77 giorni dalle 10:45 per 3 ore e 15 minuti,ufficio A,2025-03-31T10:45:00,2025-03-31T14:00:00
+prenota sala riunioni tra 81 giorni dalle 17:30 per 1 ore e 45 minuti,sala riunioni,2025-04-03T17:30:00,2025-04-03T19:15:00
+prenota desk 18 tra 47 giorni dalle 11:30 per 1 ore e 15 minuti,desk 18,2025-03-01T11:30:00,2025-03-01T12:45:00
+prenota desk 18 tra 47 giorni dalle 17:45 per 15 minuti,desk 18,2025-02-28T17:45:00,2025-02-28T18:00:00
+prenota sala meeting tra 43 giorni dalle 09:15 per 4 ore e 15 minuti,sala meeting,2025-02-25T09:15:00,2025-02-25T13:30:00
+prenota ufficio A tra 52 giorni dalle 18:15 per 3 ore e 30 minuti,ufficio A,2025-03-05T18:15:00,2025-03-05T21:45:00
+prenota auditorium tra 9 giorni dalle 13:30 per 4 ore e 45 minuti,auditorium,2025-01-22T13:30:00,2025-01-22T18:15:00
+prenota desk 40 tra 71 giorni dalle 17:30 per 4 ore e 30 minuti,desk 40,2025-03-24T17:30:00,2025-03-24T22:00:00
+prenota sala meeting tra 36 giorni dalle 14:45 per 1 ore e 30 minuti,sala meeting,2025-02-17T14:45:00,2025-02-17T16:15:00
+prenota sala meeting tra 32 giorni dalle 12:15 per 2 ore e 45 minuti,sala meeting,2025-02-14T12:15:00,2025-02-14T15:00:00
+prenota sala meeting tra 9 giorni dalle 20:30 per 4 ore e 15 minuti,sala meeting,2025-01-21T20:30:00,2025-01-22T00:45:00
+prenota ufficio A tra 72 giorni dalle 17:15 per 4 ore e 15 minuti,ufficio A,2025-03-25T17:15:00,2025-03-25T21:30:00
+prenota desk 40 tra 89 giorni dalle 12:30 per 4 ore e 30 minuti,desk 40,2025-04-12T12:30:00,2025-04-12T17:00:00
+prenota sala meeting tra 28 giorni dalle 17:30 per 3 ore e 30 minuti,sala meeting,2025-02-09T17:30:00,2025-02-09T21:00:00
+prenota sala riunioni tra 67 giorni dalle 20:15 per 1 ore e 15 minuti,sala riunioni,2025-03-20T20:15:00,2025-03-20T21:30:00
+prenota sala riunioni tra 74 giorni dalle 13:45 per 1 ore e 45 minuti,sala riunioni,2025-03-28T13:45:00,2025-03-28T15:30:00
+prenota desk 18 tra 61 giorni dalle 19:15 per 4 ore e 45 minuti,desk 18,2025-03-14T19:15:00,2025-03-15T00:00:00
+prenota desk 40 tra 68 giorni dalle 18:30 per 15 minuti,desk 40,2025-03-21T18:30:00,2025-03-21T18:45:00
+prenota auditorium tra 12 giorni dalle 08:45 per 1 ore e 15 minuti,auditorium,2025-01-25T08:45:00,2025-01-25T10:00:00
+prenota desk 18 tra 21 giorni dalle 09:45 per mezz'ora,desk 18,2025-02-03T09:45:00,2025-02-03T10:15:00
+prenota sala meeting tra 38 giorni dalle 16:30 per 1 ore e 30 minuti,sala meeting,2025-02-19T16:30:00,2025-02-19T18:00:00
+prenota desk 18 tra 90 giorni dalle 20:45 per 2 ore e 30 minuti,desk 18,2025-04-12T20:45:00,2025-04-12T23:15:00
+prenota ufficio A tra 73 giorni dalle 10:15 per 15 minuti,ufficio A,2025-03-27T10:15:00,2025-03-27T10:30:00
+prenota sala riunioni tra 4 giorni dalle 12:30 per 4 ore e 30 minuti,sala riunioni,2025-01-17T12:30:00,2025-01-17T17:00:00
+prenota desk 40 tra 38 giorni dalle 14:00 per 1 ore e 45 minuti,desk 40,2025-02-19T14:00:00,2025-02-19T15:45:00
+prenota ufficio B tra 28 giorni dalle 17:00 per 15 minuti,ufficio B,2025-02-09T17:00:00,2025-02-09T17:15:00
+prenota desk 18 tra 44 giorni dalle 09:15 per 15 minuti,desk 18,2025-02-26T09:15:00,2025-02-26T09:30:00
+prenota desk 18 tra 58 giorni dalle 13:45 per 2 ore e 45 minuti,desk 18,2025-03-12T13:45:00,2025-03-12T16:30:00
+prenota desk 18 tra 76 giorni dalle 14:15 per 2 ore e 45 minuti,desk 18,2025-03-29T14:15:00,2025-03-29T17:00:00
+prenota sala meeting tra 80 giorni dalle 18:45 per 45 minuti,sala meeting,2025-04-02T18:45:00,2025-04-02T19:30:00
+prenota ufficio A tra 10 giorni dalle 17:15 per mezz'ora,ufficio A,2025-01-22T17:15:00,2025-01-22T17:45:00
+prenota desk 18 tra 46 giorni dalle 16:30 per 1 ore e 30 minuti,desk 18,2025-02-27T16:30:00,2025-02-27T18:00:00
+prenota desk 18 tra 41 giorni dalle 14:45 per 1 ore e 15 minuti,desk 18,2025-02-22T14:45:00,2025-02-22T16:00:00
+prenota sala riunioni tra 28 giorni dalle 16:30 per 15 minuti,sala riunioni,2025-02-09T16:30:00,2025-02-09T16:45:00
+prenota sala meeting tra 22 giorni dalle 11:45 per 1 ore e 45 minuti,sala meeting,2025-02-04T11:45:00,2025-02-04T13:30:00
+prenota desk 18 tra 16 giorni dalle 08:15 per 1 ore e 30 minuti,desk 18,2025-01-29T08:15:00,2025-01-29T09:45:00
+prenota ufficio A tra 36 giorni dalle 10:30 per 3 ore e 15 minuti,ufficio A,2025-02-18T10:30:00,2025-02-18T13:45:00
+prenota desk 18 tra 12 giorni dalle 08:30 per 1 ore e 45 minuti,desk 18,2025-01-25T08:30:00,2025-01-25T10:15:00
+prenota ufficio A tra 74 giorni dalle 14:45 per 4 ore e 15 minuti,ufficio A,2025-03-27T14:45:00,2025-03-27T19:00:00
+prenota sala riunioni tra 70 giorni dalle 20:30 per 1 ore e 45 minuti,sala riunioni,2025-03-23T20:30:00,2025-03-23T22:15:00
+prenota desk 40 tra 35 giorni dalle 14:00 per 1 ore e 45 minuti,desk 40,2025-02-16T14:00:00,2025-02-16T15:45:00
+prenota sala riunioni tra 82 giorni dalle 18:45 per 3 ore e 30 minuti,sala riunioni,2025-04-04T18:45:00,2025-04-04T22:15:00
+prenota sala riunioni tra 58 giorni dalle 12:15 per mezz'ora,sala riunioni,2025-03-12T12:15:00,2025-03-12T12:45:00
+prenota auditorium tra 39 giorni dalle 08:15 per 1 ore e 45 minuti,auditorium,2025-02-21T08:15:00,2025-02-21T10:00:00
+prenota desk 40 tra 45 giorni dalle 08:15 per 1 ore e 45 minuti,desk 40,2025-02-27T08:15:00,2025-02-27T10:00:00
+prenota ufficio B tra 35 giorni dalle 14:45 per 2 ore e 15 minuti,ufficio B,2025-02-16T14:45:00,2025-02-16T17:00:00
+prenota ufficio A tra 43 giorni dalle 19:15 per 1 ore e 15 minuti,ufficio A,2025-02-24T19:15:00,2025-02-24T20:30:00
+prenota auditorium tra 65 giorni dalle 10:15 per 15 minuti,auditorium,2025-03-19T10:15:00,2025-03-19T10:30:00
+prenota sala riunioni tra 16 giorni dalle 13:45 per 4 ore e 15 minuti,sala riunioni,2025-01-29T13:45:00,2025-01-29T18:00:00
+prenota auditorium tra 25 giorni dalle 08:15 per 15 minuti,auditorium,2025-02-07T08:15:00,2025-02-07T08:30:00
+prenota auditorium tra 32 giorni dalle 14:45 per 3 ore e 15 minuti,auditorium,2025-02-13T14:45:00,2025-02-13T18:00:00
+prenota desk 18 tra 87 giorni dalle 09:45 per 3 ore e 30 minuti,desk 18,2025-04-10T09:45:00,2025-04-10T13:15:00
+prenota desk 40 domani dalle 15:45 per 1 ore e 30 minuti,desk 40,2025-01-13T15:45:00,2025-01-13T17:15:00
+prenota ufficio B tra 77 giorni dalle 13:30 per 1 ore e 45 minuti,ufficio B,2025-03-31T13:30:00,2025-03-31T15:15:00
+prenota sala riunioni tra 21 giorni dalle 12:30 per 1 ore e 15 minuti,sala riunioni,2025-02-03T12:30:00,2025-02-03T13:45:00
+prenota sala riunioni tra 21 giorni dalle 11:30 per 3 ore e 15 minuti,sala riunioni,2025-02-03T11:30:00,2025-02-03T14:45:00
+prenota auditorium tra 2 giorni dalle 11:30 per 1 ore e 15 minuti,auditorium,2025-01-15T11:30:00,2025-01-15T12:45:00
+prenota auditorium tra 68 giorni dalle 12:45 per 45 minuti,auditorium,2025-03-22T12:45:00,2025-03-22T13:30:00
+prenota desk 40 domani dalle 09:45 per 1 ore e 15 minuti,desk 40,2025-01-14T09:45:00,2025-01-14T11:00:00
+prenota desk 18 tra 15 giorni dalle 12:00 per 2 ore e 15 minuti,desk 18,2025-01-28T12:00:00,2025-01-28T14:15:00
+prenota ufficio A tra 51 giorni dalle 12:45 per mezz'ora,ufficio A,2025-03-05T12:45:00,2025-03-05T13:15:00
+prenota desk 18 tra 81 giorni dalle 19:45 per 2 ore e 30 minuti,desk 18,2025-04-03T19:45:00,2025-04-03T22:15:00
+prenota ufficio A tra 13 giorni dalle 17:15 per 2 ore e 15 minuti,ufficio A,2025-01-25T17:15:00,2025-01-25T19:30:00
+prenota ufficio A tra 46 giorni dalle 18:15 per 4 ore e 30 minuti,ufficio A,2025-02-27T18:15:00,2025-02-27T22:45:00
+prenota auditorium tra 86 giorni dalle 15:15 per 2 ore e 45 minuti,auditorium,2025-04-08T15:15:00,2025-04-08T18:00:00
+prenota desk 40 tra 7 giorni dalle 10:15 per 2 ore e 45 minuti,desk 40,2025-01-20T10:15:00,2025-01-20T13:00:00
+prenota sala riunioni tra 74 giorni dalle 20:30 per 3 ore e 30 minuti,sala riunioni,2025-03-27T20:30:00,2025-03-28T00:00:00
+prenota desk 40 tra 67 giorni dalle 12:30 per 4 ore e 45 minuti,desk 40,2025-03-21T12:30:00,2025-03-21T17:15:00
+prenota desk 18 tra 17 giorni dalle 11:45 per 1 ore e 45 minuti,desk 18,2025-01-30T11:45:00,2025-01-30T13:30:00
+prenota auditorium tra 57 giorni dalle 17:00 per 1 ore e 15 minuti,auditorium,2025-03-10T17:00:00,2025-03-10T18:15:00
+prenota auditorium tra 9 giorni dalle 09:00 per 45 minuti,auditorium,2025-01-22T09:00:00,2025-01-22T09:45:00
+prenota ufficio A tra 64 giorni dalle 08:15 per 2 ore e 45 minuti,ufficio A,2025-03-18T08:15:00,2025-03-18T11:00:00
+prenota ufficio B tra 53 giorni dalle 20:00 per mezz'ora,ufficio B,2025-03-06T20:00:00,2025-03-06T20:30:00
+prenota desk 40 tra 6 giorni dalle 15:30 per 45 minuti,desk 40,2025-01-18T15:30:00,2025-01-18T16:15:00
+prenota auditorium tra 75 giorni dalle 10:30 per 45 minuti,auditorium,2025-03-29T10:30:00,2025-03-29T11:15:00
+prenota ufficio B tra 78 giorni dalle 12:30 per 1 ore e 45 minuti,ufficio B,2025-04-01T12:30:00,2025-04-01T14:15:00
+prenota sala meeting tra 14 giorni dalle 15:00 per 1 ore e 15 minuti,sala meeting,2025-01-26T15:00:00,2025-01-26T16:15:00
+prenota auditorium tra 63 giorni dalle 14:30 per 1 ore e 15 minuti,auditorium,2025-03-16T14:30:00,2025-03-16T15:45:00
+prenota ufficio B tra 57 giorni dalle 10:15 per mezz'ora,ufficio B,2025-03-11T10:15:00,2025-03-11T10:45:00
+prenota desk 40 tra 36 giorni dalle 10:15 per mezz'ora,desk 40,2025-02-18T10:15:00,2025-02-18T10:45:00
+prenota auditorium tra 48 giorni dalle 18:30 per 2 ore e 45 minuti,auditorium,2025-03-01T18:30:00,2025-03-01T21:15:00
+prenota desk 18 tra 47 giorni dalle 11:15 per 45 minuti,desk 18,2025-03-01T11:15:00,2025-03-01T12:00:00
+prenota ufficio B tra 24 giorni dalle 11:30 per 2 ore e 30 minuti,ufficio B,2025-02-06T11:30:00,2025-02-06T14:00:00
+prenota ufficio A domani dalle 12:45 per 4 ore e 45 minuti,ufficio A,2025-01-14T12:45:00,2025-01-14T17:30:00
+prenota ufficio B tra 41 giorni dalle 08:30 per 3 ore e 15 minuti,ufficio B,2025-02-23T08:30:00,2025-02-23T11:45:00
+prenota desk 40 tra 20 giorni dalle 08:30 per 4 ore e 45 minuti,desk 40,2025-02-02T08:30:00,2025-02-02T13:15:00
+prenota ufficio A tra 64 giorni dalle 18:30 per 45 minuti,ufficio A,2025-03-17T18:30:00,2025-03-17T19:15:00
+prenota desk 40 tra 39 giorni dalle 11:45 per 3 ore e 30 minuti,desk 40,2025-02-21T11:45:00,2025-02-21T15:15:00
+prenota ufficio B tra 88 giorni dalle 10:45 per 3 ore e 45 minuti,ufficio B,2025-04-11T10:45:00,2025-04-11T14:30:00
+prenota desk 18 tra 25 giorni dalle 10:30 per 3 ore e 15 minuti,desk 18,2025-02-07T10:30:00,2025-02-07T13:45:00
+prenota sala meeting tra 23 giorni dalle 15:45 per 3 ore e 30 minuti,sala meeting,2025-02-04T15:45:00,2025-02-04T19:15:00
+prenota desk 40 tra 20 giorni dalle 10:30 per 4 ore e 15 minuti,desk 40,2025-02-02T10:30:00,2025-02-02T14:45:00
+prenota sala riunioni tra 52 giorni dalle 09:45 per 2 ore e 45 minuti,sala riunioni,2025-03-06T09:45:00,2025-03-06T12:30:00
+prenota sala riunioni tra 18 giorni dalle 20:15 per 45 minuti,sala riunioni,2025-01-30T20:15:00,2025-01-30T21:00:00
+prenota sala meeting tra 73 giorni dalle 19:15 per 1 ore e 45 minuti,sala meeting,2025-03-26T19:15:00,2025-03-26T21:00:00
+prenota sala meeting tra 13 giorni dalle 09:30 per 3 ore e 15 minuti,sala meeting,2025-01-26T09:30:00,2025-01-26T12:45:00
+prenota sala riunioni tra 19 giorni dalle 17:30 per 2 ore e 45 minuti,sala riunioni,2025-01-31T17:30:00,2025-01-31T20:15:00
+prenota desk 18 tra 74 giorni dalle 14:15 per 3 ore e 15 minuti,desk 18,2025-03-27T14:15:00,2025-03-27T17:30:00
+prenota ufficio A tra 85 giorni dalle 19:15 per 3 ore e 15 minuti,ufficio A,2025-04-07T19:15:00,2025-04-07T22:30:00
+prenota desk 40 tra 79 giorni dalle 19:30 per 1 ore e 15 minuti,desk 40,2025-04-01T19:30:00,2025-04-01T20:45:00
+prenota ufficio A tra 47 giorni dalle 09:30 per 2 ore e 45 minuti,ufficio A,2025-03-01T09:30:00,2025-03-01T12:15:00
+prenota ufficio B tra 3 giorni dalle 18:30 per 15 minuti,ufficio B,2025-01-15T18:30:00,2025-01-15T18:45:00
+prenota auditorium tra 12 giorni dalle 11:00 per mezz'ora,auditorium,2025-01-25T11:00:00,2025-01-25T11:30:00
+prenota ufficio B tra 67 giorni dalle 11:15 per 45 minuti,ufficio B,2025-03-21T11:15:00,2025-03-21T12:00:00
+prenota sala riunioni tra 21 giorni dalle 10:00 per 1 ore e 15 minuti,sala riunioni,2025-02-03T10:00:00,2025-02-03T11:15:00
+prenota sala meeting tra 37 giorni dalle 16:00 per 2 ore e 45 minuti,sala meeting,2025-02-18T16:00:00,2025-02-18T18:45:00
+prenota auditorium tra 55 giorni dalle 16:45 per 4 ore e 30 minuti,auditorium,2025-03-08T16:45:00,2025-03-08T21:15:00
+prenota ufficio A tra 37 giorni dalle 08:00 per 4 ore e 15 minuti,ufficio A,2025-02-19T08:00:00,2025-02-19T12:15:00
+prenota ufficio B tra 40 giorni dalle 12:00 per 3 ore e 30 minuti,ufficio B,2025-02-22T12:00:00,2025-02-22T15:30:00
+prenota sala meeting tra 17 giorni dalle 18:00 per mezz'ora,sala meeting,2025-01-29T18:00:00,2025-01-29T18:30:00
+prenota auditorium tra 72 giorni dalle 16:45 per 3 ore e 45 minuti,auditorium,2025-03-25T16:45:00,2025-03-25T20:30:00
+prenota ufficio B tra 60 giorni dalle 11:30 per 4 ore e 30 minuti,ufficio B,2025-03-14T11:30:00,2025-03-14T16:00:00
+prenota desk 40 tra 49 giorni dalle 18:45 per 2 ore e 30 minuti,desk 40,2025-03-02T18:45:00,2025-03-02T21:15:00
+prenota desk 18 tra 39 giorni dalle 20:00 per 4 ore e 30 minuti,desk 18,2025-02-20T20:00:00,2025-02-21T00:30:00
+prenota desk 18 tra 15 giorni dalle 11:30 per 1 ore e 15 minuti,desk 18,2025-01-28T11:30:00,2025-01-28T12:45:00
+prenota ufficio B tra 18 giorni dalle 19:45 per 1 ore e 15 minuti,ufficio B,2025-01-30T19:45:00,2025-01-30T21:00:00
+prenota sala riunioni tra 23 giorni dalle 10:00 per 2 ore e 45 minuti,sala riunioni,2025-02-05T10:00:00,2025-02-05T12:45:00
+prenota sala riunioni tra 4 giorni dalle 12:15 per 4 ore e 30 minuti,sala riunioni,2025-01-17T12:15:00,2025-01-17T16:45:00
+prenota ufficio B tra 27 giorni dalle 20:00 per 2 ore e 45 minuti,ufficio B,2025-02-08T20:00:00,2025-02-08T22:45:00
+prenota ufficio A tra 65 giorni dalle 17:00 per mezz'ora,ufficio A,2025-03-18T17:00:00,2025-03-18T17:30:00
+prenota desk 40 tra 78 giorni dalle 15:15 per 3 ore e 45 minuti,desk 40,2025-03-31T15:15:00,2025-03-31T19:00:00
+prenota ufficio B tra 76 giorni dalle 17:30 per 4 ore e 45 minuti,ufficio B,2025-03-29T17:30:00,2025-03-29T22:15:00
+prenota ufficio B tra 12 giorni dalle 18:15 per 4 ore e 45 minuti,ufficio B,2025-01-24T18:15:00,2025-01-24T23:00:00
+prenota auditorium tra 14 giorni dalle 19:00 per 15 minuti,auditorium,2025-01-26T19:00:00,2025-01-26T19:15:00
+prenota ufficio A tra 54 giorni dalle 14:00 per 1 ore e 45 minuti,ufficio A,2025-03-07T14:00:00,2025-03-07T15:45:00
+prenota sala riunioni tra 6 giorni dalle 08:30 per 1 ore e 45 minuti,sala riunioni,2025-01-19T08:30:00,2025-01-19T10:15:00
+prenota auditorium tra 68 giorni dalle 13:15 per 4 ore e 30 minuti,auditorium,2025-03-22T13:15:00,2025-03-22T17:45:00
+prenota auditorium tra 11 giorni dalle 08:30 per mezz'ora,auditorium,2025-01-24T08:30:00,2025-01-24T09:00:00
+prenota desk 40 tra 21 giorni dalle 12:15 per 4 ore e 15 minuti,desk 40,2025-02-03T12:15:00,2025-02-03T16:30:00
+prenota ufficio B tra 89 giorni dalle 08:30 per 4 ore e 45 minuti,ufficio B,2025-04-12T08:30:00,2025-04-12T13:15:00
+prenota auditorium tra 53 giorni dalle 20:15 per 4 ore e 45 minuti,auditorium,2025-03-06T20:15:00,2025-03-07T01:00:00
+prenota sala riunioni tra 7 giorni dalle 15:45 per 4 ore e 45 minuti,sala riunioni,2025-01-19T15:45:00,2025-01-19T20:30:00
+prenota ufficio A tra 20 giorni dalle 15:45 per 1 ore e 15 minuti,ufficio A,2025-02-01T15:45:00,2025-02-01T17:00:00
+prenota auditorium tra 70 giorni dalle 11:45 per 1 ore e 15 minuti,auditorium,2025-03-24T11:45:00,2025-03-24T13:00:00
+prenota desk 40 tra 61 giorni dalle 14:00 per 4 ore e 30 minuti,desk 40,2025-03-14T14:00:00,2025-03-14T18:30:00
+prenota desk 18 tra 14 giorni dalle 18:45 per 1 ore e 30 minuti,desk 18,2025-01-26T18:45:00,2025-01-26T20:15:00
+prenota ufficio A tra 12 giorni dalle 11:45 per 4 ore e 30 minuti,ufficio A,2025-01-25T11:45:00,2025-01-25T16:15:00
+prenota desk 40 tra 12 giorni dalle 08:00 per 1 ore e 15 minuti,desk 40,2025-01-25T08:00:00,2025-01-25T09:15:00
+prenota desk 18 tra 64 giorni dalle 20:15 per 1 ore e 15 minuti,desk 18,2025-03-17T20:15:00,2025-03-17T21:30:00
+prenota desk 18 tra 76 giorni dalle 10:00 per 4 ore e 45 minuti,desk 18,2025-03-30T10:00:00,2025-03-30T14:45:00
+prenota desk 18 tra 27 giorni dalle 13:15 per 3 ore e 45 minuti,desk 18,2025-02-09T13:15:00,2025-02-09T17:00:00
+prenota ufficio B tra 8 giorni dalle 16:45 per 2 ore e 45 minuti,ufficio B,2025-01-20T16:45:00,2025-01-20T19:30:00
+prenota desk 40 tra 88 giorni dalle 08:45 per 3 ore e 30 minuti,desk 40,2025-04-11T08:45:00,2025-04-11T12:15:00
+prenota ufficio A tra 12 giorni dalle 18:00 per 3 ore e 45 minuti,ufficio A,2025-01-24T18:00:00,2025-01-24T21:45:00
+prenota desk 18 tra 47 giorni dalle 17:15 per 45 minuti,desk 18,2025-02-28T17:15:00,2025-02-28T18:00:00
+prenota ufficio B tra 65 giorni dalle 09:30 per 1 ore e 15 minuti,ufficio B,2025-03-19T09:30:00,2025-03-19T10:45:00
+prenota ufficio B tra 16 giorni dalle 15:45 per 3 ore e 15 minuti,ufficio B,2025-01-28T15:45:00,2025-01-28T19:00:00
+prenota ufficio A tra 64 giorni dalle 19:00 per 2 ore e 45 minuti,ufficio A,2025-03-17T19:00:00,2025-03-17T21:45:00
+prenota ufficio A tra 74 giorni dalle 16:15 per 4 ore e 45 minuti,ufficio A,2025-03-27T16:15:00,2025-03-27T21:00:00
+prenota sala meeting tra 44 giorni dalle 18:45 per 1 ore e 45 minuti,sala meeting,2025-02-25T18:45:00,2025-02-25T20:30:00
+prenota desk 18 tra 2 giorni dalle 19:15 per 3 ore e 30 minuti,desk 18,2025-01-14T19:15:00,2025-01-14T22:45:00
+prenota sala meeting tra 89 giorni dalle 14:45 per 1 ore e 45 minuti,sala meeting,2025-04-11T14:45:00,2025-04-11T16:30:00
+prenota desk 40 tra 45 giorni dalle 17:00 per 1 ore e 30 minuti,desk 40,2025-02-26T17:00:00,2025-02-26T18:30:00
+prenota ufficio A tra 25 giorni dalle 12:15 per 2 ore e 30 minuti,ufficio A,2025-02-07T12:15:00,2025-02-07T14:45:00
+prenota auditorium tra 76 giorni dalle 12:45 per mezz'ora,auditorium,2025-03-30T12:45:00,2025-03-30T13:15:00
+prenota desk 18 tra 37 giorni dalle 10:00 per 3 ore e 30 minuti,desk 18,2025-02-19T10:00:00,2025-02-19T13:30:00
+prenota desk 18 tra 59 giorni dalle 10:45 per 3 ore e 45 minuti,desk 18,2025-03-13T10:45:00,2025-03-13T14:30:00
+prenota sala meeting tra 8 giorni dalle 20:45 per 4 ore e 45 minuti,sala meeting,2025-01-20T20:45:00,2025-01-21T01:30:00
+prenota ufficio A tra 61 giorni dalle 08:00 per 4 ore e 45 minuti,ufficio A,2025-03-15T08:00:00,2025-03-15T12:45:00
+prenota ufficio A tra 39 giorni dalle 18:45 per 2 ore e 45 minuti,ufficio A,2025-02-20T18:45:00,2025-02-20T21:30:00
+prenota sala meeting tra 87 giorni dalle 17:30 per 3 ore e 30 minuti,sala meeting,2025-04-09T17:30:00,2025-04-09T21:00:00
+prenota sala riunioni tra 64 giorni dalle 11:30 per mezz'ora,sala riunioni,2025-03-18T11:30:00,2025-03-18T12:00:00
+prenota ufficio A tra 30 giorni dalle 12:45 per 4 ore e 45 minuti,ufficio A,2025-02-12T12:45:00,2025-02-12T17:30:00
+prenota sala meeting tra 26 giorni dalle 14:00 per 3 ore e 30 minuti,sala meeting,2025-02-07T14:00:00,2025-02-07T17:30:00
+prenota desk 40 tra 74 giorni dalle 16:00 per 2 ore e 30 minuti,desk 40,2025-03-27T16:00:00,2025-03-27T18:30:00
+prenota sala meeting domani dalle 20:15 per 4 ore e 30 minuti,sala meeting,2025-01-13T20:15:00,2025-01-14T00:45:00
+prenota sala riunioni tra 40 giorni dalle 10:00 per 15 minuti,sala riunioni,2025-02-22T10:00:00,2025-02-22T10:15:00
+prenota ufficio A tra 17 giorni dalle 15:00 per 3 ore e 30 minuti,ufficio A,2025-01-29T15:00:00,2025-01-29T18:30:00
+prenota sala meeting tra 70 giorni dalle 17:00 per 45 minuti,sala meeting,2025-03-23T17:00:00,2025-03-23T17:45:00
+prenota auditorium tra 34 giorni dalle 16:30 per 2 ore e 45 minuti,auditorium,2025-02-15T16:30:00,2025-02-15T19:15:00
+prenota sala riunioni tra 27 giorni dalle 08:15 per mezz'ora,sala riunioni,2025-02-09T08:15:00,2025-02-09T08:45:00
+prenota ufficio A tra 39 giorni dalle 18:15 per 4 ore e 45 minuti,ufficio A,2025-02-20T18:15:00,2025-02-20T23:00:00
+prenota desk 18 tra 59 giorni dalle 12:00 per 4 ore e 30 minuti,desk 18,2025-03-13T12:00:00,2025-03-13T16:30:00
+prenota ufficio A tra 29 giorni dalle 08:15 per 3 ore e 30 minuti,ufficio A,2025-02-11T08:15:00,2025-02-11T11:45:00
+prenota sala riunioni tra 5 giorni dalle 08:15 per 45 minuti,sala riunioni,2025-01-18T08:15:00,2025-01-18T09:00:00
+prenota sala meeting tra 49 giorni dalle 20:45 per 45 minuti,sala meeting,2025-03-02T20:45:00,2025-03-02T21:30:00
+prenota desk 40 tra 75 giorni dalle 13:15 per mezz'ora,desk 40,2025-03-29T13:15:00,2025-03-29T13:45:00
+prenota ufficio A tra 36 giorni dalle 09:30 per 4 ore e 15 minuti,ufficio A,2025-02-18T09:30:00,2025-02-18T13:45:00
+prenota desk 40 tra 56 giorni dalle 16:30 per 3 ore e 30 minuti,desk 40,2025-03-09T16:30:00,2025-03-09T20:00:00
+prenota ufficio B tra 6 giorni dalle 16:45 per 45 minuti,ufficio B,2025-01-18T16:45:00,2025-01-18T17:30:00
+prenota sala riunioni tra 67 giorni dalle 15:15 per 3 ore e 45 minuti,sala riunioni,2025-03-20T15:15:00,2025-03-20T19:00:00
+prenota desk 40 tra 3 giorni dalle 08:00 per 1 ore e 30 minuti,desk 40,2025-01-16T08:00:00,2025-01-16T09:30:00
+prenota sala meeting tra 87 giorni dalle 09:00 per 1 ore e 30 minuti,sala meeting,2025-04-10T09:00:00,2025-04-10T10:30:00
+prenota sala meeting tra 37 giorni dalle 12:15 per 4 ore e 45 minuti,sala meeting,2025-02-19T12:15:00,2025-02-19T17:00:00
+prenota sala riunioni tra 50 giorni dalle 15:30 per 2 ore e 30 minuti,sala riunioni,2025-03-03T15:30:00,2025-03-03T18:00:00
+prenota ufficio B tra 50 giorni dalle 13:15 per 2 ore e 15 minuti,ufficio B,2025-03-04T13:15:00,2025-03-04T15:30:00
+prenota ufficio A tra 18 giorni dalle 20:15 per mezz'ora,ufficio A,2025-01-30T20:15:00,2025-01-30T20:45:00
+prenota sala meeting tra 78 giorni dalle 17:45 per 3 ore e 15 minuti,sala meeting,2025-03-31T17:45:00,2025-03-31T21:00:00
+prenota sala meeting tra 54 giorni dalle 20:15 per 1 ore e 15 minuti,sala meeting,2025-03-07T20:15:00,2025-03-07T21:30:00
+prenota sala riunioni tra 76 giorni dalle 08:30 per 1 ore e 15 minuti,sala riunioni,2025-03-30T08:30:00,2025-03-30T09:45:00
+prenota desk 18 tra 82 giorni dalle 18:30 per 3 ore e 15 minuti,desk 18,2025-04-04T18:30:00,2025-04-04T21:45:00
+prenota sala meeting tra 62 giorni dalle 12:45 per 3 ore e 30 minuti,sala meeting,2025-03-16T12:45:00,2025-03-16T16:15:00
+prenota ufficio B tra 36 giorni dalle 18:30 per 2 ore e 45 minuti,ufficio B,2025-02-17T18:30:00,2025-02-17T21:15:00
+prenota auditorium tra 76 giorni dalle 14:30 per 1 ore e 15 minuti,auditorium,2025-03-29T14:30:00,2025-03-29T15:45:00
+prenota desk 40 tra 29 giorni dalle 16:15 per 2 ore e 15 minuti,desk 40,2025-02-10T16:15:00,2025-02-10T18:30:00
+prenota ufficio A tra 9 giorni dalle 10:30 per 2 ore e 45 minuti,ufficio A,2025-01-22T10:30:00,2025-01-22T13:15:00
+prenota sala meeting tra 26 giorni dalle 09:15 per 4 ore e 15 minuti,sala meeting,2025-02-08T09:15:00,2025-02-08T13:30:00
+prenota sala riunioni tra 31 giorni dalle 14:15 per 1 ore e 15 minuti,sala riunioni,2025-02-12T14:15:00,2025-02-12T15:30:00
+prenota desk 40 tra 8 giorni dalle 19:45 per 1 ore e 45 minuti,desk 40,2025-01-20T19:45:00,2025-01-20T21:30:00
+prenota auditorium tra 81 giorni dalle 15:45 per 1 ore e 30 minuti,auditorium,2025-04-03T15:45:00,2025-04-03T17:15:00
+prenota desk 40 tra 34 giorni dalle 16:15 per 4 ore e 30 minuti,desk 40,2025-02-15T16:15:00,2025-02-15T20:45:00
+prenota ufficio B tra 41 giorni dalle 19:30 per 4 ore e 30 minuti,ufficio B,2025-02-22T19:30:00,2025-02-23T00:00:00
+prenota auditorium tra 23 giorni dalle 17:30 per 1 ore e 45 minuti,auditorium,2025-02-04T17:30:00,2025-02-04T19:15:00
+prenota desk 40 tra 43 giorni dalle 10:30 per mezz'ora,desk 40,2025-02-25T10:30:00,2025-02-25T11:00:00
+prenota sala riunioni tra 63 giorni dalle 13:45 per 2 ore e 45 minuti,sala riunioni,2025-03-17T13:45:00,2025-03-17T16:30:00
+prenota sala riunioni tra 56 giorni dalle 09:00 per 2 ore e 15 minuti,sala riunioni,2025-03-10T09:00:00,2025-03-10T11:15:00
+prenota ufficio B tra 80 giorni dalle 08:30 per 2 ore e 45 minuti,ufficio B,2025-04-03T08:30:00,2025-04-03T11:15:00
+prenota sala riunioni tra 33 giorni dalle 15:45 per 2 ore e 30 minuti,sala riunioni,2025-02-14T15:45:00,2025-02-14T18:15:00
+prenota ufficio A tra 29 giorni dalle 20:30 per 1 ore e 30 minuti,ufficio A,2025-02-10T20:30:00,2025-02-10T22:00:00
+prenota desk 40 tra 17 giorni dalle 12:45 per 4 ore e 45 minuti,desk 40,2025-01-30T12:45:00,2025-01-30T17:30:00
+prenota desk 18 tra 36 giorni dalle 09:45 per mezz'ora,desk 18,2025-02-18T09:45:00,2025-02-18T10:15:00
+prenota ufficio B tra 38 giorni dalle 19:45 per 1 ore e 30 minuti,ufficio B,2025-02-19T19:45:00,2025-02-19T21:15:00
+prenota sala meeting tra 76 giorni dalle 11:00 per 2 ore e 15 minuti,sala meeting,2025-03-30T11:00:00,2025-03-30T13:15:00
+prenota ufficio A tra 65 giorni dalle 16:00 per 1 ore e 15 minuti,ufficio A,2025-03-18T16:00:00,2025-03-18T17:15:00
+prenota sala riunioni tra 66 giorni dalle 11:45 per 15 minuti,sala riunioni,2025-03-20T11:45:00,2025-03-20T12:00:00
+prenota desk 18 tra 24 giorni dalle 11:15 per 3 ore e 15 minuti,desk 18,2025-02-06T11:15:00,2025-02-06T14:30:00
+prenota ufficio B tra 60 giorni dalle 16:15 per 4 ore e 15 minuti,ufficio B,2025-03-13T16:15:00,2025-03-13T20:30:00
+prenota sala meeting tra 22 giorni dalle 15:45 per 1 ore e 15 minuti,sala meeting,2025-02-03T15:45:00,2025-02-03T17:00:00
+prenota sala meeting tra 71 giorni dalle 14:15 per 2 ore e 45 minuti,sala meeting,2025-03-24T14:15:00,2025-03-24T17:00:00
+prenota sala riunioni tra 39 giorni dalle 10:00 per 3 ore e 45 minuti,sala riunioni,2025-02-21T10:00:00,2025-02-21T13:45:00
+prenota sala meeting tra 51 giorni dalle 13:15 per 2 ore e 45 minuti,sala meeting,2025-03-05T13:15:00,2025-03-05T16:00:00
+prenota auditorium tra 61 giorni dalle 20:00 per 45 minuti,auditorium,2025-03-14T20:00:00,2025-03-14T20:45:00
+prenota ufficio B tra 12 giorni dalle 13:45 per 3 ore e 15 minuti,ufficio B,2025-01-25T13:45:00,2025-01-25T17:00:00
+prenota sala meeting tra 35 giorni dalle 14:45 per 45 minuti,sala meeting,2025-02-16T14:45:00,2025-02-16T15:30:00
+prenota ufficio A tra 56 giorni dalle 19:45 per 1 ore e 45 minuti,ufficio A,2025-03-09T19:45:00,2025-03-09T21:30:00
+prenota desk 40 tra 50 giorni dalle 17:00 per 2 ore e 15 minuti,desk 40,2025-03-03T17:00:00,2025-03-03T19:15:00
+prenota auditorium tra 49 giorni dalle 10:30 per 3 ore e 45 minuti,auditorium,2025-03-03T10:30:00,2025-03-03T14:15:00
+prenota desk 40 tra 54 giorni dalle 12:30 per 45 minuti,desk 40,2025-03-08T12:30:00,2025-03-08T13:15:00
+prenota ufficio B tra 73 giorni dalle 17:00 per 15 minuti,ufficio B,2025-03-26T17:00:00,2025-03-26T17:15:00
+prenota sala riunioni tra 68 giorni dalle 17:30 per 3 ore e 15 minuti,sala riunioni,2025-03-21T17:30:00,2025-03-21T20:45:00
+prenota ufficio B tra 2 giorni dalle 16:15 per 2 ore e 15 minuti,ufficio B,2025-01-14T16:15:00,2025-01-14T18:30:00
+prenota sala riunioni tra 89 giorni dalle 09:45 per 4 ore e 30 minuti,sala riunioni,2025-04-12T09:45:00,2025-04-12T14:15:00
+prenota sala meeting tra 21 giorni dalle 18:30 per 3 ore e 30 minuti,sala meeting,2025-02-02T18:30:00,2025-02-02T22:00:00
+prenota desk 18 tra 65 giorni dalle 20:30 per 4 ore e 45 minuti,desk 18,2025-03-18T20:30:00,2025-03-19T01:15:00
+prenota ufficio B tra 58 giorni dalle 17:30 per 3 ore e 15 minuti,ufficio B,2025-03-11T17:30:00,2025-03-11T20:45:00
+prenota ufficio B tra 47 giorni dalle 20:45 per 2 ore e 45 minuti,ufficio B,2025-02-28T20:45:00,2025-02-28T23:30:00
+prenota desk 18 tra 72 giorni dalle 13:15 per 4 ore e 45 minuti,desk 18,2025-03-26T13:15:00,2025-03-26T18:00:00
+prenota sala riunioni tra 74 giorni dalle 08:15 per 1 ore e 15 minuti,sala riunioni,2025-03-28T08:15:00,2025-03-28T09:30:00
+prenota ufficio A tra 74 giorni dalle 15:00 per 1 ore e 30 minuti,ufficio A,2025-03-27T15:00:00,2025-03-27T16:30:00
+prenota ufficio B tra 68 giorni dalle 11:45 per mezz'ora,ufficio B,2025-03-22T11:45:00,2025-03-22T12:15:00
+prenota sala riunioni tra 42 giorni dalle 20:30 per 2 ore e 30 minuti,sala riunioni,2025-02-23T20:30:00,2025-02-23T23:00:00
+prenota desk 40 tra 12 giorni dalle 20:30 per 1 ore e 30 minuti,desk 40,2025-01-24T20:30:00,2025-01-24T22:00:00
+prenota ufficio A tra 20 giorni dalle 16:45 per 4 ore e 15 minuti,ufficio A,2025-02-01T16:45:00,2025-02-01T21:00:00
+prenota sala riunioni tra 23 giorni dalle 19:15 per 15 minuti,sala riunioni,2025-02-04T19:15:00,2025-02-04T19:30:00
+prenota ufficio B tra 63 giorni dalle 13:45 per 4 ore e 15 minuti,ufficio B,2025-03-17T13:45:00,2025-03-17T18:00:00
+prenota desk 40 tra 10 giorni dalle 17:15 per 4 ore e 30 minuti,desk 40,2025-01-22T17:15:00,2025-01-22T21:45:00
+prenota desk 40 tra 67 giorni dalle 09:30 per 2 ore e 45 minuti,desk 40,2025-03-21T09:30:00,2025-03-21T12:15:00
+prenota sala riunioni tra 2 giorni dalle 19:15 per mezz'ora,sala riunioni,2025-01-14T19:15:00,2025-01-14T19:45:00
+prenota ufficio A tra 72 giorni dalle 08:30 per 2 ore e 15 minuti,ufficio A,2025-03-26T08:30:00,2025-03-26T10:45:00
+prenota ufficio B tra 54 giorni dalle 14:15 per 1 ore e 30 minuti,ufficio B,2025-03-07T14:15:00,2025-03-07T15:45:00
+prenota sala riunioni tra 80 giorni dalle 18:30 per 4 ore e 45 minuti,sala riunioni,2025-04-02T18:30:00,2025-04-02T23:15:00
+prenota desk 40 tra 2 giorni dalle 20:45 per 45 minuti,desk 40,2025-01-14T20:45:00,2025-01-14T21:30:00
+prenota sala meeting tra 23 giorni dalle 10:45 per 45 minuti,sala meeting,2025-02-05T10:45:00,2025-02-05T11:30:00
+prenota desk 18 tra 14 giorni dalle 09:15 per 4 ore e 15 minuti,desk 18,2025-01-27T09:15:00,2025-01-27T13:30:00
+prenota sala riunioni tra 31 giorni dalle 16:15 per 4 ore e 30 minuti,sala riunioni,2025-02-12T16:15:00,2025-02-12T20:45:00
+prenota sala meeting tra 17 giorni dalle 18:30 per 2 ore e 15 minuti,sala meeting,2025-01-29T18:30:00,2025-01-29T20:45:00
+prenota auditorium tra 53 giorni dalle 08:00 per 4 ore e 30 minuti,auditorium,2025-03-07T08:00:00,2025-03-07T12:30:00
+prenota desk 40 tra 68 giorni dalle 20:00 per 4 ore e 45 minuti,desk 40,2025-03-21T20:00:00,2025-03-22T00:45:00
+prenota sala riunioni tra 4 giorni dalle 12:30 per 15 minuti,sala riunioni,2025-01-17T12:30:00,2025-01-17T12:45:00
+prenota sala meeting tra 27 giorni dalle 19:45 per 1 ore e 30 minuti,sala meeting,2025-02-08T19:45:00,2025-02-08T21:15:00
+prenota sala riunioni tra 43 giorni dalle 19:45 per 1 ore e 30 minuti,sala riunioni,2025-02-24T19:45:00,2025-02-24T21:15:00
+prenota desk 40 tra 50 giorni dalle 10:45 per 15 minuti,desk 40,2025-03-04T10:45:00,2025-03-04T11:00:00
+prenota desk 18 tra 44 giorni dalle 16:45 per 4 ore e 15 minuti,desk 18,2025-02-25T16:45:00,2025-02-25T21:00:00
+prenota auditorium tra 44 giorni dalle 11:00 per 45 minuti,auditorium,2025-02-26T11:00:00,2025-02-26T11:45:00
+prenota sala meeting tra 68 giorni dalle 13:45 per mezz'ora,sala meeting,2025-03-22T13:45:00,2025-03-22T14:15:00
+prenota desk 18 tra 37 giorni dalle 15:15 per 45 minuti,desk 18,2025-02-18T15:15:00,2025-02-18T16:00:00
+prenota sala meeting tra 49 giorni dalle 14:15 per 4 ore e 30 minuti,sala meeting,2025-03-02T14:15:00,2025-03-02T18:45:00
+prenota ufficio B tra 22 giorni dalle 13:30 per 15 minuti,ufficio B,2025-02-04T13:30:00,2025-02-04T13:45:00
+prenota ufficio A tra 36 giorni dalle 11:45 per 4 ore e 15 minuti,ufficio A,2025-02-18T11:45:00,2025-02-18T16:00:00
+prenota desk 18 tra 17 giorni dalle 16:15 per 3 ore e 30 minuti,desk 18,2025-01-29T16:15:00,2025-01-29T19:45:00
+prenota auditorium tra 57 giorni dalle 08:15 per 4 ore e 45 minuti,auditorium,2025-03-11T08:15:00,2025-03-11T13:00:00
+prenota ufficio A tra 83 giorni dalle 14:45 per mezz'ora,ufficio A,2025-04-05T14:45:00,2025-04-05T15:15:00
+prenota auditorium tra 36 giorni dalle 10:00 per 3 ore e 30 minuti,auditorium,2025-02-18T10:00:00,2025-02-18T13:30:00
+prenota sala meeting tra 8 giorni dalle 19:45 per 15 minuti,sala meeting,2025-01-20T19:45:00,2025-01-20T20:00:00
+prenota sala riunioni tra 79 giorni dalle 19:45 per 2 ore e 45 minuti,sala riunioni,2025-04-01T19:45:00,2025-04-01T22:30:00
+prenota auditorium tra 42 giorni dalle 16:30 per 3 ore e 30 minuti,auditorium,2025-02-23T16:30:00,2025-02-23T20:00:00
+prenota sala riunioni tra 46 giorni dalle 09:00 per 1 ore e 45 minuti,sala riunioni,2025-02-28T09:00:00,2025-02-28T10:45:00
+prenota ufficio B tra 68 giorni dalle 08:15 per 3 ore e 15 minuti,ufficio B,2025-03-22T08:15:00,2025-03-22T11:30:00
+prenota sala riunioni tra 32 giorni dalle 10:45 per 3 ore e 15 minuti,sala riunioni,2025-02-14T10:45:00,2025-02-14T14:00:00
+prenota ufficio A tra 17 giorni dalle 16:00 per 2 ore e 45 minuti,ufficio A,2025-01-29T16:00:00,2025-01-29T18:45:00
+prenota sala meeting tra 85 giorni dalle 12:45 per 45 minuti,sala meeting,2025-04-08T12:45:00,2025-04-08T13:30:00
+prenota desk 40 tra 73 giorni dalle 11:30 per 1 ore e 15 minuti,desk 40,2025-03-27T11:30:00,2025-03-27T12:45:00
+prenota ufficio B tra 52 giorni dalle 17:00 per 3 ore e 30 minuti,ufficio B,2025-03-05T17:00:00,2025-03-05T20:30:00
+prenota ufficio A tra 33 giorni dalle 19:00 per 4 ore e 15 minuti,ufficio A,2025-02-14T19:00:00,2025-02-14T23:15:00
+prenota auditorium tra 64 giorni dalle 16:30 per 4 ore e 45 minuti,auditorium,2025-03-17T16:30:00,2025-03-17T21:15:00
+prenota ufficio A tra 33 giorni dalle 13:30 per 45 minuti,ufficio A,2025-02-15T13:30:00,2025-02-15T14:15:00
+prenota auditorium tra 42 giorni dalle 16:45 per 1 ore e 30 minuti,auditorium,2025-02-23T16:45:00,2025-02-23T18:15:00
+prenota sala riunioni tra 57 giorni dalle 12:15 per 45 minuti,sala riunioni,2025-03-11T12:15:00,2025-03-11T13:00:00
+prenota ufficio A tra 70 giorni dalle 16:00 per mezz'ora,ufficio A,2025-03-23T16:00:00,2025-03-23T16:30:00
+prenota desk 40 tra 34 giorni dalle 20:00 per 1 ore e 30 minuti,desk 40,2025-02-15T20:00:00,2025-02-15T21:30:00
+prenota auditorium tra 75 giorni dalle 16:00 per 4 ore e 30 minuti,auditorium,2025-03-28T16:00:00,2025-03-28T20:30:00
+prenota auditorium tra 70 giorni dalle 15:45 per 2 ore e 45 minuti,auditorium,2025-03-23T15:45:00,2025-03-23T18:30:00
+prenota auditorium tra 28 giorni dalle 11:45 per 2 ore e 30 minuti,auditorium,2025-02-10T11:45:00,2025-02-10T14:15:00
+prenota ufficio A oggi dalle 12:00 per 1 ore e 45 minuti,ufficio A,2025-01-13T12:00:00,2025-01-13T13:45:00
+prenota sala riunioni tra 76 giorni dalle 08:00 per 2 ore e 15 minuti,sala riunioni,2025-03-30T08:00:00,2025-03-30T10:15:00
+prenota ufficio B tra 81 giorni dalle 14:00 per 1 ore e 45 minuti,ufficio B,2025-04-03T14:00:00,2025-04-03T15:45:00
+prenota auditorium tra 49 giorni dalle 10:30 per 2 ore e 15 minuti,auditorium,2025-03-03T10:30:00,2025-03-03T12:45:00
+prenota sala riunioni tra 32 giorni dalle 09:15 per 1 ore e 15 minuti,sala riunioni,2025-02-14T09:15:00,2025-02-14T10:30:00
+prenota ufficio B tra 4 giorni dalle 19:30 per 3 ore e 30 minuti,ufficio B,2025-01-16T19:30:00,2025-01-16T23:00:00
+prenota auditorium 1 giorni fa dalle 12:30 per 15 minuti,auditorium,2025-01-12T12:30:00,2025-01-12T12:45:00
+prenota sala riunioni tra 90 giorni dalle 19:45 per 4 ore e 45 minuti,sala riunioni,2025-04-12T19:45:00,2025-04-13T00:30:00
+prenota sala meeting tra 12 giorni dalle 17:15 per 1 ore e 30 minuti,sala meeting,2025-01-24T17:15:00,2025-01-24T18:45:00
+prenota sala meeting tra 30 giorni dalle 16:00 per 45 minuti,sala meeting,2025-02-11T16:00:00,2025-02-11T16:45:00
+prenota ufficio A tra 77 giorni dalle 12:00 per 1 ore e 15 minuti,ufficio A,2025-03-31T12:00:00,2025-03-31T13:15:00
+prenota desk 40 tra 35 giorni dalle 16:45 per 45 minuti,desk 40,2025-02-16T16:45:00,2025-02-16T17:30:00
+prenota desk 18 tra 71 giorni dalle 15:15 per 3 ore e 30 minuti,desk 18,2025-03-24T15:15:00,2025-03-24T18:45:00
+prenota desk 40 tra 73 giorni dalle 14:15 per 1 ore e 15 minuti,desk 40,2025-03-26T14:15:00,2025-03-26T15:30:00
+prenota sala meeting tra 10 giorni dalle 15:30 per 1 ore e 15 minuti,sala meeting,2025-01-22T15:30:00,2025-01-22T16:45:00
+prenota sala meeting oggi dalle 12:15 per 1 ore e 30 minuti,sala meeting,2025-01-13T12:15:00,2025-01-13T13:45:00
+prenota sala riunioni tra 13 giorni dalle 16:00 per 15 minuti,sala riunioni,2025-01-25T16:00:00,2025-01-25T16:15:00
+prenota sala meeting tra 48 giorni dalle 16:45 per 45 minuti,sala meeting,2025-03-01T16:45:00,2025-03-01T17:30:00
+prenota ufficio A tra 26 giorni dalle 08:45 per 15 minuti,ufficio A,2025-02-08T08:45:00,2025-02-08T09:00:00
+prenota ufficio B tra 51 giorni dalle 15:15 per 15 minuti,ufficio B,2025-03-04T15:15:00,2025-03-04T15:30:00
+prenota desk 40 tra 3 giorni dalle 08:30 per 1 ore e 30 minuti,desk 40,2025-01-16T08:30:00,2025-01-16T10:00:00
+prenota desk 40 tra 53 giorni dalle 19:15 per 45 minuti,desk 40,2025-03-06T19:15:00,2025-03-06T20:00:00
+prenota sala meeting tra 25 giorni dalle 14:00 per mezz'ora,sala meeting,2025-02-06T14:00:00,2025-02-06T14:30:00
+prenota ufficio A tra 60 giorni dalle 17:30 per 15 minuti,ufficio A,2025-03-13T17:30:00,2025-03-13T17:45:00
+prenota sala riunioni tra 62 giorni dalle 11:15 per 2 ore e 45 minuti,sala riunioni,2025-03-16T11:15:00,2025-03-16T14:00:00
+prenota sala riunioni tra 3 giorni dalle 20:45 per 1 ore e 45 minuti,sala riunioni,2025-01-15T20:45:00,2025-01-15T22:30:00
+prenota ufficio A tra 10 giorni dalle 11:00 per 3 ore e 15 minuti,ufficio A,2025-01-23T11:00:00,2025-01-23T14:15:00
+prenota auditorium tra 10 giorni dalle 09:15 per 4 ore e 30 minuti,auditorium,2025-01-23T09:15:00,2025-01-23T13:45:00
+prenota ufficio B tra 5 giorni dalle 19:45 per 45 minuti,ufficio B,2025-01-17T19:45:00,2025-01-17T20:30:00
+prenota ufficio A tra 62 giorni dalle 10:15 per 15 minuti,ufficio A,2025-03-16T10:15:00,2025-03-16T10:30:00
+prenota desk 40 tra 31 giorni dalle 13:30 per 3 ore e 15 minuti,desk 40,2025-02-13T13:30:00,2025-02-13T16:45:00
+prenota ufficio A tra 14 giorni dalle 17:15 per 4 ore e 15 minuti,ufficio A,2025-01-26T17:15:00,2025-01-26T21:30:00
+prenota ufficio A oggi dalle 15:30 per 2 ore e 15 minuti,ufficio A,2025-01-12T15:30:00,2025-01-12T17:45:00
+prenota ufficio A tra 5 giorni dalle 10:15 per 2 ore e 30 minuti,ufficio A,2025-01-18T10:15:00,2025-01-18T12:45:00
+prenota desk 40 tra 15 giorni dalle 10:30 per 1 ore e 15 minuti,desk 40,2025-01-28T10:30:00,2025-01-28T11:45:00
+prenota desk 18 tra 49 giorni dalle 08:15 per 2 ore e 15 minuti,desk 18,2025-03-03T08:15:00,2025-03-03T10:30:00
+prenota auditorium tra 74 giorni dalle 12:00 per 1 ore e 45 minuti,auditorium,2025-03-28T12:00:00,2025-03-28T13:45:00
+prenota desk 18 tra 2 giorni dalle 17:30 per 2 ore e 45 minuti,desk 18,2025-01-14T17:30:00,2025-01-14T20:15:00
+prenota desk 40 tra 57 giorni dalle 20:45 per 1 ore e 30 minuti,desk 40,2025-03-10T20:45:00,2025-03-10T22:15:00
+prenota ufficio B domani dalle 11:15 per 3 ore e 45 minuti,ufficio B,2025-01-14T11:15:00,2025-01-14T15:00:00
+prenota desk 18 tra 44 giorni dalle 13:00 per 1 ore e 15 minuti,desk 18,2025-02-26T13:00:00,2025-02-26T14:15:00
+prenota ufficio A tra 51 giorni dalle 09:45 per 4 ore e 30 minuti,ufficio A,2025-03-05T09:45:00,2025-03-05T14:15:00
+prenota desk 18 tra 70 giorni dalle 08:15 per 2 ore e 30 minuti,desk 18,2025-03-24T08:15:00,2025-03-24T10:45:00
+prenota desk 40 tra 87 giorni dalle 13:30 per mezz'ora,desk 40,2025-04-10T13:30:00,2025-04-10T14:00:00
+prenota sala riunioni tra 15 giorni dalle 09:00 per 4 ore e 45 minuti,sala riunioni,2025-01-28T09:00:00,2025-01-28T13:45:00
+prenota sala riunioni tra 40 giorni dalle 16:00 per 1 ore e 30 minuti,sala riunioni,2025-02-21T16:00:00,2025-02-21T17:30:00
+prenota ufficio B tra 51 giorni dalle 20:30 per 4 ore e 45 minuti,ufficio B,2025-03-04T20:30:00,2025-03-05T01:15:00
+prenota ufficio A tra 32 giorni dalle 15:45 per 4 ore e 45 minuti,ufficio A,2025-02-13T15:45:00,2025-02-13T20:30:00
+prenota ufficio A tra 15 giorni dalle 11:45 per 3 ore e 15 minuti,ufficio A,2025-01-28T11:45:00,2025-01-28T15:00:00
+prenota sala riunioni tra 64 giorni dalle 16:30 per 2 ore e 30 minuti,sala riunioni,2025-03-17T16:30:00,2025-03-17T19:00:00
+prenota sala meeting tra 3 giorni dalle 16:15 per 3 ore e 45 minuti,sala meeting,2025-01-15T16:15:00,2025-01-15T20:00:00
+prenota ufficio B tra 11 giorni dalle 17:00 per 4 ore e 15 minuti,ufficio B,2025-01-23T17:00:00,2025-01-23T21:15:00
+prenota ufficio A tra 37 giorni dalle 17:15 per mezz'ora,ufficio A,2025-02-18T17:15:00,2025-02-18T17:45:00
+prenota sala meeting tra 4 giorni dalle 08:45 per 4 ore e 45 minuti,sala meeting,2025-01-17T08:45:00,2025-01-17T13:30:00
+prenota desk 18 tra 67 giorni dalle 20:15 per 3 ore e 45 minuti,desk 18,2025-03-20T20:15:00,2025-03-21T00:00:00
+prenota desk 18 tra 79 giorni dalle 10:15 per 2 ore e 15 minuti,desk 18,2025-04-02T10:15:00,2025-04-02T12:30:00
+prenota sala meeting tra 68 giorni dalle 12:45 per 2 ore e 30 minuti,sala meeting,2025-03-22T12:45:00,2025-03-22T15:15:00
+prenota sala riunioni tra 63 giorni dalle 10:00 per 1 ore e 45 minuti,sala riunioni,2025-03-17T10:00:00,2025-03-17T11:45:00
+prenota ufficio B tra 51 giorni dalle 13:30 per 3 ore e 15 minuti,ufficio B,2025-03-05T13:30:00,2025-03-05T16:45:00
+prenota auditorium oggi dalle 10:00 per 1 ore e 15 minuti,auditorium,2025-01-13T10:00:00,2025-01-13T11:15:00
+prenota desk 18 tra 62 giorni dalle 18:15 per mezz'ora,desk 18,2025-03-15T18:15:00,2025-03-15T18:45:00
+prenota sala meeting 1 giorni fa dalle 11:15 per 15 minuti,sala meeting,2025-01-12T11:15:00,2025-01-12T11:30:00
+prenota sala riunioni tra 2 giorni dalle 16:45 per 1 ore e 30 minuti,sala riunioni,2025-01-14T16:45:00,2025-01-14T18:15:00
+prenota desk 18 tra 51 giorni dalle 15:15 per 4 ore e 15 minuti,desk 18,2025-03-04T15:15:00,2025-03-04T19:30:00
+prenota ufficio B 1 giorni fa dalle 08:00 per mezz'ora,ufficio B,2025-01-12T08:00:00,2025-01-12T08:30:00
+prenota sala riunioni tra 51 giorni dalle 20:00 per 45 minuti,sala riunioni,2025-03-04T20:00:00,2025-03-04T20:45:00
+prenota desk 40 tra 11 giorni dalle 14:15 per 1 ore e 15 minuti,desk 40,2025-01-23T14:15:00,2025-01-23T15:30:00
+prenota desk 18 tra 62 giorni dalle 11:45 per 4 ore e 45 minuti,desk 18,2025-03-16T11:45:00,2025-03-16T16:30:00
+prenota ufficio B tra 73 giorni dalle 19:45 per 4 ore e 15 minuti,ufficio B,2025-03-26T19:45:00,2025-03-27T00:00:00
+prenota ufficio A domani dalle 16:30 per 2 ore e 45 minuti,ufficio A,2025-01-13T16:30:00,2025-01-13T19:15:00
+prenota desk 40 tra 10 giorni dalle 16:45 per 3 ore e 30 minuti,desk 40,2025-01-22T16:45:00,2025-01-22T20:15:00
+prenota ufficio A tra 30 giorni dalle 08:00 per 45 minuti,ufficio A,2025-02-12T08:00:00,2025-02-12T08:45:00
+prenota desk 40 tra 75 giorni dalle 16:30 per 1 ore e 15 minuti,desk 40,2025-03-28T16:30:00,2025-03-28T17:45:00
+prenota ufficio A tra 14 giorni dalle 09:15 per 3 ore e 15 minuti,ufficio A,2025-01-27T09:15:00,2025-01-27T12:30:00
+prenota sala riunioni tra 65 giorni dalle 09:30 per 45 minuti,sala riunioni,2025-03-19T09:30:00,2025-03-19T10:15:00
+prenota ufficio B tra 71 giorni dalle 18:30 per 2 ore e 30 minuti,ufficio B,2025-03-24T18:30:00,2025-03-24T21:00:00
+prenota ufficio B tra 18 giorni dalle 20:30 per 1 ore e 15 minuti,ufficio B,2025-01-30T20:30:00,2025-01-30T21:45:00
+prenota auditorium tra 80 giorni dalle 12:00 per mezz'ora,auditorium,2025-04-03T12:00:00,2025-04-03T12:30:00
+prenota auditorium tra 41 giorni dalle 20:15 per 2 ore e 30 minuti,auditorium,2025-02-22T20:15:00,2025-02-22T22:45:00
+prenota ufficio A tra 3 giorni dalle 15:30 per 3 ore e 45 minuti,ufficio A,2025-01-15T15:30:00,2025-01-15T19:15:00
+prenota ufficio B tra 75 giorni dalle 12:30 per 4 ore e 45 minuti,ufficio B,2025-03-29T12:30:00,2025-03-29T17:15:00
+prenota sala meeting tra 51 giorni dalle 14:45 per 1 ore e 45 minuti,sala meeting,2025-03-04T14:45:00,2025-03-04T16:30:00
+prenota sala riunioni tra 11 giorni dalle 08:15 per 2 ore e 45 minuti,sala riunioni,2025-01-24T08:15:00,2025-01-24T11:00:00
+prenota desk 18 tra 2 giorni dalle 20:15 per 4 ore e 15 minuti,desk 18,2025-01-14T20:15:00,2025-01-15T00:30:00
+prenota desk 18 tra 63 giorni dalle 10:15 per 1 ore e 45 minuti,desk 18,2025-03-17T10:15:00,2025-03-17T12:00:00
+prenota ufficio A tra 76 giorni dalle 20:30 per 15 minuti,ufficio A,2025-03-29T20:30:00,2025-03-29T20:45:00
+prenota ufficio A tra 17 giorni dalle 08:30 per 4 ore e 15 minuti,ufficio A,2025-01-30T08:30:00,2025-01-30T12:45:00
+prenota ufficio A tra 33 giorni dalle 19:30 per 1 ore e 30 minuti,ufficio A,2025-02-14T19:30:00,2025-02-14T21:00:00
+prenota auditorium tra 45 giorni dalle 18:15 per 3 ore e 30 minuti,auditorium,2025-02-26T18:15:00,2025-02-26T21:45:00
+prenota auditorium tra 27 giorni dalle 13:45 per 15 minuti,auditorium,2025-02-09T13:45:00,2025-02-09T14:00:00
+prenota sala meeting tra 10 giorni dalle 10:00 per 4 ore e 15 minuti,sala meeting,2025-01-23T10:00:00,2025-01-23T14:15:00
+prenota ufficio B tra 88 giorni dalle 13:00 per 4 ore e 15 minuti,ufficio B,2025-04-11T13:00:00,2025-04-11T17:15:00
+prenota desk 18 tra 52 giorni dalle 09:15 per 2 ore e 30 minuti,desk 18,2025-03-06T09:15:00,2025-03-06T11:45:00
+prenota ufficio B domani dalle 12:45 per 15 minuti,ufficio B,2025-01-14T12:45:00,2025-01-14T13:00:00
+prenota sala riunioni tra 59 giorni dalle 17:15 per 1 ore e 15 minuti,sala riunioni,2025-03-12T17:15:00,2025-03-12T18:30:00
+prenota sala meeting tra 54 giorni dalle 14:00 per 15 minuti,sala meeting,2025-03-07T14:00:00,2025-03-07T14:15:00
+prenota auditorium tra 70 giorni dalle 11:15 per 3 ore e 15 minuti,auditorium,2025-03-24T11:15:00,2025-03-24T14:30:00
+prenota sala riunioni tra 11 giorni dalle 19:15 per 1 ore e 15 minuti,sala riunioni,2025-01-23T19:15:00,2025-01-23T20:30:00
+prenota ufficio B tra 80 giorni dalle 14:00 per 2 ore e 15 minuti,ufficio B,2025-04-02T14:00:00,2025-04-02T16:15:00
+prenota auditorium tra 3 giorni dalle 18:30 per 4 ore e 45 minuti,auditorium,2025-01-15T18:30:00,2025-01-15T23:15:00
+prenota sala meeting domani dalle 15:45 per 3 ore e 30 minuti,sala meeting,2025-01-13T15:45:00,2025-01-13T19:15:00
+prenota auditorium tra 32 giorni dalle 12:45 per mezz'ora,auditorium,2025-02-14T12:45:00,2025-02-14T13:15:00
+prenota desk 18 tra 21 giorni dalle 10:45 per 3 ore e 15 minuti,desk 18,2025-02-03T10:45:00,2025-02-03T14:00:00
+prenota desk 40 tra 80 giorni dalle 12:45 per 15 minuti,desk 40,2025-04-03T12:45:00,2025-04-03T13:00:00
+prenota ufficio B tra 10 giorni dalle 13:15 per mezz'ora,ufficio B,2025-01-23T13:15:00,2025-01-23T13:45:00
+prenota ufficio A tra 79 giorni dalle 11:30 per 3 ore e 15 minuti,ufficio A,2025-04-02T11:30:00,2025-04-02T14:45:00
+prenota sala meeting tra 29 giorni dalle 13:45 per mezz'ora,sala meeting,2025-02-11T13:45:00,2025-02-11T14:15:00
+prenota ufficio A tra 67 giorni dalle 10:15 per 2 ore e 15 minuti,ufficio A,2025-03-21T10:15:00,2025-03-21T12:30:00
+prenota desk 18 tra 85 giorni dalle 10:45 per 1 ore e 30 minuti,desk 18,2025-04-08T10:45:00,2025-04-08T12:15:00
+prenota ufficio A oggi dalle 16:45 per 3 ore e 45 minuti,ufficio A,2025-01-12T16:45:00,2025-01-12T20:30:00
+prenota desk 40 tra 48 giorni dalle 13:45 per 1 ore e 15 minuti,desk 40,2025-03-02T13:45:00,2025-03-02T15:00:00
+prenota sala meeting tra 9 giorni dalle 17:45 per 3 ore e 45 minuti,sala meeting,2025-01-21T17:45:00,2025-01-21T21:30:00
+prenota ufficio A il 18 marzo dalle 12:30 alle 16:00,ufficio A,2025-03-18T12:30:00,2025-03-18T16:00:00
+prenota desk 40 il 22 gennaio dalle 18:15 alle 22:30,desk 40,2025-01-22T18:15:00,2025-01-22T22:30:00
+prenota desk 18 il 07 febbraio dalle 13:00 alle 13:30,desk 18,2025-02-07T13:00:00,2025-02-07T13:30:00
+prenota sala riunioni il 18 marzo dalle 12:45 alle 15:00,sala riunioni,2025-03-18T12:45:00,2025-03-18T15:00:00
+prenota auditorium il 11 febbraio dalle 13:30 alle 15:00,auditorium,2025-02-11T13:30:00,2025-02-11T15:00:00
+prenota sala riunioni il 20 febbraio dalle 19:45 alle 23:30,sala riunioni,2025-02-20T19:45:00,2025-02-20T23:30:00
+prenota auditorium il 26 gennaio dalle 10:00 alle 12:45,auditorium,2025-01-26T10:00:00,2025-01-26T12:45:00
+prenota ufficio A il 13 febbraio dalle 17:30 alle 19:00,ufficio A,2025-02-13T17:30:00,2025-02-13T19:00:00
+prenota sala meeting il 26 marzo dalle 20:15 alle 20:45,sala meeting,2025-03-26T20:15:00,2025-03-26T20:45:00
+prenota desk 18 il 10 aprile dalle 12:30 alle 12:45,desk 18,2025-04-10T12:30:00,2025-04-10T12:45:00
+prenota sala riunioni il 07 aprile dalle 19:45 alle 21:30,sala riunioni,2025-04-07T19:45:00,2025-04-07T21:30:00
+prenota ufficio B il 22 gennaio dalle 16:15 alle 19:30,ufficio B,2025-01-22T16:15:00,2025-01-22T19:30:00
+prenota sala riunioni il 07 aprile dalle 14:15 alle 16:30,sala riunioni,2025-04-07T14:15:00,2025-04-07T16:30:00
+prenota sala meeting il 08 aprile dalle 17:30 alle 22:15,sala meeting,2025-04-08T17:30:00,2025-04-08T22:15:00
+prenota desk 40 il 03 febbraio dalle 19:00 alle 23:45,desk 40,2025-02-03T19:00:00,2025-02-03T23:45:00
+prenota sala meeting il 28 marzo dalle 20:45 alle 01:00,sala meeting,2025-03-28T20:45:00,2025-03-29T01:00:00
+prenota ufficio A il 04 marzo dalle 12:00 alle 14:15,ufficio A,2025-03-04T12:00:00,2025-03-04T14:15:00
+prenota desk 40 il 24 gennaio dalle 08:15 alle 08:30,desk 40,2025-01-24T08:15:00,2025-01-24T08:30:00
+prenota desk 40 il 28 febbraio dalle 12:15 alle 14:30,desk 40,2025-02-28T12:15:00,2025-02-28T14:30:00
+prenota desk 40 il 04 febbraio dalle 11:00 alle 11:45,desk 40,2025-02-04T11:00:00,2025-02-04T11:45:00
+prenota ufficio A il prossimo sabato dalle 12:45 alle 13:00,ufficio A,2025-01-18T12:45:00,2025-01-18T13:00:00
+prenota ufficio A il 30 gennaio dalle 09:45 alle 10:00,ufficio A,2025-01-30T09:45:00,2025-01-30T10:00:00
+prenota auditorium il 01 febbraio dalle 08:15 alle 09:00,auditorium,2025-02-01T08:15:00,2025-02-01T09:00:00
+prenota ufficio A il 23 marzo dalle 17:00 alle 17:15,ufficio A,2025-03-23T17:00:00,2025-03-23T17:15:00
+prenota desk 40 il 16 febbraio dalle 08:00 alle 09:30,desk 40,2025-02-16T08:00:00,2025-02-16T09:30:00
+prenota ufficio A il 26 gennaio dalle 11:00 alle 14:45,ufficio A,2025-01-26T11:00:00,2025-01-26T14:45:00
+prenota sala riunioni il 28 marzo dalle 15:45 alle 16:30,sala riunioni,2025-03-28T15:45:00,2025-03-28T16:30:00
+prenota sala riunioni il 02 aprile dalle 20:45 alle 22:15,sala riunioni,2025-04-02T20:45:00,2025-04-02T22:15:00
+prenota desk 18 il 31 marzo dalle 20:00 alle 00:30,desk 18,2025-03-31T20:00:00,2025-04-01T00:30:00
+prenota sala riunioni il 27 marzo dalle 18:30 alle 22:15,sala riunioni,2025-03-27T18:30:00,2025-03-27T22:15:00
+prenota sala meeting il 27 febbraio dalle 08:00 alle 08:15,sala meeting,2025-02-27T08:00:00,2025-02-27T08:15:00
+prenota ufficio A il 24 febbraio dalle 11:30 alle 15:45,ufficio A,2025-02-24T11:30:00,2025-02-24T15:45:00
+prenota desk 18 il 27 gennaio dalle 08:45 alle 10:30,desk 18,2025-01-27T08:45:00,2025-01-27T10:30:00
+prenota ufficio B il 08 aprile dalle 15:00 alle 18:15,ufficio B,2025-04-08T15:00:00,2025-04-08T18:15:00
+prenota desk 40 il 12 marzo dalle 17:00 alle 18:30,desk 40,2025-03-12T17:00:00,2025-03-12T18:30:00
+prenota sala riunioni il 06 marzo dalle 09:45 alle 10:30,sala riunioni,2025-03-06T09:45:00,2025-03-06T10:30:00
+prenota desk 18 il 18 marzo dalle 09:45 alle 11:00,desk 18,2025-03-18T09:45:00,2025-03-18T11:00:00
+prenota auditorium il 08 aprile dalle 17:45 alle 20:15,auditorium,2025-04-08T17:45:00,2025-04-08T20:15:00
+prenota ufficio A il 27 gennaio dalle 16:15 alle 19:45,ufficio A,2025-01-27T16:15:00,2025-01-27T19:45:00
+prenota desk 40 il 10 febbraio dalle 08:45 alle 12:30,desk 40,2025-02-10T08:45:00,2025-02-10T12:30:00
+prenota desk 40 il 25 gennaio dalle 08:15 alle 11:00,desk 40,2025-01-25T08:15:00,2025-01-25T11:00:00
+prenota sala riunioni il 08 aprile dalle 19:30 alle 22:00,sala riunioni,2025-04-08T19:30:00,2025-04-08T22:00:00
+prenota desk 40 il 17 marzo dalle 08:00 alle 09:45,desk 40,2025-03-17T08:00:00,2025-03-17T09:45:00
+prenota sala meeting il 07 aprile dalle 12:15 alle 13:30,sala meeting,2025-04-07T12:15:00,2025-04-07T13:30:00
+prenota ufficio A il 04 febbraio dalle 10:00 alle 13:45,ufficio A,2025-02-04T10:00:00,2025-02-04T13:45:00
+prenota sala riunioni il 02 marzo dalle 17:45 alle 22:15,sala riunioni,2025-03-02T17:45:00,2025-03-02T22:15:00
+prenota desk 40 il 11 marzo dalle 12:45 alle 16:00,desk 40,2025-03-11T12:45:00,2025-03-11T16:00:00
+prenota ufficio A il 09 marzo dalle 18:30 alle 19:00,ufficio A,2025-03-09T18:30:00,2025-03-09T19:00:00
+prenota ufficio B il 10 aprile dalle 09:15 alle 13:45,ufficio B,2025-04-10T09:15:00,2025-04-10T13:45:00
+prenota desk 18 il 30 gennaio dalle 09:30 alle 10:15,desk 18,2025-01-30T09:30:00,2025-01-30T10:15:00
+prenota sala riunioni il 05 marzo dalle 12:15 alle 15:30,sala riunioni,2025-03-05T12:15:00,2025-03-05T15:30:00
+prenota sala riunioni il 14 marzo dalle 08:15 alle 09:45,sala riunioni,2025-03-14T08:15:00,2025-03-14T09:45:00
+prenota sala riunioni il 05 aprile dalle 16:30 alle 18:00,sala riunioni,2025-04-05T16:30:00,2025-04-05T18:00:00
+prenota desk 40 il 08 febbraio dalle 19:00 alle 23:45,desk 40,2025-02-08T19:00:00,2025-02-08T23:45:00
+prenota desk 40 il 09 febbraio dalle 17:15 alle 20:00,desk 40,2025-02-09T17:15:00,2025-02-09T20:00:00
+prenota desk 40 il 18 febbraio dalle 16:00 alle 17:15,desk 40,2025-02-18T16:00:00,2025-02-18T17:15:00
+prenota sala riunioni il 19 febbraio dalle 09:45 alle 14:00,sala riunioni,2025-02-19T09:45:00,2025-02-19T14:00:00
+prenota desk 40 oggi dalle 13:15 alle 13:30,desk 40,2025-01-13T13:15:00,2025-01-13T13:30:00
+prenota sala riunioni il 28 febbraio dalle 09:45 alle 13:30,sala riunioni,2025-02-28T09:45:00,2025-02-28T13:30:00
+prenota sala meeting il 23 marzo dalle 14:30 alle 18:15,sala meeting,2025-03-23T14:30:00,2025-03-23T18:15:00
+prenota desk 40 il 12 febbraio dalle 11:30 alle 13:00,desk 40,2025-02-12T11:30:00,2025-02-12T13:00:00
+prenota ufficio B il 23 gennaio dalle 09:00 alle 11:15,ufficio B,2025-01-23T09:00:00,2025-01-23T11:15:00
+prenota desk 40 il 27 gennaio dalle 20:30 alle 00:00,desk 40,2025-01-27T20:30:00,2025-01-28T00:00:00
+prenota sala meeting il 31 gennaio dalle 15:45 alle 16:15,sala meeting,2025-01-31T15:45:00,2025-01-31T16:15:00
+prenota ufficio A il 12 febbraio dalle 16:30 alle 19:15,ufficio A,2025-02-12T16:30:00,2025-02-12T19:15:00
+prenota desk 40 il 26 gennaio dalle 10:00 alle 13:30,desk 40,2025-01-26T10:00:00,2025-01-26T13:30:00
+prenota sala meeting il 24 gennaio dalle 10:15 alle 14:45,sala meeting,2025-01-24T10:15:00,2025-01-24T14:45:00
+prenota desk 40 il 25 marzo dalle 15:00 alle 17:30,desk 40,2025-03-25T15:00:00,2025-03-25T17:30:00
+prenota sala meeting il 31 gennaio dalle 14:00 alle 18:30,sala meeting,2025-01-31T14:00:00,2025-01-31T18:30:00
+prenota auditorium il 10 febbraio dalle 19:45 alle 20:00,auditorium,2025-02-10T19:45:00,2025-02-10T20:00:00
+prenota sala meeting il 18 febbraio dalle 14:30 alle 17:00,sala meeting,2025-02-18T14:30:00,2025-02-18T17:00:00
+prenota desk 40 il 12 marzo dalle 15:15 alle 15:45,desk 40,2025-03-12T15:15:00,2025-03-12T15:45:00
+prenota sala riunioni il 09 marzo dalle 09:00 alle 12:15,sala riunioni,2025-03-09T09:00:00,2025-03-09T12:15:00
+prenota sala riunioni il 17 marzo dalle 15:00 alle 17:30,sala riunioni,2025-03-17T15:00:00,2025-03-17T17:30:00
+prenota desk 40 il 14 febbraio dalle 20:45 alle 01:30,desk 40,2025-02-14T20:45:00,2025-02-15T01:30:00
+prenota desk 40 il 10 febbraio dalle 15:00 alle 16:15,desk 40,2025-02-10T15:00:00,2025-02-10T16:15:00
+prenota ufficio A il 21 febbraio dalle 12:15 alle 16:30,ufficio A,2025-02-21T12:15:00,2025-02-21T16:30:00
+prenota desk 40 il 04 febbraio dalle 15:30 alle 16:00,desk 40,2025-02-04T15:30:00,2025-02-04T16:00:00
+prenota ufficio B il 22 febbraio dalle 19:45 alle 21:15,ufficio B,2025-02-22T19:45:00,2025-02-22T21:15:00
+prenota sala riunioni il 01 febbraio dalle 17:15 alle 19:45,sala riunioni,2025-02-01T17:15:00,2025-02-01T19:45:00
+prenota desk 40 il 03 marzo dalle 18:45 alle 20:15,desk 40,2025-03-03T18:45:00,2025-03-03T20:15:00
+prenota auditorium il 24 marzo dalle 16:30 alle 17:00,auditorium,2025-03-24T16:30:00,2025-03-24T17:00:00
+prenota ufficio A il 07 marzo dalle 12:15 alle 12:45,ufficio A,2025-03-07T12:15:00,2025-03-07T12:45:00
+prenota desk 18 il 01 marzo dalle 18:15 alle 19:45,desk 18,2025-03-01T18:15:00,2025-03-01T19:45:00
+prenota sala riunioni il 12 aprile dalle 11:30 alle 13:15,sala riunioni,2025-04-12T11:30:00,2025-04-12T13:15:00
+prenota ufficio B il 04 marzo dalle 15:45 alle 17:15,ufficio B,2025-03-04T15:45:00,2025-03-04T17:15:00
+prenota ufficio B il 28 gennaio dalle 11:45 alle 16:15,ufficio B,2025-01-28T11:45:00,2025-01-28T16:15:00
+prenota ufficio B il prossimo sabato dalle 14:00 alle 16:45,ufficio B,2025-01-18T14:00:00,2025-01-18T16:45:00
+prenota ufficio B il 03 marzo dalle 17:15 alle 18:30,ufficio B,2025-03-03T17:15:00,2025-03-03T18:30:00
+prenota desk 18 il 23 febbraio dalle 20:30 alle 22:00,desk 18,2025-02-23T20:30:00,2025-02-23T22:00:00
+prenota sala riunioni il 25 febbraio dalle 20:00 alle 00:45,sala riunioni,2025-02-25T20:00:00,2025-02-26T00:45:00
+prenota desk 40 il 30 gennaio dalle 15:15 alle 19:45,desk 40,2025-01-30T15:15:00,2025-01-30T19:45:00
+prenota desk 18 il 22 gennaio dalle 13:45 alle 17:15,desk 18,2025-01-22T13:45:00,2025-01-22T17:15:00
+prenota desk 40 oggi dalle 13:15 alle 15:45,desk 40,2025-01-13T13:15:00,2025-01-13T15:45:00
+prenota ufficio A il prossimo domenica dalle 19:45 alle 00:30,ufficio A,2025-01-19T19:45:00,2025-01-20T00:30:00
+prenota ufficio A il 16 marzo dalle 19:30 alle 22:00,ufficio A,2025-03-16T19:30:00,2025-03-16T22:00:00
+prenota auditorium il 08 marzo dalle 09:00 alle 10:45,auditorium,2025-03-08T09:00:00,2025-03-08T10:45:00
+prenota sala meeting il 30 gennaio dalle 10:45 alle 12:15,sala meeting,2025-01-30T10:45:00,2025-01-30T12:15:00
+prenota desk 18 il 28 gennaio dalle 15:15 alle 16:30,desk 18,2025-01-28T15:15:00,2025-01-28T16:30:00
+prenota desk 18 il 03 febbraio dalle 10:15 alle 13:30,desk 18,2025-02-03T10:15:00,2025-02-03T13:30:00
+prenota sala riunioni il 21 gennaio dalle 15:30 alle 19:00,sala riunioni,2025-01-21T15:30:00,2025-01-21T19:00:00
+prenota ufficio B il 27 gennaio dalle 15:00 alle 18:15,ufficio B,2025-01-27T15:00:00,2025-01-27T18:15:00
+prenota sala riunioni il 18 febbraio dalle 10:30 alle 11:00,sala riunioni,2025-02-18T10:30:00,2025-02-18T11:00:00
+prenota sala meeting il 23 marzo dalle 14:15 alle 14:45,sala meeting,2025-03-23T14:15:00,2025-03-23T14:45:00
+prenota auditorium il 25 gennaio dalle 14:00 alle 15:45,auditorium,2025-01-25T14:00:00,2025-01-25T15:45:00
+prenota desk 40 il 03 febbraio dalle 10:00 alle 11:45,desk 40,2025-02-03T10:00:00,2025-02-03T11:45:00
+prenota ufficio A il 25 marzo dalle 20:00 alle 20:30,ufficio A,2025-03-25T20:00:00,2025-03-25T20:30:00
+prenota auditorium il 08 aprile dalle 14:30 alle 17:45,auditorium,2025-04-08T14:30:00,2025-04-08T17:45:00
+prenota sala riunioni il 07 marzo dalle 16:00 alle 16:30,sala riunioni,2025-03-07T16:00:00,2025-03-07T16:30:00
+prenota ufficio A domani dalle 11:00 alle 14:15,ufficio A,2025-01-14T11:00:00,2025-01-14T14:15:00
+prenota ufficio A il prossimo venerdì dalle 13:00 alle 13:30,ufficio A,2025-01-17T13:00:00,2025-01-17T13:30:00
+prenota ufficio B il 06 febbraio dalle 11:15 alle 14:45,ufficio B,2025-02-06T11:15:00,2025-02-06T14:45:00
+prenota auditorium il 13 febbraio dalle 12:45 alle 17:00,auditorium,2025-02-13T12:45:00,2025-02-13T17:00:00
+prenota desk 40 il 26 gennaio dalle 20:45 alle 22:30,desk 40,2025-01-26T20:45:00,2025-01-26T22:30:00
+prenota sala meeting il 09 marzo dalle 14:15 alle 18:30,sala meeting,2025-03-09T14:15:00,2025-03-09T18:30:00
+prenota ufficio B il 09 febbraio dalle 17:00 alle 20:30,ufficio B,2025-02-09T17:00:00,2025-02-09T20:30:00
+prenota sala meeting il prossimo domenica dalle 10:30 alle 15:15,sala meeting,2025-01-19T10:30:00,2025-01-19T15:15:00
+prenota ufficio B il 23 marzo dalle 13:00 alle 17:15,ufficio B,2025-03-23T13:00:00,2025-03-23T17:15:00
+prenota desk 18 il 30 marzo dalle 11:15 alle 15:00,desk 18,2025-03-30T11:15:00,2025-03-30T15:00:00
+prenota auditorium il 16 marzo dalle 10:00 alle 11:45,auditorium,2025-03-16T10:00:00,2025-03-16T11:45:00
+prenota sala riunioni il 02 marzo dalle 11:30 alle 12:00,sala riunioni,2025-03-02T11:30:00,2025-03-02T12:00:00
+prenota desk 40 il 25 marzo dalle 14:00 alle 15:30,desk 40,2025-03-25T14:00:00,2025-03-25T15:30:00
+prenota desk 18 il 06 marzo dalle 15:45 alle 18:00,desk 18,2025-03-06T15:45:00,2025-03-06T18:00:00
+prenota ufficio A il 02 febbraio dalle 16:30 alle 18:45,ufficio A,2025-02-02T16:30:00,2025-02-02T18:45:00
+prenota ufficio B il 15 marzo dalle 12:30 alle 13:00,ufficio B,2025-03-15T12:30:00,2025-03-15T13:00:00
+prenota desk 18 oggi dalle 16:45 alle 19:00,desk 18,2025-01-12T16:45:00,2025-01-12T19:00:00
+prenota ufficio A il 16 marzo dalle 13:45 alle 14:00,ufficio A,2025-03-16T13:45:00,2025-03-16T14:00:00
+prenota sala riunioni il 22 marzo dalle 08:00 alle 12:15,sala riunioni,2025-03-22T08:00:00,2025-03-22T12:15:00
+prenota ufficio B il prossimo venerdì dalle 10:15 alle 10:45,ufficio B,2025-01-17T10:15:00,2025-01-17T10:45:00
+prenota desk 40 il 19 febbraio dalle 11:00 alle 13:30,desk 40,2025-02-19T11:00:00,2025-02-19T13:30:00
+prenota ufficio B il 26 marzo dalle 08:15 alle 09:30,ufficio B,2025-03-26T08:15:00,2025-03-26T09:30:00
+prenota sala meeting il 05 febbraio dalle 11:15 alle 12:30,sala meeting,2025-02-05T11:15:00,2025-02-05T12:30:00
+prenota auditorium il 12 febbraio dalle 13:00 alle 13:15,auditorium,2025-02-12T13:00:00,2025-02-12T13:15:00
+prenota desk 40 il 28 febbraio dalle 18:30 alle 20:45,desk 40,2025-02-28T18:30:00,2025-02-28T20:45:00
+prenota sala riunioni il 01 aprile dalle 19:15 alle 21:45,sala riunioni,2025-04-01T19:15:00,2025-04-01T21:45:00
+prenota sala meeting il 09 aprile dalle 08:15 alle 12:00,sala meeting,2025-04-09T08:15:00,2025-04-09T12:00:00
+prenota ufficio B il 23 marzo dalle 20:30 alle 22:15,ufficio B,2025-03-23T20:30:00,2025-03-23T22:15:00
+prenota auditorium il 12 febbraio dalle 11:15 alle 13:30,auditorium,2025-02-12T11:15:00,2025-02-12T13:30:00
+prenota ufficio A il 01 febbraio dalle 17:45 alle 19:00,ufficio A,2025-02-01T17:45:00,2025-02-01T19:00:00
+prenota desk 40 il 21 marzo dalle 08:30 alle 13:15,desk 40,2025-03-21T08:30:00,2025-03-21T13:15:00
+prenota desk 18 il 21 marzo dalle 18:15 alle 18:30,desk 18,2025-03-21T18:15:00,2025-03-21T18:30:00
+prenota desk 40 il 15 febbraio dalle 20:30 alle 20:45,desk 40,2025-02-15T20:30:00,2025-02-15T20:45:00
+prenota ufficio B il prossimo domenica dalle 15:30 alle 20:00,ufficio B,2025-01-19T15:30:00,2025-01-19T20:00:00
+prenota sala meeting il 31 marzo dalle 17:15 alle 17:30,sala meeting,2025-03-31T17:15:00,2025-03-31T17:30:00
+prenota auditorium il 12 febbraio dalle 15:45 alle 17:00,auditorium,2025-02-12T15:45:00,2025-02-12T17:00:00
+prenota ufficio A il 11 marzo dalle 12:30 alle 14:45,ufficio A,2025-03-11T12:30:00,2025-03-11T14:45:00
+prenota sala riunioni domani dalle 14:15 alle 18:45,sala riunioni,2025-01-13T14:15:00,2025-01-13T18:45:00
+prenota desk 18 il 23 gennaio dalle 17:15 alle 20:45,desk 18,2025-01-23T17:15:00,2025-01-23T20:45:00
+prenota ufficio B il 24 gennaio dalle 17:15 alle 18:45,ufficio B,2025-01-24T17:15:00,2025-01-24T18:45:00
+prenota ufficio A il 21 gennaio dalle 19:15 alle 19:45,ufficio A,2025-01-21T19:15:00,2025-01-21T19:45:00
+prenota sala meeting il 10 febbraio dalle 19:45 alle 21:15,sala meeting,2025-02-10T19:45:00,2025-02-10T21:15:00
+prenota desk 40 il 16 febbraio dalle 15:30 alle 17:15,desk 40,2025-02-16T15:30:00,2025-02-16T17:15:00
+prenota desk 40 il 18 marzo dalle 18:45 alle 21:15,desk 40,2025-03-18T18:45:00,2025-03-18T21:15:00
+prenota sala riunioni il 30 gennaio dalle 19:00 alle 23:30,sala riunioni,2025-01-30T19:00:00,2025-01-30T23:30:00
+prenota sala riunioni il 10 marzo dalle 20:15 alle 20:30,sala riunioni,2025-03-10T20:15:00,2025-03-10T20:30:00
+prenota ufficio B il 28 marzo dalle 10:30 alle 12:45,ufficio B,2025-03-28T10:30:00,2025-03-28T12:45:00
+prenota sala meeting il prossimo domenica dalle 11:15 alle 11:30,sala meeting,2025-01-19T11:15:00,2025-01-19T11:30:00
+prenota sala meeting il 10 aprile dalle 11:30 alle 13:45,sala meeting,2025-04-10T11:30:00,2025-04-10T13:45:00
+prenota sala meeting il 24 gennaio dalle 12:15 alle 13:30,sala meeting,2025-01-24T12:15:00,2025-01-24T13:30:00
+prenota ufficio B il 03 aprile dalle 09:30 alle 11:15,ufficio B,2025-04-03T09:30:00,2025-04-03T11:15:00
+prenota desk 40 il prossimo sabato dalle 16:45 alle 20:30,desk 40,2025-01-18T16:45:00,2025-01-18T20:30:00
+prenota ufficio A il 03 aprile dalle 10:30 alle 14:15,ufficio A,2025-04-03T10:30:00,2025-04-03T14:15:00
+prenota auditorium il 28 febbraio dalle 19:30 alle 20:45,auditorium,2025-02-28T19:30:00,2025-02-28T20:45:00
+prenota sala riunioni il 17 marzo dalle 16:15 alle 19:00,sala riunioni,2025-03-17T16:15:00,2025-03-17T19:00:00
+prenota desk 40 il 08 aprile dalle 13:00 alle 17:15,desk 40,2025-04-08T13:00:00,2025-04-08T17:15:00
+prenota desk 18 lo scorso domenica dalle 12:45 alle 16:00,desk 18,2025-01-12T12:45:00,2025-01-12T16:00:00
+prenota ufficio A il 16 marzo dalle 18:45 alle 23:00,ufficio A,2025-03-16T18:45:00,2025-03-16T23:00:00
+prenota auditorium il 11 febbraio dalle 20:15 alle 01:00,auditorium,2025-02-11T20:15:00,2025-02-12T01:00:00
+prenota ufficio B il 08 marzo dalle 13:00 alle 15:45,ufficio B,2025-03-08T13:00:00,2025-03-08T15:45:00
+prenota sala riunioni il 02 febbraio dalle 13:45 alle 18:30,sala riunioni,2025-02-02T13:45:00,2025-02-02T18:30:00
+prenota sala meeting il 08 marzo dalle 12:00 alle 16:30,sala meeting,2025-03-08T12:00:00,2025-03-08T16:30:00
+prenota desk 18 il 17 marzo dalle 20:30 alle 01:15,desk 18,2025-03-17T20:30:00,2025-03-18T01:15:00
+prenota auditorium il 22 marzo dalle 10:30 alle 14:15,auditorium,2025-03-22T10:30:00,2025-03-22T14:15:00
+prenota desk 40 il 14 marzo dalle 10:45 alle 12:00,desk 40,2025-03-14T10:45:00,2025-03-14T12:00:00
+prenota desk 18 il 18 marzo dalle 12:45 alle 16:00,desk 18,2025-03-18T12:45:00,2025-03-18T16:00:00
+prenota desk 18 il 27 marzo dalle 20:15 alle 22:45,desk 18,2025-03-27T20:15:00,2025-03-27T22:45:00
+prenota auditorium il 03 aprile dalle 13:30 alle 14:15,auditorium,2025-04-03T13:30:00,2025-04-03T14:15:00
+prenota ufficio A il 02 febbraio dalle 16:15 alle 17:30,ufficio A,2025-02-02T16:15:00,2025-02-02T17:30:00
+prenota desk 40 il 25 febbraio dalle 08:00 alle 12:15,desk 40,2025-02-25T08:00:00,2025-02-25T12:15:00
+prenota sala meeting il 06 aprile dalle 18:45 alle 20:15,sala meeting,2025-04-06T18:45:00,2025-04-06T20:15:00
+prenota ufficio A il 03 febbraio dalle 16:45 alle 18:30,ufficio A,2025-02-03T16:45:00,2025-02-03T18:30:00
+prenota desk 40 il 13 febbraio dalle 10:00 alle 10:15,desk 40,2025-02-13T10:00:00,2025-02-13T10:15:00
+prenota desk 40 il 01 febbraio dalle 11:30 alle 12:00,desk 40,2025-02-01T11:30:00,2025-02-01T12:00:00
+prenota ufficio B il 26 marzo dalle 10:00 alle 10:45,ufficio B,2025-03-26T10:00:00,2025-03-26T10:45:00
+prenota desk 18 il 05 aprile dalle 14:45 alle 16:30,desk 18,2025-04-05T14:45:00,2025-04-05T16:30:00
+prenota ufficio A il prossimo venerdì dalle 10:45 alle 14:00,ufficio A,2025-01-17T10:45:00,2025-01-17T14:00:00
+prenota sala meeting il 24 febbraio dalle 08:30 alle 11:45,sala meeting,2025-02-24T08:30:00,2025-02-24T11:45:00
+prenota auditorium il 20 gennaio dalle 15:30 alle 15:45,auditorium,2025-01-20T15:30:00,2025-01-20T15:45:00
+prenota desk 18 il 10 febbraio dalle 17:00 alle 17:45,desk 18,2025-02-10T17:00:00,2025-02-10T17:45:00
+prenota desk 40 il 22 gennaio dalle 17:15 alle 18:45,desk 40,2025-01-22T17:15:00,2025-01-22T18:45:00
+prenota desk 40 il 06 febbraio dalle 16:15 alle 17:30,desk 40,2025-02-06T16:15:00,2025-02-06T17:30:00
+prenota sala meeting il 12 marzo dalle 09:00 alle 13:15,sala meeting,2025-03-12T09:00:00,2025-03-12T13:15:00
+prenota ufficio A oggi dalle 19:00 alle 22:15,ufficio A,2025-01-12T19:00:00,2025-01-12T22:15:00
+prenota ufficio B il 30 gennaio dalle 15:45 alle 16:15,ufficio B,2025-01-30T15:45:00,2025-01-30T16:15:00
+prenota ufficio A il 16 febbraio dalle 14:00 alle 17:15,ufficio A,2025-02-16T14:00:00,2025-02-16T17:15:00
+prenota ufficio A il 08 marzo dalle 10:45 alle 13:00,ufficio A,2025-03-08T10:45:00,2025-03-08T13:00:00
+prenota desk 18 il 20 marzo dalle 19:30 alle 19:45,desk 18,2025-03-20T19:30:00,2025-03-20T19:45:00
+prenota ufficio B il 22 febbraio dalle 11:45 alle 13:00,ufficio B,2025-02-22T11:45:00,2025-02-22T13:00:00
+prenota sala meeting il 07 marzo dalle 09:45 alle 13:30,sala meeting,2025-03-07T09:45:00,2025-03-07T13:30:00
+prenota auditorium il 09 febbraio dalle 18:00 alle 19:15,auditorium,2025-02-09T18:00:00,2025-02-09T19:15:00
+prenota desk 40 il 05 marzo dalle 09:00 alle 13:30,desk 40,2025-03-05T09:00:00,2025-03-05T13:30:00
+prenota sala meeting il 23 gennaio dalle 14:30 alle 15:45,sala meeting,2025-01-23T14:30:00,2025-01-23T15:45:00
+prenota desk 18 il 24 gennaio dalle 14:30 alle 17:00,desk 18,2025-01-24T14:30:00,2025-01-24T17:00:00
+prenota sala riunioni il 06 febbraio dalle 15:15 alle 18:45,sala riunioni,2025-02-06T15:15:00,2025-02-06T18:45:00
+prenota desk 18 il 02 marzo dalle 16:30 alle 20:00,desk 18,2025-03-02T16:30:00,2025-03-02T20:00:00
+prenota desk 40 il prossimo giovedì dalle 14:15 alle 17:00,desk 40,2025-01-16T14:15:00,2025-01-16T17:00:00
+prenota sala meeting il 04 febbraio dalle 17:00 alle 19:30,sala meeting,2025-02-04T17:00:00,2025-02-04T19:30:00
+prenota desk 40 il 20 gennaio dalle 15:30 alle 17:45,desk 40,2025-01-20T15:30:00,2025-01-20T17:45:00
+prenota ufficio B il 23 marzo dalle 15:00 alle 15:30,ufficio B,2025-03-23T15:00:00,2025-03-23T15:30:00
+prenota ufficio B il 31 marzo dalle 17:15 alle 18:45,ufficio B,2025-03-31T17:15:00,2025-03-31T18:45:00
+prenota desk 18 il 04 febbraio dalle 08:15 alle 11:00,desk 18,2025-02-04T08:15:00,2025-02-04T11:00:00
+prenota auditorium il 09 marzo dalle 12:30 alle 14:45,auditorium,2025-03-09T12:30:00,2025-03-09T14:45:00
+prenota desk 40 il 16 marzo dalle 10:15 alle 12:45,desk 40,2025-03-16T10:15:00,2025-03-16T12:45:00
+prenota ufficio A il 23 febbraio dalle 20:15 alle 00:45,ufficio A,2025-02-23T20:15:00,2025-02-24T00:45:00
+prenota ufficio B il 13 febbraio dalle 15:00 alle 16:30,ufficio B,2025-02-13T15:00:00,2025-02-13T16:30:00
+prenota desk 40 il 18 febbraio dalle 20:30 alle 22:00,desk 40,2025-02-18T20:30:00,2025-02-18T22:00:00
+prenota desk 40 il 29 gennaio dalle 14:00 alle 16:45,desk 40,2025-01-29T14:00:00,2025-01-29T16:45:00
+prenota ufficio A il 03 febbraio dalle 11:45 alle 14:00,ufficio A,2025-02-03T11:45:00,2025-02-03T14:00:00
+prenota desk 18 oggi dalle 08:30 alle 10:15,desk 18,2025-01-13T08:30:00,2025-01-13T10:15:00
+prenota desk 40 il 24 febbraio dalle 18:30 alle 22:15,desk 40,2025-02-24T18:30:00,2025-02-24T22:15:00
+prenota sala meeting il 03 febbraio dalle 09:45 alle 12:00,sala meeting,2025-02-03T09:45:00,2025-02-03T12:00:00
+prenota sala meeting il 28 marzo dalle 17:00 alle 17:45,sala meeting,2025-03-28T17:00:00,2025-03-28T17:45:00
+prenota desk 40 il 09 febbraio dalle 15:00 alle 17:45,desk 40,2025-02-09T15:00:00,2025-02-09T17:45:00
+prenota ufficio A il prossimo sabato dalle 12:45 alle 16:30,ufficio A,2025-01-18T12:45:00,2025-01-18T16:30:00
+prenota sala riunioni il 18 febbraio dalle 11:45 alle 16:30,sala riunioni,2025-02-18T11:45:00,2025-02-18T16:30:00
+prenota sala meeting il 16 febbraio dalle 11:45 alle 12:15,sala meeting,2025-02-16T11:45:00,2025-02-16T12:15:00
+prenota desk 18 il 01 marzo dalle 09:45 alle 12:15,desk 18,2025-03-01T09:45:00,2025-03-01T12:15:00
+prenota sala meeting il 06 marzo dalle 15:15 alle 18:30,sala meeting,2025-03-06T15:15:00,2025-03-06T18:30:00
+prenota ufficio A il 23 marzo dalle 20:00 alle 22:45,ufficio A,2025-03-23T20:00:00,2025-03-23T22:45:00
+prenota sala meeting il 10 aprile dalle 09:30 alle 14:15,sala meeting,2025-04-10T09:30:00,2025-04-10T14:15:00
+prenota ufficio B il 26 marzo dalle 08:00 alle 09:30,ufficio B,2025-03-26T08:00:00,2025-03-26T09:30:00
+prenota ufficio A il 11 aprile dalle 10:00 alle 10:45,ufficio A,2025-04-11T10:00:00,2025-04-11T10:45:00
+prenota sala meeting il 23 febbraio dalle 08:45 alle 13:15,sala meeting,2025-02-23T08:45:00,2025-02-23T13:15:00
+prenota sala riunioni il 18 febbraio dalle 11:30 alle 15:00,sala riunioni,2025-02-18T11:30:00,2025-02-18T15:00:00
+prenota sala riunioni il 24 febbraio dalle 08:15 alle 09:45,sala riunioni,2025-02-24T08:15:00,2025-02-24T09:45:00
+prenota sala meeting il 07 marzo dalle 17:15 alle 18:30,sala meeting,2025-03-07T17:15:00,2025-03-07T18:30:00
+prenota ufficio A il 14 marzo dalle 18:45 alle 20:00,ufficio A,2025-03-14T18:45:00,2025-03-14T20:00:00
+prenota desk 40 il 04 marzo dalle 15:00 alle 19:15,desk 40,2025-03-04T15:00:00,2025-03-04T19:15:00
+prenota auditorium il 04 febbraio dalle 14:45 alle 18:30,auditorium,2025-02-04T14:45:00,2025-02-04T18:30:00
+prenota desk 18 il 16 febbraio dalle 20:00 alle 00:15,desk 18,2025-02-16T20:00:00,2025-02-17T00:15:00
+prenota desk 40 il 18 marzo dalle 15:45 alle 18:00,desk 40,2025-03-18T15:45:00,2025-03-18T18:00:00
+prenota ufficio B il 23 febbraio dalle 18:00 alle 21:30,ufficio B,2025-02-23T18:00:00,2025-02-23T21:30:00
+prenota desk 40 il 07 febbraio dalle 17:45 alle 19:15,desk 40,2025-02-07T17:45:00,2025-02-07T19:15:00
+prenota desk 18 il 02 febbraio dalle 19:45 alle 23:00,desk 18,2025-02-02T19:45:00,2025-02-02T23:00:00
+prenota desk 18 il 21 febbraio dalle 20:30 alle 21:15,desk 18,2025-02-21T20:30:00,2025-02-21T21:15:00
+prenota desk 18 il 19 febbraio dalle 17:15 alle 18:30,desk 18,2025-02-19T17:15:00,2025-02-19T18:30:00
+prenota desk 18 il 11 marzo dalle 08:30 alle 13:00,desk 18,2025-03-11T08:30:00,2025-03-11T13:00:00
+prenota desk 40 il 11 aprile dalle 20:00 alle 00:30,desk 40,2025-04-11T20:00:00,2025-04-12T00:30:00
+prenota desk 18 il 09 marzo dalle 08:45 alle 12:00,desk 18,2025-03-09T08:45:00,2025-03-09T12:00:00
+prenota auditorium il prossimo domenica dalle 20:00 alle 23:15,auditorium,2025-01-19T20:00:00,2025-01-19T23:15:00
+prenota ufficio B il 08 aprile dalle 08:45 alle 10:30,ufficio B,2025-04-08T08:45:00,2025-04-08T10:30:00
+prenota ufficio B il 03 febbraio dalle 20:00 alle 00:45,ufficio B,2025-02-03T20:00:00,2025-02-04T00:45:00
+prenota auditorium il 15 marzo dalle 09:15 alle 13:00,auditorium,2025-03-15T09:15:00,2025-03-15T13:00:00
+prenota sala meeting il 07 febbraio dalle 20:15 alle 23:30,sala meeting,2025-02-07T20:15:00,2025-02-07T23:30:00
+prenota ufficio A oggi dalle 16:45 alle 19:30,ufficio A,2025-01-12T16:45:00,2025-01-12T19:30:00
+prenota sala meeting il 02 febbraio dalle 14:30 alle 15:45,sala meeting,2025-02-02T14:30:00,2025-02-02T15:45:00
+prenota auditorium il 11 aprile dalle 17:15 alle 18:00,auditorium,2025-04-11T17:15:00,2025-04-11T18:00:00
+prenota desk 40 il 11 febbraio dalle 13:30 alle 18:15,desk 40,2025-02-11T13:30:00,2025-02-11T18:15:00
+prenota sala riunioni il 26 gennaio dalle 12:30 alle 17:15,sala riunioni,2025-01-26T12:30:00,2025-01-26T17:15:00
+prenota ufficio A il 10 marzo dalle 08:45 alle 13:00,ufficio A,2025-03-10T08:45:00,2025-03-10T13:00:00
+prenota sala riunioni il 31 marzo dalle 13:45 alle 15:00,sala riunioni,2025-03-31T13:45:00,2025-03-31T15:00:00
+prenota sala meeting il 14 febbraio dalle 17:15 alle 19:30,sala meeting,2025-02-14T17:15:00,2025-02-14T19:30:00
+prenota ufficio B il 18 marzo dalle 19:30 alle 20:45,ufficio B,2025-03-18T19:30:00,2025-03-18T20:45:00
+prenota desk 18 il 30 gennaio dalle 20:00 alle 23:45,desk 18,2025-01-30T20:00:00,2025-01-30T23:45:00
+prenota ufficio B il 26 gennaio dalle 14:45 alle 19:00,ufficio B,2025-01-26T14:45:00,2025-01-26T19:00:00
+prenota ufficio A il 03 aprile dalle 14:30 alle 16:15,ufficio A,2025-04-03T14:30:00,2025-04-03T16:15:00
+prenota sala riunioni il 24 febbraio dalle 18:00 alle 18:30,sala riunioni,2025-02-24T18:00:00,2025-02-24T18:30:00
+prenota desk 18 il 13 febbraio dalle 20:15 alle 00:30,desk 18,2025-02-13T20:15:00,2025-02-14T00:30:00
+prenota sala meeting lo scorso domenica dalle 11:45 alle 12:00,sala meeting,2025-01-12T11:45:00,2025-01-12T12:00:00
+prenota ufficio A il prossimo sabato dalle 17:15 alle 21:00,ufficio A,2025-01-18T17:15:00,2025-01-18T21:00:00
+prenota sala meeting il prossimo venerdì dalle 15:00 alle 16:15,sala meeting,2025-01-17T15:00:00,2025-01-17T16:15:00
+prenota ufficio B il 02 aprile dalle 16:00 alle 20:45,ufficio B,2025-04-02T16:00:00,2025-04-02T20:45:00
+prenota desk 40 il 20 gennaio dalle 15:15 alle 18:30,desk 40,2025-01-20T15:15:00,2025-01-20T18:30:00
+prenota ufficio B il 02 febbraio dalle 17:45 alle 22:00,ufficio B,2025-02-02T17:45:00,2025-02-02T22:00:00
+prenota desk 18 il 18 febbraio dalle 12:30 alle 13:15,desk 18,2025-02-18T12:30:00,2025-02-18T13:15:00
+prenota desk 40 il prossimo martedì dalle 15:15 alle 20:00,desk 40,2025-01-14T15:15:00,2025-01-14T20:00:00
+prenota desk 18 il 27 marzo dalle 13:15 alle 17:00,desk 18,2025-03-27T13:15:00,2025-03-27T17:00:00
+prenota sala meeting il 23 gennaio dalle 09:45 alle 14:00,sala meeting,2025-01-23T09:45:00,2025-01-23T14:00:00
+prenota ufficio A il 28 marzo dalle 18:00 alle 22:30,ufficio A,2025-03-28T18:00:00,2025-03-28T22:30:00
+prenota desk 40 il 26 gennaio dalle 10:45 alle 14:15,desk 40,2025-01-26T10:45:00,2025-01-26T14:15:00
+prenota auditorium domani dalle 16:00 alle 20:15,auditorium,2025-01-13T16:00:00,2025-01-13T20:15:00
+prenota desk 40 domani dalle 11:00 alle 14:15,desk 40,2025-01-14T11:00:00,2025-01-14T14:15:00
+prenota desk 18 il 03 febbraio dalle 14:15 alle 16:45,desk 18,2025-02-03T14:15:00,2025-02-03T16:45:00
+prenota sala meeting il 08 febbraio dalle 13:45 alle 15:30,sala meeting,2025-02-08T13:45:00,2025-02-08T15:30:00
+prenota sala meeting il 23 febbraio dalle 16:45 alle 17:00,sala meeting,2025-02-23T16:45:00,2025-02-23T17:00:00
+prenota auditorium domani dalle 19:30 alle 21:00,auditorium,2025-01-13T19:30:00,2025-01-13T21:00:00
+prenota auditorium il 06 aprile dalle 13:15 alle 17:00,auditorium,2025-04-06T13:15:00,2025-04-06T17:00:00
+prenota sala riunioni il 27 marzo dalle 09:15 alle 10:45,sala riunioni,2025-03-27T09:15:00,2025-03-27T10:45:00
+prenota sala meeting il 12 febbraio dalle 08:15 alle 12:45,sala meeting,2025-02-12T08:15:00,2025-02-12T12:45:00
+prenota ufficio B il 10 marzo dalle 14:00 alle 15:45,ufficio B,2025-03-10T14:00:00,2025-03-10T15:45:00
+prenota ufficio A il 05 aprile dalle 20:45 alle 21:00,ufficio A,2025-04-05T20:45:00,2025-04-05T21:00:00
+prenota desk 40 il 18 febbraio dalle 11:45 alle 14:00,desk 40,2025-02-18T11:45:00,2025-02-18T14:00:00
+prenota desk 40 il 10 aprile dalle 12:00 alle 14:30,desk 40,2025-04-10T12:00:00,2025-04-10T14:30:00
+prenota auditorium il 11 aprile dalle 20:45 alle 23:30,auditorium,2025-04-11T20:45:00,2025-04-11T23:30:00
+prenota desk 40 il 22 gennaio dalle 19:45 alle 22:15,desk 40,2025-01-22T19:45:00,2025-01-22T22:15:00
+prenota desk 18 domani dalle 11:45 alle 14:30,desk 18,2025-01-14T11:45:00,2025-01-14T14:30:00
+prenota ufficio B il 30 gennaio dalle 09:30 alle 14:00,ufficio B,2025-01-30T09:30:00,2025-01-30T14:00:00
+prenota ufficio A il 12 febbraio dalle 16:30 alle 19:15,ufficio A,2025-02-12T16:30:00,2025-02-12T19:15:00
+prenota ufficio A il 05 marzo dalle 10:15 alle 11:30,ufficio A,2025-03-05T10:15:00,2025-03-05T11:30:00
+prenota ufficio A il prossimo giovedì dalle 14:45 alle 18:30,ufficio A,2025-01-16T14:45:00,2025-01-16T18:30:00
+prenota desk 40 il 01 aprile dalle 16:45 alle 19:30,desk 40,2025-04-01T16:45:00,2025-04-01T19:30:00
+prenota sala riunioni il 28 gennaio dalle 13:30 alle 18:00,sala riunioni,2025-01-28T13:30:00,2025-01-28T18:00:00
+prenota desk 40 il 07 aprile dalle 10:15 alle 10:45,desk 40,2025-04-07T10:15:00,2025-04-07T10:45:00
+prenota auditorium il 30 marzo dalle 16:45 alle 18:00,auditorium,2025-03-30T16:45:00,2025-03-30T18:00:00
+prenota ufficio A il 25 marzo dalle 17:15 alle 17:45,ufficio A,2025-03-25T17:15:00,2025-03-25T17:45:00
+prenota ufficio A il 03 marzo dalle 09:45 alle 14:30,ufficio A,2025-03-03T09:45:00,2025-03-03T14:30:00
+prenota ufficio A il 03 febbraio dalle 11:30 alle 15:15,ufficio A,2025-02-03T11:30:00,2025-02-03T15:15:00
+prenota ufficio B il 29 marzo dalle 18:15 alle 23:00,ufficio B,2025-03-29T18:15:00,2025-03-29T23:00:00
+prenota ufficio B il 23 marzo dalle 11:15 alle 14:00,ufficio B,2025-03-23T11:15:00,2025-03-23T14:00:00
+prenota desk 18 il 14 marzo dalle 14:45 alle 18:15,desk 18,2025-03-14T14:45:00,2025-03-14T18:15:00
+prenota ufficio B il 04 febbraio dalle 13:45 alle 14:15,ufficio B,2025-02-04T13:45:00,2025-02-04T14:15:00
+prenota sala riunioni il 12 febbraio dalle 12:15 alle 13:00,sala riunioni,2025-02-12T12:15:00,2025-02-12T13:00:00
+prenota desk 40 il 13 febbraio dalle 17:15 alle 17:45,desk 40,2025-02-13T17:15:00,2025-02-13T17:45:00
+prenota auditorium il 30 marzo dalle 16:15 alle 20:30,auditorium,2025-03-30T16:15:00,2025-03-30T20:30:00
+prenota auditorium il 28 gennaio dalle 14:00 alle 14:15,auditorium,2025-01-28T14:00:00,2025-01-28T14:15:00
+prenota sala riunioni il 18 febbraio dalle 12:00 alle 15:30,sala riunioni,2025-02-18T12:00:00,2025-02-18T15:30:00
+prenota auditorium il 31 marzo dalle 19:00 alle 21:45,auditorium,2025-03-31T19:00:00,2025-03-31T21:45:00
+prenota desk 18 il 06 aprile dalle 11:00 alle 13:45,desk 18,2025-04-06T11:00:00,2025-04-06T13:45:00
+prenota ufficio B il 21 gennaio dalle 11:30 alle 11:45,ufficio B,2025-01-21T11:30:00,2025-01-21T11:45:00
+prenota auditorium il 19 marzo dalle 20:45 alle 23:00,auditorium,2025-03-19T20:45:00,2025-03-19T23:00:00
+prenota desk 18 il 22 marzo dalle 15:15 alle 16:00,desk 18,2025-03-22T15:15:00,2025-03-22T16:00:00
+prenota ufficio B il 22 marzo dalle 14:30 alle 18:00,ufficio B,2025-03-22T14:30:00,2025-03-22T18:00:00
+prenota auditorium il 07 aprile dalle 19:15 alle 21:30,auditorium,2025-04-07T19:15:00,2025-04-07T21:30:00
+prenota sala meeting il 01 aprile dalle 19:15 alle 20:00,sala meeting,2025-04-01T19:15:00,2025-04-01T20:00:00
+prenota auditorium il 10 febbraio dalle 13:15 alle 14:00,auditorium,2025-02-10T13:15:00,2025-02-10T14:00:00
+prenota ufficio A il 07 marzo dalle 14:00 alle 18:30,ufficio A,2025-03-07T14:00:00,2025-03-07T18:30:00
+prenota ufficio B il 01 aprile dalle 14:15 alle 19:00,ufficio B,2025-04-01T14:15:00,2025-04-01T19:00:00
+prenota desk 40 il prossimo giovedì dalle 18:30 alle 22:15,desk 40,2025-01-16T18:30:00,2025-01-16T22:15:00
+prenota auditorium lo scorso domenica dalle 09:45 alle 12:00,auditorium,2025-01-12T09:45:00,2025-01-12T12:00:00
+prenota desk 18 oggi dalle 15:45 alle 19:00,desk 18,2025-01-12T15:45:00,2025-01-12T19:00:00
+prenota ufficio B il 08 marzo dalle 17:30 alle 20:45,ufficio B,2025-03-08T17:30:00,2025-03-08T20:45:00
+prenota desk 40 il 05 aprile dalle 19:30 alle 20:00,desk 40,2025-04-05T19:30:00,2025-04-05T20:00:00
+prenota auditorium il 20 febbraio dalle 15:30 alle 16:15,auditorium,2025-02-20T15:30:00,2025-02-20T16:15:00
+prenota auditorium il 21 febbraio dalle 11:00 alle 12:30,auditorium,2025-02-21T11:00:00,2025-02-21T12:30:00
+prenota desk 18 il 01 aprile dalle 13:45 alle 14:00,desk 18,2025-04-01T13:45:00,2025-04-01T14:00:00
+prenota sala riunioni il 16 marzo dalle 15:45 alle 17:30,sala riunioni,2025-03-16T15:45:00,2025-03-16T17:30:00
+prenota auditorium il 21 gennaio dalle 15:30 alle 15:45,auditorium,2025-01-21T15:30:00,2025-01-21T15:45:00
+prenota ufficio A il 23 gennaio dalle 20:15 alle 20:30,ufficio A,2025-01-23T20:15:00,2025-01-23T20:30:00
+prenota desk 18 il 23 febbraio dalle 17:00 alle 21:15,desk 18,2025-02-23T17:00:00,2025-02-23T21:15:00
+prenota ufficio B il 14 marzo dalle 11:15 alle 14:30,ufficio B,2025-03-14T11:15:00,2025-03-14T14:30:00
+prenota auditorium il 19 febbraio dalle 19:15 alle 21:45,auditorium,2025-02-19T19:15:00,2025-02-19T21:45:00
+prenota sala meeting il 10 marzo dalle 12:00 alle 14:30,sala meeting,2025-03-10T12:00:00,2025-03-10T14:30:00
+prenota ufficio A il prossimo mercoledì dalle 15:45 alle 17:00,ufficio A,2025-01-15T15:45:00,2025-01-15T17:00:00
+prenota sala meeting il prossimo lunedì dalle 08:45 alle 12:15,sala meeting,2025-01-20T08:45:00,2025-01-20T12:15:00
+prenota sala riunioni il 30 marzo dalle 09:45 alle 10:30,sala riunioni,2025-03-30T09:45:00,2025-03-30T10:30:00
+prenota ufficio B il 26 febbraio dalle 09:45 alle 11:30,ufficio B,2025-02-26T09:45:00,2025-02-26T11:30:00
+prenota auditorium il 21 marzo dalle 17:30 alle 18:00,auditorium,2025-03-21T17:30:00,2025-03-21T18:00:00
+prenota sala meeting il 02 marzo dalle 11:30 alle 12:15,sala meeting,2025-03-02T11:30:00,2025-03-02T12:15:00
+prenota desk 40 il 21 gennaio dalle 16:30 alle 20:45,desk 40,2025-01-21T16:30:00,2025-01-21T20:45:00
+prenota sala meeting il 25 febbraio dalle 16:00 alle 16:30,sala meeting,2025-02-25T16:00:00,2025-02-25T16:30:00
+prenota desk 40 il 10 marzo dalle 12:30 alle 17:00,desk 40,2025-03-10T12:30:00,2025-03-10T17:00:00
+prenota desk 18 il 27 febbraio dalle 11:00 alle 14:15,desk 18,2025-02-27T11:00:00,2025-02-27T14:15:00
+prenota desk 18 il 15 marzo dalle 15:00 alle 15:30,desk 18,2025-03-15T15:00:00,2025-03-15T15:30:00
+prenota sala riunioni il 28 marzo dalle 11:00 alle 13:30,sala riunioni,2025-03-28T11:00:00,2025-03-28T13:30:00
+prenota sala meeting il 27 gennaio dalle 16:30 alle 16:45,sala meeting,2025-01-27T16:30:00,2025-01-27T16:45:00
+prenota ufficio B il 22 marzo dalle 10:15 alle 11:00,ufficio B,2025-03-22T10:15:00,2025-03-22T11:00:00
+prenota sala riunioni il 09 aprile dalle 11:45 alle 15:00,sala riunioni,2025-04-09T11:45:00,2025-04-09T15:00:00
+prenota desk 40 il prossimo venerdì dalle 11:30 alle 16:15,desk 40,2025-01-17T11:30:00,2025-01-17T16:15:00
+prenota ufficio A il 09 aprile dalle 12:00 alle 15:45,ufficio A,2025-04-09T12:00:00,2025-04-09T15:45:00
+prenota ufficio B oggi dalle 10:45 alle 13:00,ufficio B,2025-01-13T10:45:00,2025-01-13T13:00:00
+prenota ufficio B il 11 aprile dalle 13:00 alle 16:30,ufficio B,2025-04-11T13:00:00,2025-04-11T16:30:00
+prenota desk 18 il 08 marzo dalle 19:15 alle 21:00,desk 18,2025-03-08T19:15:00,2025-03-08T21:00:00
+prenota auditorium il 24 febbraio dalle 19:45 alle 21:00,auditorium,2025-02-24T19:45:00,2025-02-24T21:00:00
+prenota sala riunioni il 05 febbraio dalle 17:45 alle 20:15,sala riunioni,2025-02-05T17:45:00,2025-02-05T20:15:00
+prenota desk 40 il prossimo martedì dalle 16:00 alle 19:30,desk 40,2025-01-14T16:00:00,2025-01-14T19:30:00
+prenota sala riunioni il 17 marzo dalle 19:45 alle 20:30,sala riunioni,2025-03-17T19:45:00,2025-03-17T20:30:00
+prenota auditorium il prossimo venerdì dalle 18:00 alle 22:45,auditorium,2025-01-17T18:00:00,2025-01-17T22:45:00
+prenota ufficio B il 23 gennaio dalle 16:30 alle 17:45,ufficio B,2025-01-23T16:30:00,2025-01-23T17:45:00
+prenota sala riunioni il 06 febbraio dalle 18:15 alle 21:45,sala riunioni,2025-02-06T18:15:00,2025-02-06T21:45:00
+prenota sala riunioni il 24 gennaio dalle 13:30 alle 18:00,sala riunioni,2025-01-24T13:30:00,2025-01-24T18:00:00
+prenota ufficio B il prossimo sabato dalle 13:15 alle 16:30,ufficio B,2025-01-18T13:15:00,2025-01-18T16:30:00
+prenota auditorium il 06 aprile dalle 09:00 alle 13:45,auditorium,2025-04-06T09:00:00,2025-04-06T13:45:00
+prenota ufficio A il prossimo giovedì dalle 12:45 alle 14:00,ufficio A,2025-01-16T12:45:00,2025-01-16T14:00:00
+prenota sala riunioni il 21 febbraio dalle 11:45 alle 12:15,sala riunioni,2025-02-21T11:45:00,2025-02-21T12:15:00
+prenota ufficio A il 15 febbraio dalle 13:30 alle 16:00,ufficio A,2025-02-15T13:30:00,2025-02-15T16:00:00
+prenota desk 18 il 11 aprile dalle 20:00 alle 00:45,desk 18,2025-04-11T20:00:00,2025-04-12T00:45:00
+prenota desk 18 il 29 gennaio dalle 18:15 alle 18:45,desk 18,2025-01-29T18:15:00,2025-01-29T18:45:00
+prenota desk 40 il prossimo lunedì dalle 12:45 alle 13:30,desk 40,2025-01-20T12:45:00,2025-01-20T13:30:00
+prenota ufficio B il 24 febbraio dalle 19:15 alle 23:45,ufficio B,2025-02-24T19:15:00,2025-02-24T23:45:00
+prenota ufficio A il 15 marzo dalle 20:45 alle 00:00,ufficio A,2025-03-15T20:45:00,2025-03-16T00:00:00
+prenota desk 40 il 05 marzo dalle 10:15 alle 13:00,desk 40,2025-03-05T10:15:00,2025-03-05T13:00:00
+prenota desk 40 il 26 marzo dalle 14:00 alle 16:15,desk 40,2025-03-26T14:00:00,2025-03-26T16:15:00
+prenota sala riunioni il 29 gennaio dalle 19:45 alle 20:30,sala riunioni,2025-01-29T19:45:00,2025-01-29T20:30:00
+prenota ufficio B il 19 febbraio dalle 08:15 alle 10:45,ufficio B,2025-02-19T08:15:00,2025-02-19T10:45:00
+prenota desk 40 il 24 marzo dalle 15:00 alle 16:30,desk 40,2025-03-24T15:00:00,2025-03-24T16:30:00
+prenota ufficio B il 04 marzo dalle 08:30 alle 09:00,ufficio B,2025-03-04T08:30:00,2025-03-04T09:00:00
+prenota auditorium il prossimo venerdì dalle 14:45 alle 16:15,auditorium,2025-01-17T14:45:00,2025-01-17T16:15:00
+prenota desk 40 oggi dalle 13:00 alle 14:45,desk 40,2025-01-13T13:00:00,2025-01-13T14:45:00
+prenota ufficio B il 04 aprile dalle 09:45 alle 12:00,ufficio B,2025-04-04T09:45:00,2025-04-04T12:00:00
+prenota ufficio B il 22 marzo dalle 17:00 alle 17:15,ufficio B,2025-03-22T17:00:00,2025-03-22T17:15:00
+prenota ufficio B il prossimo venerdì dalle 17:00 alle 18:15,ufficio B,2025-01-17T17:00:00,2025-01-17T18:15:00
+prenota desk 40 il 11 febbraio dalle 18:00 alle 19:30,desk 40,2025-02-11T18:00:00,2025-02-11T19:30:00
+prenota auditorium il prossimo martedì dalle 17:30 alle 19:45,auditorium,2025-01-14T17:30:00,2025-01-14T19:45:00
+prenota desk 18 il 06 febbraio dalle 20:45 alle 23:30,desk 18,2025-02-06T20:45:00,2025-02-06T23:30:00
+prenota ufficio A il 11 aprile dalle 17:30 alle 18:45,ufficio A,2025-04-11T17:30:00,2025-04-11T18:45:00
+prenota ufficio B il 05 aprile dalle 10:45 alle 11:00,ufficio B,2025-04-05T10:45:00,2025-04-05T11:00:00
+prenota ufficio B il 21 marzo dalle 14:00 alle 15:30,ufficio B,2025-03-21T14:00:00,2025-03-21T15:30:00
+prenota sala meeting il 16 marzo dalle 12:30 alle 15:00,sala meeting,2025-03-16T12:30:00,2025-03-16T15:00:00
+prenota desk 18 il 28 marzo dalle 10:00 alle 12:30,desk 18,2025-03-28T10:00:00,2025-03-28T12:30:00
+prenota desk 18 il 24 marzo dalle 17:30 alle 20:00,desk 18,2025-03-24T17:30:00,2025-03-24T20:00:00
+prenota auditorium il 18 marzo dalle 09:00 alle 13:15,auditorium,2025-03-18T09:00:00,2025-03-18T13:15:00
+prenota desk 18 il 24 marzo dalle 09:45 alle 12:30,desk 18,2025-03-24T09:45:00,2025-03-24T12:30:00
+prenota sala meeting il 20 marzo dalle 11:30 alle 14:00,sala meeting,2025-03-20T11:30:00,2025-03-20T14:00:00
+prenota ufficio A il 04 marzo dalle 10:15 alle 15:00,ufficio A,2025-03-04T10:15:00,2025-03-04T15:00:00
+prenota sala meeting il 31 gennaio dalle 09:45 alle 14:15,sala meeting,2025-01-31T09:45:00,2025-01-31T14:15:00
+prenota sala riunioni il 21 febbraio dalle 19:45 alle 23:00,sala riunioni,2025-02-21T19:45:00,2025-02-21T23:00:00
+prenota auditorium il 05 marzo dalle 09:45 alle 11:15,auditorium,2025-03-05T09:45:00,2025-03-05T11:15:00
+prenota ufficio B il 07 marzo dalle 08:45 alle 09:15,ufficio B,2025-03-07T08:45:00,2025-03-07T09:15:00
+prenota ufficio A il 03 aprile dalle 10:45 alle 14:00,ufficio A,2025-04-03T10:45:00,2025-04-03T14:00:00
+prenota auditorium il 06 febbraio dalle 13:00 alle 15:45,auditorium,2025-02-06T13:00:00,2025-02-06T15:45:00
+prenota sala meeting il prossimo mercoledì dalle 09:30 alle 11:15,sala meeting,2025-01-15T09:30:00,2025-01-15T11:15:00
+prenota sala riunioni il 20 gennaio dalle 15:15 alle 15:45,sala riunioni,2025-01-20T15:15:00,2025-01-20T15:45:00
+prenota ufficio A il 24 gennaio dalle 13:45 alle 14:15,ufficio A,2025-01-24T13:45:00,2025-01-24T14:15:00
+prenota ufficio B il 09 marzo dalle 17:00 alle 19:15,ufficio B,2025-03-09T17:00:00,2025-03-09T19:15:00
+prenota auditorium il 13 febbraio dalle 12:00 alle 13:15,auditorium,2025-02-13T12:00:00,2025-02-13T13:15:00
+prenota ufficio B il 22 febbraio dalle 12:45 alle 17:15,ufficio B,2025-02-22T12:45:00,2025-02-22T17:15:00
+prenota sala riunioni il 12 aprile dalle 14:30 alle 16:45,sala riunioni,2025-04-12T14:30:00,2025-04-12T16:45:00
+prenota sala riunioni il 09 aprile dalle 20:30 alle 00:15,sala riunioni,2025-04-09T20:30:00,2025-04-10T00:15:00
+prenota sala riunioni il 21 febbraio dalle 19:45 alle 20:30,sala riunioni,2025-02-21T19:45:00,2025-02-21T20:30:00
+prenota desk 18 il 22 gennaio dalle 20:45 alle 00:30,desk 18,2025-01-22T20:45:00,2025-01-23T00:30:00
+prenota sala meeting il 04 marzo dalle 17:15 alle 20:45,sala meeting,2025-03-04T17:15:00,2025-03-04T20:45:00
+prenota ufficio A il 27 gennaio dalle 16:15 alle 17:45,ufficio A,2025-01-27T16:15:00,2025-01-27T17:45:00
+prenota desk 18 il 30 marzo dalle 15:30 alle 20:00,desk 18,2025-03-30T15:30:00,2025-03-30T20:00:00
+prenota ufficio A il 23 marzo dalle 08:30 alle 11:45,ufficio A,2025-03-23T08:30:00,2025-03-23T11:45:00
+prenota desk 40 il 04 febbraio dalle 11:45 alle 15:30,desk 40,2025-02-04T11:45:00,2025-02-04T15:30:00
+prenota sala riunioni il 22 marzo dalle 12:15 alle 13:00,sala riunioni,2025-03-22T12:15:00,2025-03-22T13:00:00
+prenota sala riunioni il 25 marzo dalle 10:15 alle 11:00,sala riunioni,2025-03-25T10:15:00,2025-03-25T11:00:00
+prenota sala meeting il 08 marzo dalle 15:15 alle 16:30,sala meeting,2025-03-08T15:15:00,2025-03-08T16:30:00
+prenota desk 40 il 30 gennaio dalle 19:45 alle 21:30,desk 40,2025-01-30T19:45:00,2025-01-30T21:30:00
+prenota auditorium il 07 febbraio dalle 17:45 alle 20:15,auditorium,2025-02-07T17:45:00,2025-02-07T20:15:00
+prenota sala riunioni il 04 febbraio dalle 16:15 alle 18:30,sala riunioni,2025-02-04T16:15:00,2025-02-04T18:30:00
+prenota desk 40 il 01 febbraio dalle 14:45 alle 18:30,desk 40,2025-02-01T14:45:00,2025-02-01T18:30:00
+prenota desk 40 il 28 marzo dalle 18:15 alle 20:30,desk 40,2025-03-28T18:15:00,2025-03-28T20:30:00
+prenota ufficio A il 13 marzo dalle 11:15 alle 13:00,ufficio A,2025-03-13T11:15:00,2025-03-13T13:00:00
+prenota ufficio B il 24 febbraio dalle 18:15 alle 18:30,ufficio B,2025-02-24T18:15:00,2025-02-24T18:30:00
+prenota auditorium il 09 aprile dalle 10:00 alle 14:15,auditorium,2025-04-09T10:00:00,2025-04-09T14:15:00
+prenota sala meeting il 10 aprile dalle 08:00 alle 11:45,sala meeting,2025-04-10T08:00:00,2025-04-10T11:45:00
+prenota auditorium il 10 febbraio dalle 20:15 alle 00:45,auditorium,2025-02-10T20:15:00,2025-02-11T00:45:00
+prenota sala meeting il 29 gennaio dalle 11:30 alle 15:15,sala meeting,2025-01-29T11:30:00,2025-01-29T15:15:00
+prenota sala riunioni il 30 marzo dalle 17:15 alle 21:30,sala riunioni,2025-03-30T17:15:00,2025-03-30T21:30:00
+prenota desk 40 il 08 aprile dalle 15:30 alle 17:45,desk 40,2025-04-08T15:30:00,2025-04-08T17:45:00
+prenota sala meeting il 15 febbraio dalle 19:30 alle 21:00,sala meeting,2025-02-15T19:30:00,2025-02-15T21:00:00
+prenota sala riunioni il 09 marzo dalle 13:45 alle 18:30,sala riunioni,2025-03-09T13:45:00,2025-03-09T18:30:00
+prenota ufficio B il 01 aprile dalle 09:15 alle 13:30,ufficio B,2025-04-01T09:15:00,2025-04-01T13:30:00
+prenota sala riunioni il prossimo mercoledì dalle 08:45 alle 11:00,sala riunioni,2025-01-15T08:45:00,2025-01-15T11:00:00
+prenota auditorium il 08 aprile dalle 10:15 alle 14:00,auditorium,2025-04-08T10:15:00,2025-04-08T14:00:00
+prenota desk 18 il 31 gennaio dalle 10:45 alle 14:15,desk 18,2025-01-31T10:45:00,2025-01-31T14:15:00
+prenota ufficio A il 08 febbraio dalle 11:00 alle 14:45,ufficio A,2025-02-08T11:00:00,2025-02-08T14:45:00
+prenota ufficio B il 11 aprile dalle 08:45 alle 12:15,ufficio B,2025-04-11T08:45:00,2025-04-11T12:15:00
+prenota desk 18 il 14 marzo dalle 08:45 alle 09:00,desk 18,2025-03-14T08:45:00,2025-03-14T09:00:00
+prenota ufficio B il 27 febbraio dalle 08:15 alle 11:30,ufficio B,2025-02-27T08:15:00,2025-02-27T11:30:00
+prenota sala meeting il 31 marzo dalle 13:15 alle 18:00,sala meeting,2025-03-31T13:15:00,2025-03-31T18:00:00
+prenota desk 40 il 19 febbraio dalle 10:30 alle 11:15,desk 40,2025-02-19T10:30:00,2025-02-19T11:15:00
+prenota desk 40 il prossimo giovedì dalle 18:45 alle 21:30,desk 40,2025-01-16T18:45:00,2025-01-16T21:30:00
+prenota sala riunioni il 28 gennaio dalle 15:30 alle 16:15,sala riunioni,2025-01-28T15:30:00,2025-01-28T16:15:00
+prenota desk 18 il 08 marzo dalle 15:30 alle 19:45,desk 18,2025-03-08T15:30:00,2025-03-08T19:45:00
+prenota ufficio A il 11 marzo dalle 14:15 alle 17:00,ufficio A,2025-03-11T14:15:00,2025-03-11T17:00:00
+prenota sala riunioni il 08 marzo dalle 10:00 alle 10:15,sala riunioni,2025-03-08T10:00:00,2025-03-08T10:15:00
+prenota desk 18 il 04 marzo dalle 11:30 alle 15:00,desk 18,2025-03-04T11:30:00,2025-03-04T15:00:00
+prenota ufficio A il 21 gennaio dalle 12:45 alle 15:15,ufficio A,2025-01-21T12:45:00,2025-01-21T15:15:00
+prenota ufficio B il 15 marzo dalle 18:15 alle 19:00,ufficio B,2025-03-15T18:15:00,2025-03-15T19:00:00
+prenota auditorium il 28 marzo dalle 19:45 alle 00:30,auditorium,2025-03-28T19:45:00,2025-03-29T00:30:00
+prenota desk 18 il 16 febbraio dalle 17:00 alle 19:45,desk 18,2025-02-16T17:00:00,2025-02-16T19:45:00
+prenota desk 18 il 17 marzo dalle 14:00 alle 18:45,desk 18,2025-03-17T14:00:00,2025-03-17T18:45:00
+prenota ufficio B il 21 febbraio dalle 13:00 alle 15:45,ufficio B,2025-02-21T13:00:00,2025-02-21T15:45:00
+prenota desk 18 il 06 aprile dalle 11:15 alle 14:45,desk 18,2025-04-06T11:15:00,2025-04-06T14:45:00
+prenota sala meeting il 08 febbraio dalle 10:15 alle 12:00,sala meeting,2025-02-08T10:15:00,2025-02-08T12:00:00
+prenota sala meeting il 01 marzo dalle 09:15 alle 09:30,sala meeting,2025-03-01T09:15:00,2025-03-01T09:30:00
+prenota desk 18 il 23 marzo dalle 17:00 alle 17:30,desk 18,2025-03-23T17:00:00,2025-03-23T17:30:00
+prenota ufficio B il 17 febbraio dalle 16:30 alle 18:00,ufficio B,2025-02-17T16:30:00,2025-02-17T18:00:00
+prenota sala riunioni oggi dalle 19:00 alle 20:45,sala riunioni,2025-01-12T19:00:00,2025-01-12T20:45:00
+prenota ufficio A il 08 marzo dalle 19:15 alle 20:30,ufficio A,2025-03-08T19:15:00,2025-03-08T20:30:00
+prenota desk 40 il 28 marzo dalle 16:30 alle 20:00,desk 40,2025-03-28T16:30:00,2025-03-28T20:00:00
+prenota auditorium il 03 aprile dalle 10:30 alle 14:15,auditorium,2025-04-03T10:30:00,2025-04-03T14:15:00
+prenota ufficio A il 17 marzo dalle 19:45 alle 20:30,ufficio A,2025-03-17T19:45:00,2025-03-17T20:30:00
+prenota desk 40 il 17 marzo dalle 16:15 alle 17:30,desk 40,2025-03-17T16:15:00,2025-03-17T17:30:00
+prenota ufficio A il 20 marzo dalle 18:45 alle 19:15,ufficio A,2025-03-20T18:45:00,2025-03-20T19:15:00
+prenota desk 18 il 22 marzo dalle 12:00 alle 15:45,desk 18,2025-03-22T12:00:00,2025-03-22T15:45:00
+prenota sala riunioni il 02 marzo dalle 19:00 alle 20:45,sala riunioni,2025-03-02T19:00:00,2025-03-02T20:45:00
+prenota desk 18 il 13 febbraio dalle 17:30 alle 21:00,desk 18,2025-02-13T17:30:00,2025-02-13T21:00:00
+prenota ufficio A il 26 marzo dalle 17:30 alle 20:45,ufficio A,2025-03-26T17:30:00,2025-03-26T20:45:00
+prenota desk 40 il 08 aprile dalle 13:45 alle 17:30,desk 40,2025-04-08T13:45:00,2025-04-08T17:30:00
+prenota sala meeting il 25 marzo dalle 20:45 alle 22:30,sala meeting,2025-03-25T20:45:00,2025-03-25T22:30:00
+prenota ufficio B il 11 febbraio dalle 08:45 alle 10:00,ufficio B,2025-02-11T08:45:00,2025-02-11T10:00:00
+prenota ufficio A il 27 gennaio dalle 08:00 alle 12:15,ufficio A,2025-01-27T08:00:00,2025-01-27T12:15:00
+prenota ufficio A il 22 gennaio dalle 14:45 alle 16:00,ufficio A,2025-01-22T14:45:00,2025-01-22T16:00:00
+prenota sala riunioni il 06 marzo dalle 13:30 alle 16:15,sala riunioni,2025-03-06T13:30:00,2025-03-06T16:15:00
+prenota ufficio A il 09 aprile dalle 16:45 alle 19:15,ufficio A,2025-04-09T16:45:00,2025-04-09T19:15:00
+prenota ufficio A il 07 aprile dalle 16:45 alle 19:15,ufficio A,2025-04-07T16:45:00,2025-04-07T19:15:00
+prenota desk 40 il 26 febbraio dalle 15:30 alle 15:45,desk 40,2025-02-26T15:30:00,2025-02-26T15:45:00
+prenota sala meeting il 13 marzo dalle 14:30 alle 14:45,sala meeting,2025-03-13T14:30:00,2025-03-13T14:45:00
+prenota sala riunioni il 02 marzo dalle 16:45 alle 19:30,sala riunioni,2025-03-02T16:45:00,2025-03-02T19:30:00
+prenota desk 40 il 06 marzo dalle 20:15 alle 23:00,desk 40,2025-03-06T20:15:00,2025-03-06T23:00:00
+prenota sala riunioni il 26 febbraio dalle 09:45 alle 13:15,sala riunioni,2025-02-26T09:45:00,2025-02-26T13:15:00
+prenota sala meeting il 22 febbraio dalle 09:15 alle 10:45,sala meeting,2025-02-22T09:15:00,2025-02-22T10:45:00
+prenota desk 40 il 19 febbraio dalle 12:00 alle 16:45,desk 40,2025-02-19T12:00:00,2025-02-19T16:45:00
+prenota ufficio B il 13 marzo dalle 12:00 alle 13:15,ufficio B,2025-03-13T12:00:00,2025-03-13T13:15:00
+prenota auditorium il 20 marzo dalle 14:45 alle 15:30,auditorium,2025-03-20T14:45:00,2025-03-20T15:30:00
+prenota desk 40 il 10 febbraio dalle 13:45 alle 14:30,desk 40,2025-02-10T13:45:00,2025-02-10T14:30:00
+prenota sala riunioni il 10 marzo dalle 08:15 alle 11:30,sala riunioni,2025-03-10T08:15:00,2025-03-10T11:30:00

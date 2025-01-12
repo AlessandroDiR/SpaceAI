@@ -4,10 +4,14 @@ import locale
 locale.setlocale(locale.LC_ALL, "it_IT")
 
 class Humanize:
+    """
+    Humanize offers a set of utils to humanize data
+    """
+
     @staticmethod
-    def humanize_date(target_date, reference_date=None, as_duration=False):
+    def humanize_date(target_date: datetime, reference_date: datetime | None = None, as_duration: bool = False) -> str:
         """
-        Umanizza una data rispetto a una data di riferimento.
+        Humanize the date part of a datetime relative to a reference date
         """
         if reference_date is None:
             reference_date = datetime.now()
@@ -36,9 +40,9 @@ class Humanize:
             return target_date.strftime("il %d %B %Y")  # Giorno, mese e anno
 
     @staticmethod
-    def humanize_time(start_datetime, end_datetime=None, as_duration=False):
+    def humanize_time(start_datetime: datetime, end_datetime: datetime | None = None, as_duration: bool = False) -> str:
         """
-        Umanizza un intervallo temporale o un orario con una durata.
+        Humanize the time part of a datetime or a range of datetime
         """
         start_time = start_datetime.time()
         end_time = end_datetime.time() if end_datetime else None
@@ -62,8 +66,12 @@ class Humanize:
 
     @staticmethod
     def humanize_datetime_range(start_datetime, end_datetime=None, reference_datetime=None, as_duration=False):
-        """
-        Umanizza un intervallo temporale completo con data e ora.
+        """Humanize a datetime range
+        
+        Args:\n
+        start_datetime -- the start of datetime range\n
+        end_datetime -- the end of datetime range\n
+        as_duration -- humanize range with duration (e.g.: \"tra 2 giorni dalle 14 per 2 ore\")
         """
         if reference_datetime is None:
             reference_datetime = datetime.now()

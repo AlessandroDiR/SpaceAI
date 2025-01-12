@@ -1,10 +1,21 @@
 {
   "io": {
-    "out_folder": "./datasets"
+    "out_folder": "../../datasets"
   },
-  "synth_generator": {
+  "sentences_generator": {
     "total_objects": 5000,
     "test_percentage": 0.3,
-    "validation_percentage": 0.2
+    "validation_percentage": 0.2,
+    "params": {
+      "train": {
+        "as_duration": "mix"
+      },
+      "test": {
+        "as_duration": "mix"
+      },
+      "validation": {
+        "as_duration": "mix"
+      }
+    }
   }
 }
