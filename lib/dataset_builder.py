@@ -18,9 +18,9 @@ class DatasetBuilder():
     te_objects: int         # Totale oggetti per test
     va_objects: int         # Totale oggetti per validazione
 
-    tr_as_duration: bool | str
-    te_as_duration: bool | str
-    va_as_duration: bool | str
+    tr_as_duration: bool | str  # Se le date nei dati di train devono essere rappresentate come durata
+    te_as_duration: bool | str  # Se le date nei dati di test devono essere rappresentate come durata
+    va_as_duration: bool | str  # Se le date nei dati di validazione devono essere rappresentate come durata
 
     def __init__(self, cfg: object) -> None:
         is_valid_path_err = self.__is_valid_path__(Path(cfg.io.out_folder))
@@ -124,7 +124,7 @@ class DatasetBuilder():
 
 
 if __name__ == "__main__":
-    cfg_file, schema_file = Path("../../config/config.json"), Path("../../config/config_schema.json")
+    cfg_file, schema_file = Path("../config/config.json"), Path("../config/config_schema.json")
 
     valid_input = cfg_file.is_file() and schema_file.is_file() and cfg_file.suffix == '.json' and schema_file.suffix == '.json'
  

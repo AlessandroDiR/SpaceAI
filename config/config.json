@@ -1,6 +1,6 @@
 {
   "io": {
-    "out_folder": "../../datasets"
+    "out_folder": "../datasets"
   },
   "sentences_generator": {
     "total_objects": 5000,

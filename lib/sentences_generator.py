@@ -2,8 +2,7 @@ from datetime import datetime, timedelta
 import random
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
-from src.lib.humanize import Humanize
+from humanize import Humanize
 
 class SentencesGenerator:
 
