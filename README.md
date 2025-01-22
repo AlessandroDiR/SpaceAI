@@ -5,6 +5,24 @@ Elaborato soggetto ad esame per il corso "Laboratorio di Ottimizzazione, Intelli
 Università di Bologna  
 Corso di laurea: Tecnologie dei Sistemi Informatici
 
+## Obiettivo del progetto
+
+Questo progetto porta un caso di NLP in cui l'obiettivo è creare un modello basato su una rete neurale sequenziale (seq2seq) a supporto di un'applicazione di prenotazione di asset aziendali. Il compito del modello è quello estrarre informazioni strutturate da comandi o frasi di input in linguaggio naturale. Ad esempio:
+
+Input
+```
+"Prenota la sala riunioni domani dalle 10 a mezzogiorno"
+```
+
+Output
+```json
+{
+  "asset": "sala riunioni",
+  "start": "2025-01-23T10:00:00",
+  "end": "2025-01-23T12:00:00"
+}
+```
+
 ## 📦 Struttura repository
 
 - ⚙️ Config  
