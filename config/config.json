@@ -3,7 +3,7 @@
     "out_folder": "../datasets"
   },
   "sentences_generator": {
-    "total_objects": 5000,
+    "total_objects": 2000,
     "test_percentage": 0.3,
     "validation_percentage": 0.2,
     "params": {
