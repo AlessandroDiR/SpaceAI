@@ -34,7 +34,7 @@ raccolta dei dataset di train, test e validation generati sinteticamente
 - 📚 Lib  
 contiene le classi utili alla generazione di dati sintetici
 
-- 🎁 Out
+- 🎁 Out  
 contiene i modelli salvati
 
 - ✨ SpaceAI.ipynb  
