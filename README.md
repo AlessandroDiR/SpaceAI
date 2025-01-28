@@ -26,7 +26,7 @@ Output
 ## 📦 Struttura repository
 
 - ⚙️ Config  
-contiene un json di configurazione e il relativo json-shema con i parametri utili all'addestraemento
+contiene un json di configurazione e il relativo json-shema con i parametri utili all'addestramento
 
 - 💾 Datasets  
 raccolta dei dataset di train, test e validation generati sinteticamente
@@ -46,6 +46,5 @@ Notebook per l'addestramento e test del modello
 | PyTorch | Torchtext | Python |
 | ------- | --------- | ------- |
 | 2.2.0 | 0.17.0 | >=3.8, <=3.11 |
-Pyhton <= 3.11 per compatibilità con torchtext
 
 Dopo aver clonato (o scaricato) il repository aprire il notebook ed eseguire i blocchi nell'ordine elencato
